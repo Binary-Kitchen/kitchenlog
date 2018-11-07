@@ -2,8 +2,8 @@ BEGIN: 2018-08-11
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/20180812_132725.jpg, 600
-MEDIA: kitchenlog/20180812_132635.jpg, 600
+MEDIA: 20180812_132725.jpg, 600
+MEDIA: 20180812_132635.jpg, 600
 
   * Kitchen wird aufgeräumt
   * Neue Sofas werden geholt und alte entsorgt

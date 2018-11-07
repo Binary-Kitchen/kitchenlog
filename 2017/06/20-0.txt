@@ -2,7 +2,7 @@ BEGIN: 2017-06-20
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/img_1387.jpg, 600
+MEDIA: img_1387.jpg, 600
 
   * 3D Drucker wird umgebaut auf feineren Extruder für das Bürgerfest
   * Es wird weiter an Deko und Beleuchtung für das Bürgerfest gearbeitet

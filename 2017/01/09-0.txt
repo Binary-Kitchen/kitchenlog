@@ -2,7 +2,7 @@ BEGIN: 2017-01-09
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog2017-01-09.png, 300
+MEDIA: kitchenlog2017-01-09.png, 300
 
   * Große Diskussion um weitere Umbaumaßnahmen.
   * Ralf bastelt weiter mit Floppys und spielt schon "Alle meine Entchen"

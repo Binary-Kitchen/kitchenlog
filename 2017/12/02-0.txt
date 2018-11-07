@@ -2,7 +2,7 @@ BEGIN: 2017-12-02
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/dekupier.png, 600
+MEDIA: dekupier.png, 600
 
   * Es ist wieder Open Lab in der Kitchen! In der Werkstatt wird fleißig gewerkelt
   * unter anderem werden die Proxxon Stichsäge und die Dekupiersäge ausprobiert, welche uns gespendet wurden

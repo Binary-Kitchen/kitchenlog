@@ -2,8 +2,8 @@ BEGIN: 2018-05-08
 END: None
 TOPIC: Küchen-Radio
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2018-05-09.jpg, 600
-MEDIA: kitchenlog/img_20180509_190844-collage.jpg, 400
+MEDIA: kitchenlog_2018-05-09.jpg, 600
+MEDIA: img_20180509_190844-collage.jpg, 400
 
   * Antennenkabel bauen
   * Erfahrungsaustausch Magnetic Loop Antennen

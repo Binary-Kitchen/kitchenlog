@@ -2,7 +2,7 @@ BEGIN: 2018-02-19
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2018-02-19.jpg, 600
+MEDIA: kitchenlog_2018-02-19.jpg, 600
 
   * 3D-Drucken geht weiter \...
   * Lautsprecherhalterung wird in der Werkstatt gebaut

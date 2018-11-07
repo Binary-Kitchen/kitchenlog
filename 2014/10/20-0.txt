@@ -2,7 +2,7 @@ BEGIN: 2014-10-20
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2014-10-20.jpg, 300
+MEDIA: kitchenlog_2014-10-20.jpg, 300
 
 Montagstreff.\\
 Es rührt sich wieder richtig was.

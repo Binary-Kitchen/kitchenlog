@@ -2,8 +2,8 @@ BEGIN: 2018-02-10
 END: None
 TOPIC: Küchen-Party
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2018-02-10_1.jpg, 600
-MEDIA: kitchenlog/kitchenlog_2018-02-10_2.jpg, 600
-MEDIA: kitchenlog/kitchenlog_2018-02-10_3.jpg, 600
+MEDIA: kitchenlog_2018-02-10_1.jpg, 600
+MEDIA: kitchenlog_2018-02-10_2.jpg, 600
+MEDIA: kitchenlog_2018-02-10_3.jpg, 600
 
   * Wir begrüßen viele Gäste auf unserer Party und freuen uns, dass so viele gekommen sind

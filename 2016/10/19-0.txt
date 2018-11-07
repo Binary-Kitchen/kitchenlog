@@ -2,7 +2,7 @@ BEGIN: 2016-10-19
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/24741476901034687.jpg, 300
+MEDIA: 24741476901034687.jpg, 300
 
   * HF-Generator und neues Oszi für den Umbau eines Siemens C5 für den Amateurfunk vorbereitet
   * Siemens C5 zerlegt für einen ersten Überblick weitere Infos beim Projekt [[projekte:kuechenradio:c5_umbau:start|C5 Umbau]]

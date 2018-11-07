@@ -2,7 +2,7 @@ BEGIN: 2018-04-07
 END: None
 TOPIC: OpenLab
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2018-04-07.jpg, 600
+MEDIA: kitchenlog_2018-04-07.jpg, 600
 
   * Es wird weiter an der [[projekte:mpcnc|MPCNC]] gebaut
   * Die Grundplatte wird weiter verstärkt

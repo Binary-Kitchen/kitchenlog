@@ -2,7 +2,7 @@ BEGIN: 2018-02-12
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/20180213_071119.jpg, 600
+MEDIA: 20180213_071119.jpg, 600
 
   * Am [[projekte:magicmirror|Magic Mirror]] wird weitergearbeitet \o/
   * Es gibt ein großes Restlessen mit viel Kääääse

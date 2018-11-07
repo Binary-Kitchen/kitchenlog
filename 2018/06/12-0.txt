@@ -2,7 +2,7 @@ BEGIN: 2018-06-12
 END: None
 TOPIC: Küchenradio
 APPENDIX: None
-MEDIA: kitchenlog/20180615_102237.jpg, 600
+MEDIA: 20180615_102237.jpg, 600
 
   * HF to LF Converter wird vorgestellt
   * Spielen mit SDR

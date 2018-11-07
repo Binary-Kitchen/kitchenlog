@@ -2,8 +2,8 @@ BEGIN: 2017-11-20
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/784051511204151861.jpg, 200
-MEDIA: kitchenlog/784081511210793076.jpg, 200
+MEDIA: 784051511204151861.jpg, 200
+MEDIA: 784081511210793076.jpg, 200
 
   * es gibt eine weitere Schokokalypse!
   * in der Werkstatt wird ein Bett gebaut

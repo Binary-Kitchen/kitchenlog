@@ -2,7 +2,7 @@ BEGIN: 2017-06-21
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-06-21.png, 600
+MEDIA: kitchenlog_2017-06-21.png, 600
 
   * In der Kitchen ist es heiß wie in einer Sauna!
   * Netzteil & Steuergerät für Bürgerfestbeleuchtung wird gebaut

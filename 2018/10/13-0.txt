@@ -2,7 +2,7 @@ BEGIN: 2018-10-13
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/entry/2018/10/img_20181013_152533-collage.jpg, 600
+MEDIA: img_20181013_152533-collage.jpg, 600
 
  
   * Lötworkshop bei con_temporary

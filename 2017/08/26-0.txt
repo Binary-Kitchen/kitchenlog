@@ -2,7 +2,7 @@ BEGIN: 2017-08-26
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-08-26.jpg, 400
+MEDIA: kitchenlog_2017-08-26.jpg, 400
 
   * Viel Freifunk
   * Neuer Bausatz für den Lötworkshop wird vorgestellt

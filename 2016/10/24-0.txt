@@ -2,7 +2,7 @@ BEGIN: 2016-10-24
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/2016-10-24.png, 300
+MEDIA: 2016-10-24.png, 300
 
   * Aufräumen vom Wochenende
   * Feldtelefon zerlegen für weitere Versuche sie zu lackieren

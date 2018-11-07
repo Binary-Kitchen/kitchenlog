@@ -2,8 +2,8 @@ BEGIN: 2017-06-28
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/img_20170628_224858.jpg, 600
-MEDIA: kitchenlog/img_20170628_202922.jpg, 600
+MEDIA: img_20170628_224858.jpg, 600
+MEDIA: img_20170628_202922.jpg, 600
 
   * Sorting all the things
   * Lötworkshop ist wieder sortiert/aufgefüllt und gelabelt

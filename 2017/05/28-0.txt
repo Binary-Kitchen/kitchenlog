@@ -2,8 +2,8 @@ BEGIN: 2017-05-28
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/img_1111.jpg, 200
-MEDIA: kitchenlog/video2.mjpg.jpeg, 200
+MEDIA: img_1111.jpg, 200
+MEDIA: video2.mjpg.jpeg, 200
 
   * Eggbot wurde vorgestellt. 
   * Netzwerkkamera wurde eingerichtet um die Mausefallen im Swapspace zu kontrollieren. 

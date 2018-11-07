@@ -2,6 +2,6 @@ BEGIN: 2017-12-04
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/img_20171204_200137863.jpg, 600
+MEDIA: img_20171204_200137863.jpg, 600
 
   * heute gibt es mal wieder klassische Brotzeit, zum Nachtisch einen italienischen Pandoro "Goldkuchen"

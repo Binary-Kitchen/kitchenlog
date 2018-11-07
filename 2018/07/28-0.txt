@@ -2,7 +2,7 @@ BEGIN: 2018-07-28
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/samstag.jpg, 600
+MEDIA: samstag.jpg, 600
 
   * Die fertigen Beuten werden lassiert
   * Ein Sportwagen (Lotus Elise) wird bewundert und zerlegt

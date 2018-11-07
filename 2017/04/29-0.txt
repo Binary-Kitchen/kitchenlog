@@ -2,7 +2,7 @@ BEGIN: 2017-04-29
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-04-29.png, 600
+MEDIA: kitchenlog_2017-04-29.png, 600
 
   * Still Renovating
   * Es geht "langsam" voran

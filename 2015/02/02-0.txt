@@ -2,6 +2,6 @@ BEGIN: 2015-02-02
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/img_20150202_203205.jpg, 200
+MEDIA: img_20150202_203205.jpg, 200
 
 Spaß mit einer etwas unkooperativen 3g-Basisstation (im Bild), Scharfe koreanische Nudeln, Nerdliches Beisammensein. Das "Tennis For Two" im Labor ist wieder in betriebsbereitem Zustand.

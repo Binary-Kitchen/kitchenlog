@@ -2,7 +2,7 @@ BEGIN: 2018-10-27
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/entry/2018/10/20181105_084540-collage.jpg, 400
+MEDIA: 20181105_084540-collage.jpg, 400
 
  
   * es regnet und regnet und regnet - perfektes Werkstattwetter!

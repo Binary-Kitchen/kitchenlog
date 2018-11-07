@@ -2,7 +2,7 @@ BEGIN: 2017-08-28
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-08-28.png, 600
+MEDIA: kitchenlog_2017-08-28.png, 600
 
   * Viele viele Hardwarespenden werden abgeholt und in die Kitchen einsortiert
   * Bänke werden weiter abgeklebt und gestrichen

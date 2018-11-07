@@ -2,8 +2,8 @@ BEGIN: 2018-10-08
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/entry/2018/10/20181008_115108-collage.jpg, 600
-MEDIA: kitchenlog/entry/2018/10/20181008_115145-collage.jpg, 600
+MEDIA: 20181008_115108-collage.jpg, 600
+MEDIA: 20181008_115145-collage.jpg, 600
 
  
   * Das Punktschweißgerät schweißt wieder

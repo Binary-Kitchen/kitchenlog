@@ -2,7 +2,7 @@ BEGIN: 2017-03-18
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/184011489867808345.jpg, 400
+MEDIA: 184011489867808345.jpg, 400
 
   * Noby patched die LED-Stripes mit neuer Software
   * Der Wand-PC wird nach einigen Problemen mit der Grafikkarte doch noch erfolgreich installiert

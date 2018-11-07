@@ -2,7 +2,7 @@ BEGIN: 2014-06-11
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/mz-artikel_2wickl.jpg, 200
+MEDIA: mz-artikel_2wickl.jpg, 200
 
 Die Kitchen wird in der Berichterstattung zum ZWICKL Dokumentarfilmfestival genannt.
   * ListenpunktLink zum Artikel: http://www.mittelbayerische.de/region/schwandorf/schwandorf/artikel/zwickl-wird-noch-viel-attraktiver/1076453/zwickl-wird-noch-viel-attraktiver.html

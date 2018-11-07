@@ -2,7 +2,7 @@ BEGIN: 2014-03-29
 END: None
 TOPIC: Küchenzeit
 APPENDIX: all day(ish)
-MEDIA: kitchenlog/2014-03-29_18.00.21.jpg, 200
+MEDIA: 2014-03-29_18.00.21.jpg, 200
 
 nächste Ausbaustufe implementiert:
 Die Flexibilität von Kabelkanälen genutzt, um weitere Kabel im Foyer einzuziehen für den Hausbus für die Heizungssteuerung, Audio für die Stereoanlage und Video für den zukünftigen Beamer. Mehrere 100m Leitung. Der Schlagbohrer freute sich über den Einsatz um weitere Kabelkanäle zu legen, die Matrix ins Fenster zu heben und in der Küche einen weiteren Schrank anzubringen. Dabei wird wiedermal klar, dass die Wandqualität zwischen Granit und Pappe schwankt. Moderne Dübelvarianten aller Art könnten dies jedoch ausgleichen.

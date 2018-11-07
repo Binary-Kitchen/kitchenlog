@@ -2,8 +2,8 @@ BEGIN: 2018-06-08
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/ichhabdemo.jpg, 200
-MEDIA: kitchenlog/ichhabpolizei.jpg, 200
+MEDIA: ichhabdemo.jpg, 200
+MEDIA: ichhabpolizei.jpg, 200
 
   * Eine Tanz-Demonstration für mehr Menschenwürde kommt zufällig auf ihrem Weg zur Erstaufnahmeeinrichtung an unserem Space vorbei ("Ankerzentren wegbassen")
   * Wir tanzen mit, machen auch Lärm und trinken zusammen Mate. 

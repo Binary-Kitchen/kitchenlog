@@ -2,7 +2,7 @@ BEGIN: 2018-06-19
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/plenum_juni18.png, 500
+MEDIA: plenum_juni18.png, 500
 
   * das 4. Plenum fand statt: [[organisation:plenum:plenum_04|Protokoll]]
   * und kurz vor Sonnenuntergang noch schnell den Boden vom Campusfest gereinigt und den Lichtschacht aufgeflext, der in letzter Zeit bei Starkregen Wasser durchs Fenster gedrückt hat

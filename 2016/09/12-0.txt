@@ -2,7 +2,7 @@ BEGIN: 2016-09-12
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/20160912_191150_001.jpg, 300
+MEDIA: 20160912_191150_001.jpg, 300
 
   * Wegen der Hitze halten sich die meisten vor der Kitchen auf
   * Marove druckt weiter am Alien Facehugger

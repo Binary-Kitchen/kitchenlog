@@ -2,8 +2,8 @@ BEGIN: 2017-03-13
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/20170313_175423.jpg, 330
-MEDIA: kitchenlog/20170313_175521.jpg, 330
+MEDIA: 20170313_175423.jpg, 330
+MEDIA: 20170313_175521.jpg, 330
 
   * **Mitgliederversammlung 2017** mit Vorstandswahlen
   * Der neue Vorstand ist der alte

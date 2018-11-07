@@ -2,7 +2,7 @@ BEGIN: 2017-05-06
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-05-06.png, 600
+MEDIA: kitchenlog_2017-05-06.png, 600
 
   * Werkbänke fertiggestellt
   * Ersten Schränke an die Wand geschraubt

@@ -2,8 +2,8 @@ BEGIN: 2018-06-09
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/mediarack.png, 400
-MEDIA: kitchenlog/sovielwiemanzwingenkann.jpg, 200
+MEDIA: mediarack.png, 400
+MEDIA: sovielwiemanzwingenkann.jpg, 200
 
   * Ein spezifisch auf ventis Lautsprecher, Fernseher und Computer zugeschnittenes Möbelstück wurde CAD-geplant und gebaut. Wer ähnliches vor hat, findet [[https://github.com/ventilator/cabinetry|hier (Zeichnungen)]] oder fragt einfach venti für Anregungen und Beratung
   * Leimarbeiten nur mit vereinten Kräften bezwingbar

@@ -2,7 +2,7 @@ BEGIN: 2018-10-01
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/entry/2018/10/659891538425416212.jpg, 600
+MEDIA: 659891538425416212.jpg, 600
 
  
   * Siebdruck für die Fachschaft Informatik/Mathematik

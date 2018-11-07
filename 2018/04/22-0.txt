@@ -2,7 +2,7 @@ BEGIN: 2018-04-22
 END: None
 TOPIC: Server-Tausch
 APPENDIX: None
-MEDIA: kitchenlog/server-umabu.jpeg, 600
-MEDIA: kitchenlog/ruben.jpeg, 600
+MEDIA: server-umabu.jpeg, 600
+MEDIA: ruben.jpeg, 600
 
   * MoepMan und Mephisto tauschen den alten VM-Host im RZ aus

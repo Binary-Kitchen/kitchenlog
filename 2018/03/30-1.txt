@@ -2,11 +2,11 @@ BEGIN: 2018-03-30
 END: 2018-04-02
 TOPIC: Easterhegg
 APPENDIX: None
-MEDIA: kitchenlog/eh182.png, 200
-MEDIA: kitchenlog/eh186.png, 200
-MEDIA: kitchenlog/eh183.png, 115
-MEDIA: kitchenlog/eh184.png, 200
-MEDIA: kitchenlog/siebdruckkaefer.jpg, 600
+MEDIA: eh182.png, 200
+MEDIA: eh186.png, 200
+MEDIA: eh183.png, 115
+MEDIA: eh184.png, 200
+MEDIA: siebdruckkaefer.jpg, 600
 
   * Lötkurs  
   * Even mooaaar Nibbleklammern 

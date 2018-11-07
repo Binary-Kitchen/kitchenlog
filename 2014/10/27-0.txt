@@ -2,7 +2,7 @@ BEGIN: 2014-10-27
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/oberfraese.jpg, 300
+MEDIA: oberfraese.jpg, 300
 
 Montagstreff.
   * Julian kocht Nudeln mit Käsesauce

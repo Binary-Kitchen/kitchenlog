@@ -2,8 +2,8 @@ BEGIN: 2018-04-26
 END: None
 TOPIC: Lötworkshop
 APPENDIX: None
-MEDIA: kitchenlog/img_20180426_181745.jpg, 600
-MEDIA: kitchenlog/img_20180426_182252.jpg, 600
+MEDIA: img_20180426_181745.jpg, 600
+MEDIA: img_20180426_182252.jpg, 600
 
   * Lötworkshop an der OTH Regensburg
   * 17:00-20:00 Uhr Raum S104 (Fakultät EI, im Gebäude der Seybothstraße im 1. Stock)

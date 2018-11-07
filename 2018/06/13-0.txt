@@ -2,8 +2,8 @@ BEGIN: 2018-06-13
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/forseti-screenshot_20180613_172540.png, 300
-MEDIA: kitchenlog/img_20180613_212219-1040x780.jpg, 300
+MEDIA: forseti-screenshot_20180613_172540.png, 300
+MEDIA: img_20180613_212219-1040x780.jpg, 300
 
   * Neuer Server: https://forseti.binary.kitchen , Check_MK monitor 
   * Die Urform für die zukünftigen Kitchenseifeformen wird 3D-gedruckt, gespachtelt und geschliffen 

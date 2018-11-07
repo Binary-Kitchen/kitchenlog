@@ -2,7 +2,7 @@ BEGIN: 2017-09-08
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-09-08_1.png, 600
+MEDIA: kitchenlog_2017-09-08_1.png, 600
 
   * Nach dem anbringen von Teflongleitern sind die Bänke endlich "fertig"
   * Werkstatt wird aufgeräumt und Material für Samstag bereitgelegt

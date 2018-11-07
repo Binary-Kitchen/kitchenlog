@@ -2,7 +2,7 @@ BEGIN: 2018-08-14
 END: None
 TOPIC: Küchenradio
 APPENDIX: None
-MEDIA: kitchenlog/20180814_205939.jpg, 600
+MEDIA: 20180814_205939.jpg, 600
 
   * Weitere Experimente mit Rad1o Badge
   * Es wird weiter am Shack gearbeitet

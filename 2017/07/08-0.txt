@@ -2,7 +2,7 @@ BEGIN: 2017-07-08
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_08-07-2017.png, 600
+MEDIA: kitchenlog_08-07-2017.png, 600
 
   * ooh wee renovieren bei 30+ Grad \...
   * Der kleine Raum wurde fertig verspachtelt, abgeschliffen und gestrichen \o/

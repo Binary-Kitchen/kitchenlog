@@ -2,7 +2,7 @@ BEGIN: 2017-04-24
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/afu_2017-04-24.jpg, 400
+MEDIA: afu_2017-04-24.jpg, 400
 
   * Fleissiges Werken an der Zweigstelle gegenüber.
   * Kurze Vorbesprechung der SHA-Fahrer

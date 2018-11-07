@@ -2,7 +2,7 @@ BEGIN: 2016-10-20
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/2016-10-20.png, 300
+MEDIA: 2016-10-20.png, 300
 
   * Der neue Getränkeautomat wird geliefert und wartet vor der Tür
   * Mit vereinten Kräften wird er in transportierbare Fragmente zerlegt, in die Küche transportiert und wieder zusammen gesetzt.

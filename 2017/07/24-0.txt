@@ -2,7 +2,7 @@ BEGIN: 2017-07-24
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-07-24.jpg, 600
+MEDIA: kitchenlog_2017-07-24.jpg, 600
 
   * Schilder für den SHA-Maibaum werden bemalt
   * Siebdruck im Keller

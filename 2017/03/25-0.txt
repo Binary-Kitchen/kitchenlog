@@ -2,7 +2,7 @@ BEGIN: 2017-03-25
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/20170401_232533.jpg, 400
+MEDIA: 20170401_232533.jpg, 400
 
   * Wir bestellen und was zu essen und werfen den Beamer an
   * Im Keller wird weiter am [[projekte:magicmirror|Magic Mirror Projekt]] gearbeitet

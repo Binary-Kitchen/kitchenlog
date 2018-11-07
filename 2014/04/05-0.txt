@@ -2,10 +2,10 @@ BEGIN: 2014-04-05
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/landebahn.jpg, 300
-MEDIA: kitchenlog/picasso.jpg, 300
-MEDIA: kitchenlog/grill.jpg, 300
-MEDIA: kitchenlog/ufo.jpg, 300
+MEDIA: landebahn.jpg, 300
+MEDIA: picasso.jpg, 300
+MEDIA: grill.jpg, 300
+MEDIA: ufo.jpg, 300
 
 ==== Das RaumZeitLabor war zu Besuch ====
 Unsere Freunde aus dem [[https://raumzeitlabor.de/|RaumZeitLabor]] aus Mannheim waren zu Besuch!

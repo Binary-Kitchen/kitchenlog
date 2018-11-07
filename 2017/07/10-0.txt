@@ -2,7 +2,7 @@ BEGIN: 2017-07-10
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-07-11_01.png, 600
+MEDIA: kitchenlog_2017-07-11_01.png, 600
 
   * Phil sägt, schleift und bohrt die Maibaumtafeln für die SHA
   * Eine verstellbare Führung für die Oberfräse wird gebaut

@@ -2,7 +2,7 @@ BEGIN: 2016-10-27
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/2016-10-27-02.jpg, 300
+MEDIA: 2016-10-27-02.jpg, 300
 MEDIA: kitchenlog/2016-10-27-03.png
 
   * Hacker hacken Schränke an die Wand

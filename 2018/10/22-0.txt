@@ -2,7 +2,7 @@ BEGIN: 2018-10-22
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/entry/2018/10/20181025_081805-collage.jpg, 500
+MEDIA: 20181025_081805-collage.jpg, 500
 
  
   * wir haben ein paar IoT-Maker-Kits geschenkt bekommen und spielen ein wenig damit rum

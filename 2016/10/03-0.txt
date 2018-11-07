@@ -2,7 +2,7 @@ BEGIN: 2016-10-03
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/20161003_231800.jpg, 200
+MEDIA: 20161003_231800.jpg, 200
 
   * Viele neue Besucher trotz Feiertag und schlechtem Wetter
   * Grundreinigung nach dem langem Wochenende

@@ -2,8 +2,8 @@ BEGIN: 2018-11-05
 END: None
 TOPIC: Hack&Make
 APPENDIX: None
-MEDIA: kitchenlog/entry/1970/01/img_20181103_091812-collage.jpg, 600
-MEDIA: kitchenlog/entry/2018/11/20181104_bk_im_fernsehen.png, 400
+MEDIA: img_20181103_091812-collage.jpg, 600
+MEDIA: 20181104_bk_im_fernsehen.png, 400
 
  
   * Die Binary Kitchen ist mit dem Lötworkshop auf der Hack&Make 2018

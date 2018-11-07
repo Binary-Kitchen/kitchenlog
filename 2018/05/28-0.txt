@@ -2,6 +2,6 @@ BEGIN: 2018-05-28
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/image-53507.jpg, 400
+MEDIA: image-53507.jpg, 400
 
   * das Waschbecken ist jetzt fertig getestet und offiziell zum Gebrauch freigegeben \o/

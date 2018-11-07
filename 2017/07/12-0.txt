@@ -2,8 +2,8 @@ BEGIN: 2017-07-12
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-07-12.png, 600
-MEDIA: kitchenlog/266731499881545349.jpg, 600
+MEDIA: kitchenlog_2017-07-12.png, 600
+MEDIA: 266731499881545349.jpg, 600
 
   * Bastelmittwoch in der Kitchen
   * Weitere Kabel- und Brüstungskanäle werden angebracht

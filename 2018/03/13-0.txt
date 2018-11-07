@@ -2,7 +2,7 @@ BEGIN: 2018-03-13
 END: None
 TOPIC: Küche-Radio
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2018-03-13.jpg, 600
+MEDIA: kitchenlog_2018-03-13.jpg, 600
 
   * Funkraum und Shack werden aufgeräumt
   * Planungen für die 2m/70cm Antenne

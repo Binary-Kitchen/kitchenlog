@@ -2,8 +2,8 @@ BEGIN: 2017-07-24
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/83631500921107779.jpg, 600
-MEDIA: kitchenlog/20170724_213902.jpg, 600
+MEDIA: 83631500921107779.jpg, 600
+MEDIA: 20170724_213902.jpg, 600
 
   * Ganz viel Chaos
   * Jede Menge Stuff wird für die [[veranstaltungen:sha2017|SHA2017]] verladen.

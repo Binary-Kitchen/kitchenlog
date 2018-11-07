@@ -2,7 +2,7 @@ BEGIN: 2016-09-19
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/85031474307163720-2035761400.jpg, 300
+MEDIA: 85031474307163720-2035761400.jpg, 300
 
   * Viele neue und altbekannte Besucher
   * Julian kocht mal wieder: Nudeln kalifornischer Art

@@ -2,6 +2,6 @@ BEGIN: 2018-07-31
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/img_20180731_212513.jpg, 400
+MEDIA: img_20180731_212513.jpg, 400
 
   * Eine hübsche Slushy-Maschine hat den Weg von Augsburg zu uns gefunden

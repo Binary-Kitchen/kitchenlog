@@ -2,7 +2,7 @@ BEGIN: 2018-04-22
 END: None
 TOPIC: wipe+defrag / Plenum
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2018-04-22.jpg, 600
+MEDIA: kitchenlog_2018-04-22.jpg, 600
 
   * Jede Menge Schrott entrümpelt
   * Aufräumen von $Dingen in neue Eurokisten

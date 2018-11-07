@@ -2,8 +2,8 @@ BEGIN: 2016-10-15
 END: None
 TOPIC: Nintendo Party
 APPENDIX: None
-MEDIA: kitchenlog/nintendo2016_1.png, 300
-MEDIA: kitchenlog/nintendo2016_2.png, 300
+MEDIA: nintendo2016_1.png, 300
+MEDIA: nintendo2016_2.png, 300
 
 Weitere Informationen [[veranstaltungen:nintendoparty2016|Nintendo Party 2016]]
 Es waren zeitweise (sofern das Zählen noch möglich war) über 40 Leute da. Besonders toll, dass einige davon zum ersten mal da waren. Es gab selbstgebackende Nintendo-Kekse und Spielspaß auf 5 Konsolen plus dem Arcadeautomaten. Außerdem wurde auch noch auf 3DS gespielt.

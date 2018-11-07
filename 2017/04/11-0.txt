@@ -2,7 +2,7 @@ BEGIN: 2017-04-11
 END: None
 TOPIC: Küchen-Radio
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-04-11.png, 600
+MEDIA: kitchenlog_2017-04-11.png, 600
 
   * Abstimmen einer Outback 2000
   * Telekom Telefonsäule wird ausnahmsweise für richtige Kommunikation benutzt
