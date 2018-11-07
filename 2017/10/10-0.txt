@@ -1,0 +1,6 @@
+BEGIN: 2017-10-10
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Phil und Mirwi bohren Löcher und montieren Kabelkanäle für LAN. und Antennenkabel im Nyota Uhura Funkerbunker

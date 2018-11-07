@@ -1,0 +1,7 @@
+BEGIN: 2016-04-25
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Essen: einige von uns waren vor dem Besuch in der Kitchen noch bim Ripperl Essen in Eilsbrunn
+  * Am MAME-Automaten wird fleisig detail-verbessert und getestet

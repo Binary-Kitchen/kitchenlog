@@ -1,0 +1,12 @@
+BEGIN: 2016-09-05
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Ein paar kleine Nacharbeiten werden noch erledigt
+  * Der Gefrierschrank wird in den Keller gebracht
+  * Die Funkamateure probieren die neue Antenne aus
+  * Küche, Treppe und Aufenthaltsraum werden noch etwas aufgeräumt und gesäubert
+  * Auf der Dreamcast von Phil wird House of Dead mit Lightguns gezockt
+  * Mrks stellt seinen Distributed-Geigerzähler Prototyp vor
+  * Ein paar neue Küchenmöbel wurden mit einem Umweg über das Volksfest in Hemau besorgt

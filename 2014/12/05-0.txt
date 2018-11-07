@@ -1,0 +1,7 @@
+BEGIN: 2014-12-05
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Amateurfunk-Kurs.
+  * Antennentechnik

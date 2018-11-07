@@ -1,0 +1,9 @@
+BEGIN: 2018-06-06
+END: None
+TOPIC: Campusfest 2018
+APPENDIX: None
+MEDIA: kitchenlog/campusfest_2018.jpg, 600
+MEDIA: kitchenlog/mate.jpg, 200
+
+  * auch dieses Jahr haben wir auf dem Campusfest wieder Mates (Club, Club Cola, Club Granat, Mio, MateMate, Flora, Kolle und unmatiges Lapacho) und Tschunk unter die Menschen gebracht
+  * Es hat wieder sehr viel Spaß gemacht, vielen Dank an alle Helfer!

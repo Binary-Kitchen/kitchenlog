@@ -1,0 +1,10 @@
+BEGIN: 2018-03-16
+END: None
+TOPIC: Lötkurs
+APPENDIX: None
+MEDIA: kitchenlog/img_20180316_154913.jpg, 600
+MEDIA: kitchenlog/00000loet.jpg, 600
+
+  * Der Lötkurs ist auf die Reise nach Schwandorf
+  * Kids zwischen 10 und 14 haben Löten gelernt
+  * Blinke-LEDs und Herzen kommen wie immer gut an!

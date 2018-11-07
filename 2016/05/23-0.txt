@@ -1,0 +1,9 @@
+BEGIN: 2016-05-23
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Auto beladen für die Fahrt zur [[veranstaltungen:gpn2016|Gulaschprogrammiernacht 2016]]
+  * Materialhaufendokumentation mit Beleuchtung durch den Testaufbau der Photonenkanone
+  * noch viel mehr, von dem ich nichts mitbekommen habe... bitte ergänzen!!!
+  * Essen: Selbstversorgung

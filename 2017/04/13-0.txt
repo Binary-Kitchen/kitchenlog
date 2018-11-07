@@ -1,0 +1,12 @@
+BEGIN: 2017-04-13
+END: 2017-04-18
+TOPIC: Easterhegg
+APPENDIX: None
+
+  * Eine Delegation fährt zur Easterhegg nach Mühlheim am Main
+  * Aufbau und Betrieb der Chaosvermittlung mit DSL Anschlüssen für den Campingplatz
+  * Hilfe beim Kabel-Verlegen und Betrieb des Netzwerks vor Ort
+  * Wir bespielen die Pixelflut
+  * Newtonwars ist bestes Spiel 2017
+  * Party, Hacken, Tschunk, Amateurfunk
+  * Abbau Helfer kriegen alle noch ein EH17 Handtuch \o/

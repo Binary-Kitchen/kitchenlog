@@ -1,0 +1,9 @@
+BEGIN: 2016-11-21
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Ein fleissige Gruppe baut in der Küche das defekte Kühlaggregat des neuen Getränkeautomaten aus. Das sollte die Reparatur einfacher und günstiger machen. 
+  * Es sind wieder mal Teile von Feldtetefonvermittlungsanalgen für die Chaosvermittlung angekommen. - Phil und Mirwi testen erste Teile auf richtige Funktion.
+  * Stadute und Moep bereiten weiteres Freifunk-Equipment für Weihnachtsmärkte vor, nachdem der Neupfarrplatz versorgt wurde.
+  * Allgemeines reges Treiben \...

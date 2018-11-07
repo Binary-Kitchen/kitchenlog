@@ -1,0 +1,13 @@
+BEGIN: 2018-06-11
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/bananenmate.jpg, 200
+MEDIA: kitchenlog/image-54700.jpg, 300
+
+  * Die Top News: Banana-Mate is back und führt zu einiger Freude unter nicht wenigen BinärköchInnen
+  * Havarie! Es regnet und drückt das Wasser mal wieder in den Keller - da wird wohl demnächst mal eine Wand demontiert
+  * abgesehen davon wird im Keller eine LED-Kette programmiert und simuliert jetzt ein Universum mit Sternenfunkeln
+  * außerdem wurd der immerwährende Lötkurs mechanisch gefixt und verfügt jetzt über Autoboot für die SMD-Kits
+  * es landet ein weiterer Raspi an der Frustwand
+  * Erste Gespräche für Verbesserungen an der Infrastruktur werden geführt

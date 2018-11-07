@@ -1,0 +1,8 @@
+BEGIN: 2018-09-04
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Erstes Repaircaffee
+  * Es ist Brotzeit!
+  * Mehr WLAN-AP debugging...

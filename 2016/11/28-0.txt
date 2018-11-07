@@ -1,0 +1,9 @@
+BEGIN: 2016-11-28
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * am heutige Kitchen-Montag wurde zum Planungstreffen für den 33C3 geladen
+  * es wird darüber diskutiert wer wie nach Hamburg kommt, was wir mitnehmen und vorstellen wollen, etc. pp.
+  * am liebsten würden wir die ganze Kitchen einpacken, der Stauraum ist aber leider begrenzt
+  * es gibt frisch aufgebackene Plätzchen

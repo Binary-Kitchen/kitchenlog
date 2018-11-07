@@ -1,0 +1,9 @@
+BEGIN: 2017-08-16
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-08-16.png, 600
+
+  * Nachdem die Tischplatten gut eingeölt wurden, konnte der Tisch nun eingebaut werden
+  * Die beiden neuen Netzwerkdosen im kleinen Raum wurden gepatched
+  * Allgemeines aufräumen und Werkzeug sortieren beginnt

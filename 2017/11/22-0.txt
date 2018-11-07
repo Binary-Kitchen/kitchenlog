@@ -1,0 +1,9 @@
+BEGIN: 2017-11-22
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/plenum_01.png, 400
+
+  * heute findet das erste [[organisation:plenum:plenum_01|Plenum]] der Binary Kitchen statt
+  * es gibt viele Knabbereien, Glühpunsch und Süßes
+  * Das Protokoll findet ihr auf der [[organisation:plenum:plenum_01|Orga-Seite]]

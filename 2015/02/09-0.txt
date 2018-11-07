@@ -1,0 +1,10 @@
+BEGIN: 2015-02-09
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+  * Ralf kocht lecker
+  * Flo beschäftigt sich mit dem Türschließsystem
+  * Ein verseuchter Win Laptop von gegenüber wird in gemeinschaftlichen intensiven Bemühungen wiederbelebt.
+  * Chaser und Phil spielen im dunklen Labor ein wirres Blinkespiel.

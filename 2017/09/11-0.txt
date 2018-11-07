@@ -1,0 +1,18 @@
+BEGIN: 2017-09-11
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-09-11_1.jpg, 600
+MEDIA: kitchenlog/muc17_1_l.jpg, 400
+MEDIA: kitchenlog/muc17_2_l.jpg, 400
+MEDIA: kitchenlog/muc17_3_l.jpg, 400
+MEDIA: kitchenlog/muc17_4_l.jpg, 400
+MEDIA: kitchenlog/muc17_5_l.jpg, 400
+MEDIA: kitchenlog/muc17_6_l.jpg, 400
+MEDIA: kitchenlog/muc17_7_l.jpg, 400
+
+  * Erste Sonoff-Schalter werden in der Werkstatt installiert
+  * Neues Kitchen-Logo-Sieb wird vorbereitet
+  * Wir haben noch ein paar Probleme mit den Bewegungsmeldern der Außenlampen
+  * Es gibt ein paar Kürbiskekse und eine kleine Schale Tonkabohnen-Pudding zum Probieren
+  * Die Binary Kitchen beteiligte sich an der Mensch und Computer 2017 Konferenz in Regensburg mit einem Makespace für interessierte Besucher in Kooperation mit dem Fablab der Uni Siegen sowie der Ausrichtung eines Lötworkshops.

@@ -1,0 +1,9 @@
+BEGIN: 2017-07-26
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-07-26.png, 600
+
+  * Große Einkaufstour für die SHA
+  * Halter für Feldtelefonequipment werden gebaut
+  * Fliegende Schweine werden gesiebdruckt

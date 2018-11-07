@@ -1,0 +1,12 @@
+BEGIN: 2017-07-01
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/2516914989263915961611417699.jpg, 400
+
+  * Renovieren in der Werkstatt geht weiter
+  * Rigips wurde verspachtelt
+  * Netzwerkkabel, Stromkabel und Druckluftleitungen wurden verlegt
+  * Es wird einiges gestrichen
+  * Die erste Hälfte der Richtfunkverbindung wird auf dem Dach installiert
+  * Gemeinsam gemütlicher Feierabend mit Pizza und Musik

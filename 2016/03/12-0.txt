@@ -1,0 +1,8 @@
+BEGIN: 2016-03-12
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Alien / Kasspotzen Abend
+  * Die MAME Maschine erreicht einen betriebsfähigen Zustand!
+  * Schubladenelement am zweiten Bastelplatz endlich aufgebaut.

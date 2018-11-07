@@ -1,0 +1,10 @@
+BEGIN: 2016-09-28
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/img_0997.jpg, 300
+MEDIA: kitchenlog/img_0894.jpg, 300
+
+  * Es gibt Fisch: Saiblingfilets
+  * Ein paar Bilder von der Kitchen wurden geschossen
+  * Klippan Sofas werden gemodded

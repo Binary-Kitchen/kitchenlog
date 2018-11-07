@@ -1,0 +1,9 @@
+BEGIN: 2016-12-27
+END: 2016-12-30
+TOPIC: Gegencongress
+APPENDIX: None
+
+  * Es laufen Streams
+  * Allgemeines Rumnerden
+  * Mittwoch: Es gibt Heisse Schokolade
+  * Donnerstag: Wir kochen Lasagne

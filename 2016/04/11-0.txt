@@ -1,0 +1,9 @@
+BEGIN: 2016-04-11
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Da Samstag viel übrig geblieben ist, wird der Grill nochmal angeworfen
+  * Erkenntnis: Alufolie kann schmelzen, Eier platzen bei zu viel Hitze
+  * Im Keller wird um Designentscheidungen für die Chaosvermittlung gerungen
+  * Oben wird über das Binary Gitchen diskutiert

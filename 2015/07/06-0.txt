@@ -1,0 +1,6 @@
+BEGIN: 2015-07-06
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Die angelieferte Camp-Küche wird sehr kontrovers diskutiert

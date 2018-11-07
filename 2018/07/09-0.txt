@@ -1,0 +1,12 @@
+BEGIN: 2018-07-09
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/videotogif_2018.07.16_09.39.58.gif, 300
+MEDIA: kitchenlog/20180716_094154.jpg, 600
+MEDIA: kitchenlog/img_20180709_222047.jpg, 200
+
+  * Ein Spontaner Lötkurs tut sich zusammen und unsere Gäste löten Nibbleklammern und Herzen
+  * Ein Sonoff S20 Socket wird mit neuer Firmware bespielt und mit Sensoren ausgestattet
+  * Der erste Kitchen[[https://www.ottodiy.com|-Otto]] bekommt Leben eingehaucht
+  * Falsch gekaufte Touch-Sensoren werden gefixt und gelötet

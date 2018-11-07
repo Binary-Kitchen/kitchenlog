@@ -1,0 +1,8 @@
+BEGIN: 2017-04-10
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Weitere Durchbrüche für Kabel in den neue Räumen
+  * (Freifunk) Untersützung beim Flashen neuer Freifunk Router
+  * Belablen und Verladen der Chaosvermittlung

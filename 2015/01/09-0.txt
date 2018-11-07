@@ -1,0 +1,7 @@
+BEGIN: 2015-01-09
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Amateurfunk-Kurs.
+  * Transistor

@@ -1,0 +1,12 @@
+BEGIN: 2018-09-03
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/img_20180903_225030.jpg, 600
+
+  * Gemeinsame Brotzeit
+  * Bilder vom Lübek Ausflug zum Chaoticum Hackspace 
+  * Basteln am neuen Doorlock
+  * Erste Debugversuche am instabilen WLAN-AP finden statt
+  * Testen eines LED-Cube als neues [[https://github.com/Binary-Kitchen/SolderingTutorial|Lötworkshop]] Kit
+==== Bilder ====

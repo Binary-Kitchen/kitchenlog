@@ -1,0 +1,8 @@
+BEGIN: 2014-10-24
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Amateurfunk-Kurs.
+  * (Ohmscher) Widerstand
+  * Serien- und Parallelschaltung von Widerständen

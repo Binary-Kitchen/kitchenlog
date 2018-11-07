@@ -1,0 +1,9 @@
+BEGIN: 2017-03-07
+END: None
+TOPIC: Küchen-Radio
+APPENDIX: None
+
+  * [[veranstaltungen:kuechen-radio|Küchen-Radio]] im März
+  * Wir basteln weiter unserem Prototyp der [[projekte:dl3rtl_arrow|Arrow-Antenne]]
+  * Es werden Löcher in den Boom und die Direktoren bzw Reflektoren gebohrt
+  * Statt dem Polyamid-Runstab wird der Dipol von einem Stück aus dem 3D-Drucker gehalten

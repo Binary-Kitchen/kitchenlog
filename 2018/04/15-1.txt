@@ -1,0 +1,9 @@
+BEGIN: 2018-04-15
+END: None
+TOPIC: Wanderung
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-04-15_w1.jpg, 600
+MEDIA: kitchenlog/kitchenlog_2018-04-15_w2.jpg, 600
+
+  * Wanderung mit Einkehr nach Eilsbrunn
+  * Zurück nach Regensburg ging es durch Laabertal

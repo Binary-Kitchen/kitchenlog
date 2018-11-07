@@ -1,0 +1,10 @@
+BEGIN: 2018-07-08
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/20180709_090554.jpg, 600
+
+  * [[projekte:magicmirror|MagicMirror]] wird installiert
+  * Es gibt noch Probleme mit dem WLAN
+  * [[projekte:magicmirror|MagicMirror]] wird in die Kitchen-Homeautomation integriert
+  * Im Hauptraum wird ein Temperatursensor installiert

@@ -1,0 +1,10 @@
+BEGIN: 2017-06-26
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/img_1520.jpg, 600
+MEDIA: kitchenlog/img_1521.jpg, 600
+
+  * Aufräumarbeiten nach dem Bürgerfest
+  * Fotoabend mit den Bürgerfestbildern
+  * Einige neue Gesichter in der Kitchen nach dem Bürgerfest

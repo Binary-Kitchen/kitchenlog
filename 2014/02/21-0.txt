@@ -1,0 +1,9 @@
+BEGIN: 2014-02-21
+END: None
+TOPIC: Küchenzeit
+APPENDIX: Nachmittag/Abend
+MEDIA: kitchenlog/lamperl.jpg, 200
+MEDIA: kitchenlog/1393011919620.jpg, 200
+
+Moep, Andreas, Wastl und Ralf sind im Space. Wastl richtet auf dem alten P4 Arch Linux ein, Ralf bereitet den Podcast für Sonntag vor. Der Postbote war da und hat uns die LED-Fluter aus den Niederlanden gebracht!
+Andreas bastelt im Labor. Moep und Wastl frickeln am Nadeldrucker.

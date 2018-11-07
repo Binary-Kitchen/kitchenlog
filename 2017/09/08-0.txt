@@ -1,0 +1,11 @@
+BEGIN: 2017-09-08
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-09-08_1.png, 600
+
+  * Nach dem anbringen von Teflongleitern sind die Bänke endlich "fertig"
+  * Werkstatt wird aufgeräumt und Material für Samstag bereitgelegt
+  * Es gibt Pizzasemmeln und Bananenmuffins
+  * Ein Kanal unseres Verstärkers ist defekt. Zufällig bekamen wir geraden einen neuen gespendet
+  * Nach kurzer Unterbrechung sind die Zombies nun wieder in Stereo zu hören ;-)

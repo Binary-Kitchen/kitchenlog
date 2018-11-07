@@ -1,0 +1,8 @@
+BEGIN: 2015-04-27
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff
+  * Hecktische Arbeiten am Schließsystem - RIP Raspi
+  * Eine Ersatzantenne ermöglicht wieder ein bisschen Kurzwellenempfang im Labor.

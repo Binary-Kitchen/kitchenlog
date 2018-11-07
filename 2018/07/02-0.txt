@@ -1,0 +1,13 @@
+BEGIN: 2018-07-02
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenmonday20180702.png, 600
+
+  * heute gibt es Muffins, frischgebackene Erdnusskekse und natürlich Lollies, gemütliches draußen und drinnen Sitzen, so wie ein paar neue Gesichter
+  * die [[https://github.com/Binary-Kitchen/SolderingTutorial/tree/master/ATXBreakoutBoardSMD|ATX-Breakout-Boards]] sind fast vollständig, ein erstes Exemplar wurde bereits am Wochenende zusammengelötet und hat kein Feuer gefangen \o/
+  * wir haben jetzt einen Brandlötkolben
+  * in der Werkstatt entstehen grad erste neue Tische für unseren Aufenthaltsraum - natürlich branded
+  * geheime Dinge passieren im Getränkeautomaten - mehr dazu hoffentlich bald
+  * Am DNS wurde gebastelt damit für interne Dienste gültige Let's Encrypt Zertifikate verwendet werden können
+  

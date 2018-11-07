@@ -1,0 +1,13 @@
+BEGIN: 2017-04-17
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/20170417_182942.jpg, 400
+MEDIA: kitchenlog/189951492429536752.jpg, 400
+MEDIA: kitchenlog/190261492445776030.jpg, 400
+
+  * Nur wenig Leute anwesend wegen Feiertag und Easterhegg
+  * Es wird Siebdruck gemacht
+  * Der 3D-Drucker ist nun WLAN-fähig 
+  * Die Posterwand ist von Klebeband auf Magnete umgebaut worden
+  * Und es gibt Kuchen!!!

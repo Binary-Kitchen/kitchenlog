@@ -1,0 +1,10 @@
+BEGIN: 2015-05-09
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/img_20150509_214029.jpg, 200
+
+Bastelsamstag
+  * Chaser installiert die Frustwand und nagelt ein MacBook
+  * Ralf bastelt weiter am Türöffner-RasPi
+  * Clemens und Markus testen ihre Handfunkgeräte

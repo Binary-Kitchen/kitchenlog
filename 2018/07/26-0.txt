@@ -1,0 +1,9 @@
+BEGIN: 2018-07-26
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/donnerstag.jpg, 600
+
+  * Es geht weiter mit den Zargen
+  * Für Futtertaschen wird eine Schablone gebaut
+  * Erste Beute-Böden entstehen

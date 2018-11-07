@@ -1,0 +1,8 @@
+BEGIN: 2018-04-09
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Der "BlinkenFrame" wird optisch bereinigt, die ausgestellten Sets hängen jetzt darunter und liegen nicht mehr darin
+  * Versuche, den 3D-Drucker zu reparieren, finden statt
+  * Ein alter Laptop wird zu Bildungszwecken vollständig zerlegt. "Ah"s und "Oh"s bei der Erkenntnis: LCD-Monitore sind einfacher aufgebaut und DVD-Laufwerke bedeutend komplexer als erwartet.

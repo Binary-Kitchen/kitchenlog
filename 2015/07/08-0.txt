@@ -1,0 +1,6 @@
+BEGIN: 2015-07-08
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Die Vorstellung des [[:projekte:swrmeter:start|SWR-Meter]] von DL8RAM stösst auf grosses Interesse

@@ -1,0 +1,11 @@
+BEGIN: 2017-08-29
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/img_20170829_211613.jpg, 600
+MEDIA: kitchenlog/image-48274.jpg, 600
+MEDIA: kitchenlog/image-48272.jpg, 600
+
+  * Der 3D-Drucker verlangt nach mehr Aufmerksamkeit und bekommt diese auch
+  * Nachdem Stau gefixt wurde kann das Kalibrieren weiter gehen
+  * Leider hat der neue Extruder auch ein paar Teile des Druckers weggeschmolzen. To be fixed

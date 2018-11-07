@@ -1,0 +1,7 @@
+BEGIN: 2016-03-21
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Chaosverittlungsteam bereitet die Ausrüstung für die EH2016 vor
+  * Christian sorgt für erhellende Momente beim Basteln mit den LED Modulen

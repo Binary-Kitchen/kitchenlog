@@ -1,0 +1,12 @@
+BEGIN: 2018-05-19
+END: None
+TOPIC: Ausflug
+APPENDIX: None
+MEDIA: kitchenlog/ktb_log.png, 600
+
+  * Ausflug zur [[https://de.wikipedia.org/wiki/Kontinentales_Tiefbohrprogramm_der_Bundesrepublik_Deutschland|KTB]] nach Windischeschenbach
+  * erst gab es eine kleine Wanderung vom Windischeschenbacher Bahnhof zum KTB
+  * dort angekommen erhielten wir eine spannende Führung zu allerlei Wissenswertem rund um Tiefenbohrungen im Allgemeinen und die KTB im Speziellen
+  * Fazit: wir brauchen einen Erdbebensimulator!
+  * Nach der Führung muss die angesetzte Wanderung leider ausfallen, wegen Wetter
+  * Stattdessen wird direkt beim Gloser zur Zoigl-Verkostung und Stärkung durch Brotzeit eingekehrt 

@@ -1,0 +1,9 @@
+BEGIN: 2014-08-18
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+  * Eine Fraktion ist vorher wieder Ripperl essen, daher keine Verköstigung.
+  * Oben kämpft man mit der Lichtseuerung, im Labor mit der Geiger->Frequenzzähler Kopplung - beides noch nicht mit befriedigenden Ergebnissen
+  * Die Kugelbahn ist auch wieder ein Fokuspunkt

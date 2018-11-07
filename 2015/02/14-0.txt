@@ -1,0 +1,10 @@
+BEGIN: 2015-02-14
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: projekte/2015-02-14.jpg, 200
+
+Bastel-Tag
+  * Arbeiten am Arcade-Automaten gehen voran
+  * Hin und wieder werden postfix, mailman und apache verwünscht.
+//"You are not a Sysadmin, if you didn't ever edit sendmail.cf manually. And you are really a fool, if you did it more than once!"//

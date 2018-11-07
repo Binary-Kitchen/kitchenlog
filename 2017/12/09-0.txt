@@ -1,0 +1,9 @@
+BEGIN: 2017-12-09
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-12-09.png, 600
+
+  * Bastelsamstag in der Kitchen
+  * Eine leicht vergrößerte Version der Nibbleklammer wird gebaut
+  * Es gibt Ente (Danke Ralf & Anette)

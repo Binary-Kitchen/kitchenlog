@@ -1,0 +1,8 @@
+BEGIN: 2014-08-04
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+  * Julian kocht.
+  * Mrks bastelt an seiner Geigerzähler-Frequenzzähler-Kopplung für [[veranstaltungen:2wickl2014|Schwandorf]].

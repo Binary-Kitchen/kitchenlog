@@ -1,0 +1,12 @@
+BEGIN: 2014-08-25
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+  * Sebastian sorgt für Steaks und Semmeln.
+  * Der Bug in der Lichtseuerung ist offensichtlich eine Masseschleife im Einschub, die noch zu beheben ist.
+  * Mrks Zwickel Projekte machen gute Fortschritte, sowohl die Frequenzzählerankopplung als auch die LED Bänder.
+  * Kugelbahn
+  * Gunther zeigt seine eigenbau SPS und dass man damit auch echte Lasten schalten kann.
+  * Wastl spielt mit seinem BananaPi und einem hübschen kleinen Display daran.

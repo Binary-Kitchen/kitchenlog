@@ -1,0 +1,7 @@
+BEGIN: 2016-11-19
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * es gibt gebrannte Mandeln und frische Plätzchen
+  * gemütliches Beisammensitzen, mit digitalen Spielen und kleinen Hackereien

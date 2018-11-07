@@ -1,0 +1,10 @@
+BEGIN: 2014-11-11
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Spontanes Treffen zum Thema Freifunk in Regensburg.
+  * Über twitter mitbekommen, dass es freifunk in regensburg gibt (http://regensburg.freifunk.net/)
+  * Kontakt mit einem der Verantwortlichen hergestellt und gleich ein Spontanfreifunk-Treffen in der Kitchen anberaumt
+  * Kitchen ist jetzt ein Node http://37.120.168.150/ffmap-d3/geomap.html
+  * Weiteres Vorgehen, Ideen, Richtfunkmöglichkeiten diskutiert

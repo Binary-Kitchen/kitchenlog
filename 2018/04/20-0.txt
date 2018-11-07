@@ -1,0 +1,8 @@
+BEGIN: 2018-04-20
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-04-20.jpg, 600
+
+  * Mit Hilfe der Oberfräse wird ein TFT-Monitor in einen Tisch eingelassen
+ 

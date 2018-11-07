@@ -1,0 +1,10 @@
+BEGIN: 2017-03-01
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Wir bekamen Besuch von der Stadt (Koordinierungsstelle für Bürgerliches Engagement) und alle Experimente haben funktionier!
+  * Die Küche hat wieder funktionierendes WLAN
+  * Der 3D-Drucker druckt mal wieder Dinosaurier
+  * Clemens bastelt weiter an seinem Doppelpendel
+  * Ansonsten ein äußerst gemütlicher Abend

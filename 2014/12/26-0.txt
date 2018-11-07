@@ -1,0 +1,7 @@
+BEGIN: 2014-12-26
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Vorbereitungen zum Congress Everywhere.
+Unsere "internationalen Gäste" David und Lukas bereiten zusammen mit MoepMan einige Kleinigkeiten (u.a. das VPN) für den Congress Everywhere vor.

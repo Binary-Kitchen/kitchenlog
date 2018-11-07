@@ -1,0 +1,8 @@
+BEGIN: 2016-05-07
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * ein paar Köche haben sich zum Basteln zusammengefunden
+  * ab nachmittags werden epische Rouladen gekocht, die später mit epischen Spätzle und Soß verzehrt wurden
+  * gemütliches draußen vor der Kitchen sitzen, im Schein des Matrix-Lagerfeuerscheins

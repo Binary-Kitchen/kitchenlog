@@ -1,0 +1,9 @@
+BEGIN: 2018-09-19
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/20180921_104043.jpg, 600
+
+  * Packet-Radio Versuche mit Siemens C5
+  * Amateurfunkkabel das Opfer einer Heckenschere wurde erfolgreich repariert
+==== Bilder ====

@@ -1,0 +1,9 @@
+BEGIN: 2018-08-25
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/20180830_085404.jpg, 600
+
+  * Party \o/
+  * Kitchenstatus-Kadse bekommt ihr elektronisches Innenleben
+  * Nibbelklammern werden gelötet

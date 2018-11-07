@@ -1,0 +1,9 @@
+BEGIN: 2017-06-19
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Wegen des schönes Wetters tragen wir unsere Couches vor die Türe und machen es uns draußen bequem
+  * Letzte Planungen zum Bürgerfest kommendes Wochenende
+  * Baufortschritt im Swap-Space wird begutachtet
+  * Im Keller wird ein Beleuchtungssystem für das Bürgerfest gebaut

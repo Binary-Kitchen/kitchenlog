@@ -1,0 +1,9 @@
+BEGIN: 2018-03-17
+END: None
+TOPIC: Bastelsamstag
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-03-17.jpg, 600
+
+  * Spontan wurde an unserer [[projekte:mpcnc|MPCNC]] weitergearbeitet
+  * Die Unterkonstruktion wurde durch zahlreiche Querstreben verstärkt
+  * Gleichzeitig wurde so der spätere Platz für Kabel und Technik geschaffen

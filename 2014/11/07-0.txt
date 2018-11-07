@@ -1,0 +1,13 @@
+BEGIN: 2014-11-07
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Amateurfunk-Kurs.
+  * Spule
+    * Reihen- und Parallelschaltung
+    * Wechselstromwiderstand
+    * Transformator
+  * Der Schwingkreis
+    * \...
+  * Rufzeichen (deutsch)

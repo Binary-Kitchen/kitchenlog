@@ -1,0 +1,9 @@
+BEGIN: 2017-07-17
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Vorbereitungen für die SHA
+  * Viel Small-Talk
+  * Viel Besuch von neuen interessierten dank dem Bürgerfeststand
+  * Unter anderem auch von We_R tech

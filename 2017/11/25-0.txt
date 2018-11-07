@@ -1,0 +1,12 @@
+BEGIN: 2017-11-25
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/getraenkeautomatdekonfigurationmatekuehlschrank.png, 400
+MEDIA: kitchenlog/burger_abend.png, 400
+
+  * in der Küche wird der defekte Getränkeautomat zerlegt, um Platz für einen Getränkekühlschrank zu schaffen
+  * der Umbau wird genutzt, um den Boden mal wieder so richtig zu schrubben
+  * anschließend wird der Mate-Schrank gefüllt \o/
+  * abends werden Burger selbst gemacht (vom Bun bis zum Patty) und zum Nachtisch gibt es Kuchen und noch mehr Kuchen
+  * es finden erste Überlegungen zur Überarbeitung der Homepage statt

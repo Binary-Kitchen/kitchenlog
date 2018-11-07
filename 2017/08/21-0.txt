@@ -1,0 +1,8 @@
+BEGIN: 2017-08-21
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/img_2389.jpg, 400
+
+  * Sitzung des Vereinsvorstandes
+  * 3D Drucker wird fertig montiert, Vorbereitung für Kalibrierung

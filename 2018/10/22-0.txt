@@ -1,0 +1,11 @@
+BEGIN: 2018-10-22
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/entry/2018/10/20181025_081805-collage.jpg, 500
+
+ 
+  * wir haben ein paar IoT-Maker-Kits geschenkt bekommen und spielen ein wenig damit rum
+  * es sind Sensoren, ein Display, ein paar Kabel und eine Steuerungs-Platine dabei
+  * die einzelnen Komponenten lassen sich anscheinend auch mit jedem Arduino betreiben
+  * es gibt frische Quitten! ([[https://de.wikipedia.org/wiki/Quitte|was?]]) sie lösen einerseits Begeisterung, andererseits Verwunderung aus

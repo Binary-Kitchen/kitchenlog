@@ -1,0 +1,16 @@
+BEGIN: 2018-03-30
+END: 2018-04-02
+TOPIC: Easterhegg
+APPENDIX: None
+MEDIA: kitchenlog/eh182.png, 200
+MEDIA: kitchenlog/eh186.png, 200
+MEDIA: kitchenlog/eh183.png, 115
+MEDIA: kitchenlog/eh184.png, 200
+MEDIA: kitchenlog/siebdruckkaefer.jpg, 600
+
+  * Lötkurs  
+  * Even mooaaar Nibbleklammern 
+  * Kitchen-Osternest
+  * Chaosvermittlung war Teil des POCs https://www.youtube.com/watch?v=5eguMOTkq_8
+ 
+  * Am Siebdruck-Workshop teilgenommen

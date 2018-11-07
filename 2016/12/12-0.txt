@@ -1,0 +1,8 @@
+BEGIN: 2016-12-12
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * **Binary Kitchen Weihnachtsfeier**
+  * Xaver hat ein ausgezeichnetes Gulasch zubereitet
+  * Es wurden <del>viel</del> ein ganz kleines bisschen an Plätzchen, Kekse, Glühwein, Mate, Bier und Whisky vernichtet

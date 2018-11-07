@@ -1,0 +1,10 @@
+BEGIN: 2014-09-15
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+  * Julian kocht Nudeln mit Garnelen
+  * Tobias und Armin vom Regensburger Ortsverband (U13) des Deutschen Amateur Radio Club (DARC) halten einen Einführungsvortrag über die Möglickeiten im Amateurfunkdienst. Dies war der Auftakt zu einem Kurs zur Erlangung der Amateurfunkgenehmigung (Klasse E), der in Zukunft Freitags, hauptsächlich in den Räumen der Binary-Kitchen, stattfinden wird. Weitere Infos hierzu und zum Koordinationsabend am 19.9.2014, finet Ihr auf der [[http://www.darc.de/distrikte/u/13/aktuelles-u13/|Seite des U13]].
+  * Chaser tauscht noch einen explodierten Kondensator in seinem Pollin Netzteil.
+  * Mirwi lötet wieder ein Stück an seiner [[projekte:hex_trainer|HEX-BIN-Trainer]] [[veranstaltungen:2wickl2014|2wickl]]-Baustelle. - Der Zufallsgenerator und die 7-Segmentanzeige gehn wenigstens schon.

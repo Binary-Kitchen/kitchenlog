@@ -1,0 +1,8 @@
+BEGIN: 2015-01-24
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Projektnachmittag & Spieleabend.
+  * Erster 5GHz WLAN Access Point im Testbetrieb
+  * Analogspieleabend mit "Bezzerwizzer" & "King of Tokyo"

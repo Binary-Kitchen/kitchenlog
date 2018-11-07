@@ -1,0 +1,7 @@
+BEGIN: 2018-04-02
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Die Easterhegg-Besucher kommen zurück
+  * Es wird viel ausgepackt, geräumt und verstaut

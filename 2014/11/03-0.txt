@@ -1,0 +1,12 @@
+BEGIN: 2014-11-03
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+  * Warpkerne auf allen Ebenen in Bild und Ton.
+  * David und Julian kochen sehr lecker, siehe [[organisation:speiseplan:start|Speiseplan]].
+  * Clemens bastelt mit Beleuchtungs-LEDs und ihren Kühlkörpern bzw. den Versorgungsschaltungen dazu.
+  * Phil plottet jetzt ausgefüllte Pixel und es schaut immer besser aus. Neue Erkenntnis: Der Plotter kann sogar selber Text ausgeben.
+  * Chaser DOSt die Lichtsteuerung.
+  * Das Team wälzt weiter Gedanken zum [[projekte:arcadeautomat|Arcade-Automat]].

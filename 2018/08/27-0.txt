@@ -1,0 +1,8 @@
+BEGIN: 2018-08-27
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * es wird an der Doorlock-App gebastelt - es wird alles besser und hübscher!
+  * mehr dazu bald im Wiki: [[projekte:hausautomatisierung:doorlock|Kitchen Schließsystem "doorlock"]]
+  * die Ampel wird im Treppenhaus aufgehangen

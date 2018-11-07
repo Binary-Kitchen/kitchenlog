@@ -1,0 +1,9 @@
+BEGIN: 2015-07-22
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Bastelmittwoch
+  * Phil, Sebastian und Mirwi besuchen den Baumarkt um Material für den Maibaum auf dem [[veranstaltungen:cccamp2015|Chaos Communication Camp 2015]] zu holen. Wegen der Hitze folgen dann nur kleine Vorarbeiten.
+  * Mit Vorfreude werden diverse Camputensilien beäugt - Fahnen, kgl_bamt-Stempel, \...
+  * Zur Einstimmung aufs Camp werden erste Folgen des "Königlich Bayerische Amtsgericht" geschaut. Bei manchen werden Kindheitserinnerungen wach.

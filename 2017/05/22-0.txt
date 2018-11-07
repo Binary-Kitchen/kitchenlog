@@ -1,0 +1,7 @@
+BEGIN: 2017-05-22
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Einladen der Gerätschaften der Chaosvermittlung für die [[https://entropia.de/GPN17|GPN]].
+  * \...

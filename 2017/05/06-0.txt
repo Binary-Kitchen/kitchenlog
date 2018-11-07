@@ -1,0 +1,13 @@
+BEGIN: 2017-05-06
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-05-06.png, 600
+
+  * Werkbänke fertiggestellt
+  * Ersten Schränke an die Wand geschraubt
+  * Kabelkanäle verlegt
+  * Fenster gestrichen
+  * Weiter geweisselt
+  * und und und \...
+  * Abends wurden wir mit leckeren selbstgemachten Rouladen und Spätzle versorgt.

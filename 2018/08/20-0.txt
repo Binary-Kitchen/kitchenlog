@@ -1,0 +1,11 @@
+BEGIN: 2018-08-20
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/20180821_143340.jpg, 500
+
+  * Weitere Wartungsarbeiten am Netzwerk
+  * Siebdruck in der Werkstatt
+  * Die vor kurzem gefräste Katze bekommt eine Standplatte und wird schwarz lackiert
+  * Wegen des warmen Wetters halten wir uns hauptsächlich draußen auf
+  * im Keller wird DOTA 2 geschaut

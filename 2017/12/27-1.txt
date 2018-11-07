@@ -1,0 +1,13 @@
+BEGIN: 2017-12-27
+END: 2017-12-30
+TOPIC: TUWAT 34C3 Gegencongress
+APPENDIX: None
+
+  * [[veranstaltungen:gegencongress_34c3|34C3 Chaos Communication Congress - #tuwatch]]
+  * Streams gucken
+  * Kochen
+  * Socializing
+  * Kommt vorbei 
+[[space:start|Hackspace Binary Kitchen e.V.]]
+Walderdorffstr. 13b
+93053 Regensburg

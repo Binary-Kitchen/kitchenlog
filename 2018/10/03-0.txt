@@ -1,0 +1,12 @@
+BEGIN: 2018-10-03
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/entry/2018/10/20181004_081238.jpg, 600
+MEDIA: kitchenlog/entry/2018/10/20181004_081342.jpg, 600
+
+  * Mehr Licht für das Kellerlabor
+  * Der neue Herd wird angeschlossen
+  * Viele viele Dinge werden verladen und vom Space zu [[https://contemporary-regensburg.de|con_temprary]] gebracht
+  * Aufstellen und einrichten für die Ausstellung
+  * Kommt vorbei es gibt viele Dinge zu entdecken!

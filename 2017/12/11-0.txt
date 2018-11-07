@@ -1,0 +1,10 @@
+BEGIN: 2017-12-11
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-12-11.png, 600
+
+  * Die alljährliche Weihnachtsfeier der Binary Kitchen
+  * Es gibt viel viel viel Käsespätzle
+  * Gemütliches beisammensitzen
+  * Außerdem natürlich Glühwein und Plätzchen

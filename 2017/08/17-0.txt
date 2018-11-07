@@ -1,0 +1,11 @@
+BEGIN: 2017-08-17
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-08-17.png, 600
+
+  * Alle Schübe in der Werkstatt sind jetzt geseift und laufen wie geschmiert
+  * Label all the things!
+  * Unser Werkzeug ist eingeräumt und wartet auf Benutzung
+  * Der Tisch im Hauptraum hat seine letzte Schleifung/Ölung erhalten
+  * Hauptraum jetzt wieder sauber

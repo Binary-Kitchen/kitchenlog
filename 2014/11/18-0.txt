@@ -1,0 +1,6 @@
+BEGIN: 2014-11-18
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Treffen zum Bau des [[projekte:arcadeautomat|Arcade-Automat]].

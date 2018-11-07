@@ -1,0 +1,10 @@
+BEGIN: 2014-09-22
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+  * Julian macht Bolognese, siehe [[organisation:speiseplan:start|Speiseplan]]
+  * Mirwi kämpft immer noch mit seiner Schaltung und erreicht einen benutzbaren Zustand. 
+  * Neue Gesichter - Gäste aus Coburg usw.
+  * Den Rest muss jemand beschreiben, der was mitbekommen hat...

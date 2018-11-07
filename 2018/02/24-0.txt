@@ -1,0 +1,15 @@
+BEGIN: 2018-02-24
+END: None
+TOPIC: Mitgliederversammlung
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-02-24_1.jpg, 600
+MEDIA: kitchenlog/kitchenlog_2018-02-24_2.gif, 600
+MEDIA: kitchenlog/kitchenlog_2018-02-24_3.gif, 600
+MEDIA: kitchenlog/kitchenlog_2018-02-24_4.gif, 600
+
+  * Mitgliederversammlung von 16:00 - 18:00 Uhr
+  * 3D-Druck im Keller
+  * Die ersten Teile für die [[projekte:mpcnc|MPCNC]] werden geprüft
+  * Waschbecken für die Werkstatt erneut gestrichen
+  * Lötkursschaukasten wird mit Strom versorgt
+  * Schreibtischlampe im Keller wird montiert

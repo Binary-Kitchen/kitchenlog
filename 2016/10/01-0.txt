@@ -1,0 +1,12 @@
+BEGIN: 2016-10-01
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/chilli16.jpg, 300
+MEDIA: kitchenlog/20161003_013511.jpg, 200
+MEDIA: kitchenlog/curry2.png, 300
+
+  * Es wird gekocht: Curry mit frischen Chillis (bitte vorher anmelden bei Xaver)
+  * Der neue Kompressor wurde geliefert. Luft mit Druck für die Kitchen
+  * Die Vodka Urlaubsmitbringsel von Ralf werden gemeinsam verkostet
+  * Ergebnisse werden "wissenschaftlich" ausgewertet

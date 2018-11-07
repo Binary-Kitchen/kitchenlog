@@ -1,0 +1,8 @@
+BEGIN: 2016-05-02
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * heute wieder Selbstversorgung
+  * das Kassenterminal kann jetzt sprechen, zur Freude einiger und dem Leid anderer
+  * Wir haben jetzt Strom in der Toilette - und einen Bildschirm - und Ton (in memory of eh16)

@@ -1,0 +1,11 @@
+BEGIN: 2018-05-14
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/img_20180514_204517251_hdr.jpg, 300
+MEDIA: kitchenlog/log14.05.2018.jpg, 600
+
+  * im Keller wird ein Netzteil mit neuem Stecker verlötet - um damit anschließend einen Lötkolben betreiben zu können
+  * der Kühlschrank wird entrümpelt und es entstehen spontan Hollerkücherl
+  * das Frittierfett wird gleich für weitere Experimente (Will it fry?) genutzt: die Hollerkücherl setzen sich gegen Schokolade und Lollies als schmackhaftestes Frittiergut durch
+  * die Diskussion über die Möglichkeiten des Frittierens zieht sich bis in den nächsten Tag

@@ -1,0 +1,9 @@
+BEGIN: 2018-09-08
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/20180909_012625.jpg, 600
+
+  * Klopi ist wieder da \o/
+  * Es wird weiter am Doorlock gearbeitet
+==== Bilder ====

@@ -1,0 +1,10 @@
+BEGIN: 2018-08-18
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Rack neu verkabelt
+  * Zusätzlicher Switch eingebaut (use moar bandwidth)
+  * Neue USV eingebaut
+  * 3D-Drucker hängen jetzt auch an der USV
+  * Außerdem: Bolognese, Filmeabend und Exploding Kittens

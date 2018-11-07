@@ -1,0 +1,9 @@
+BEGIN: 2014-07-14
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Keine Verköstigung, weil eine Fraktion vorher Ripperl Essen beim [[http://www.gaststaette-roehrl.de|Röhrl in Eilsbrunn]] war. Ansonsten eher ruhig.
+  * Ein bisschen Tischerücken im Labor.
+  * Verlagerung von Geräten zu Igor.
+  * Ralf und Christian basteln an der RS485-Anbindung des PI für die [[projekte:hausautomatisierung:start|Hausautomatisierung]]. Verluste (ein USB-RS485 Adapter) halten sich in Grenzen :-).

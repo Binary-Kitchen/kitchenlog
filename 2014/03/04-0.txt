@@ -1,0 +1,6 @@
+BEGIN: 2014-03-04
+END: None
+TOPIC: Küchenzeit
+APPENDIX: Abend
+
+Haskell Stammtisch Regensburg, Optimierung von Haskell-Programmen.

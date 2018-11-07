@@ -1,0 +1,10 @@
+BEGIN: 2016-06-06
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * wir befürchten einen Audio-war zwischen Mame-Automat und Toilette
+  * Essen heute mal wieder Selbstversorgung
+  * Wir werden beim morgigen Campus-Fest an der Uni einen Mate-Stand betreiben, hierfür werden die letzten Vorkehrungen getroffen
+  * Banner - wir brauchen mehr Banner! 
+  * es wird weiter an der Lichtsteuerung gebastelt

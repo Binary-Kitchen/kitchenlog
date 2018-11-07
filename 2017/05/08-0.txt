@@ -1,0 +1,9 @@
+BEGIN: 2017-05-08
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Phil streicht das Klo im Swap Space, und montiert Locus Illumination und Klopapierhalter
+  * Mogli montiert weiter Kabelkanäle im Swap Space
+  * Christian S. bereitet die Locus Illumination für Montage vor
+  * Ralf fixt das Moodlight in der Kitchen

@@ -1,0 +1,12 @@
+BEGIN: 2014-09-29
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+ 
+  * Eine Fraktion ist wieder mal Ripperlessen.
+  * Viele der Geräte sind vom Ausflug zum Zwickl zurück.
+  * Clemens und Dorothea schrauben Zwischenböden in Igor und verstauen die Geräte.
+  * Mirwi wechselt verletztes Personal der Jubelbox und nimmt den HEX-BIN-Demonstrator wieder in Betrieb.
+  * \...??

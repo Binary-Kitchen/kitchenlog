@@ -1,0 +1,8 @@
+BEGIN: 2017-01-23
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Letzte Planungen für die Party nächstes Wochenende
+  * Die ersten Nibble-Projekte werden gelötet
+  * Weitere Diskussion zu den anstehenden Umbauarbeiten

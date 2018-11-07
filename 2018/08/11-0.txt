@@ -1,0 +1,16 @@
+BEGIN: 2018-08-11
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/20180812_132725.jpg, 600
+MEDIA: kitchenlog/20180812_132635.jpg, 600
+
+  * Kitchen wird aufgeräumt
+  * Neue Sofas werden geholt und alte entsorgt
+  * Die Arbeitsfläche der Fräse wird fertig gestellt
+  * Cat Content wird produziert (eine Katze wird gefräst)
+  * Schrauben werden sortiert
+  * Diamond X30 2m/70cm Antenne wird auf das Dach der Kitchen montiert
+  * Es gibt Bolognese
+  * Fusstaster für das Punktschweissgerät wird beim aufräumen gefunden 
+  * Perseiden gucken auf der Wallhalla

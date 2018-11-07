@@ -1,0 +1,11 @@
+BEGIN: 2017-04-11
+END: None
+TOPIC: Küchen-Radio
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-04-11.png, 600
+
+  * Abstimmen einer Outback 2000
+  * Telekom Telefonsäule wird ausnahmsweise für richtige Kommunikation benutzt
+  * Wir packen die gespendete Funkhardware aus
+  * Versuche den einen oder anderen Satelliten und die ISS zu hören
+  * Nach Einbruch der Dunkelheit noch ein paar Aktivitäten auf 80m

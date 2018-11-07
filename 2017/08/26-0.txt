@@ -1,0 +1,11 @@
+BEGIN: 2017-08-26
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-08-26.jpg, 400
+
+  * Viel Freifunk
+  * Neuer Bausatz für den Lötworkshop wird vorgestellt
+  * Verstärker und Lautsprecher werden in der Werkstatt aufgestellt
+  * Die Bänke werden fertig abgeschliffen und die erste bekommt auch schon den 1. Anstrich
+  * Geburtstag feiern mit Tschunk

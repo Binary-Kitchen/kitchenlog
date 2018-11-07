@@ -1,0 +1,8 @@
+BEGIN: 2015-02-27
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Amateurfunk-Kurs.
+  * Gesetze und Technik rund um EMV.
+  * "Erde deine Antenne, sonst erdet sie dich."

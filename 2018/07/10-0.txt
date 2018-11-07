@@ -1,0 +1,8 @@
+BEGIN: 2018-07-10
+END: None
+TOPIC: Küchenradio
+APPENDIX: None
+
+  * Es wird weiter am Shack gearbeitet
+  * Weitere Experimente mit verschiedenen SDR-Empfängern
+  * Eine Rad1o-Badge wird in Betrieb genommen

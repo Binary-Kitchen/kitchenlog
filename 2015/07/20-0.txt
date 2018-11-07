@@ -1,0 +1,10 @@
+BEGIN: 2015-07-20
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff
+  * Hitze überall
+  * Großes Brotzeitgelage
+  * Christian schneidet mit dem Plotter einen tollen roten Küchenkopf für seinen Laptop
+  * Diverses kleineres Gebastele

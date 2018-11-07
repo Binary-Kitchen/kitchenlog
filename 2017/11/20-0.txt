@@ -1,0 +1,11 @@
+BEGIN: 2017-11-20
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/784051511204151861.jpg, 200
+MEDIA: kitchenlog/784081511210793076.jpg, 200
+
+  * es gibt eine weitere Schokokalypse!
+  * in der Werkstatt wird ein Bett gebaut
+  * gemütliches Zusammensitzen und ein paar neue Gesichter
+  * in der Telefonanlage sind jetzt neue Nummern integriert - call 1701! Also Emergency Services (It Crowd Referenz)

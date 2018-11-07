@@ -1,0 +1,12 @@
+BEGIN: 2014-07-21
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Julian macht Nudeln mit Lachs
+  * Mrks und Mirwi bringen die Teststrecke für Schwandorf zum Laufen: RS232 Terminal - Datenklo - Wählscheibentelefon - Zusammenschaltung mit Stromeinspeisung - Wählscheibentelefon - Akkustikkoppler - Laptop
+  * Phil repariert eine Neonröhre im Labor
+  * Die Level9-Baustelle wandert wieder nach oben
+  * Es wird irgendwie noch am/im Kabelschacht zum Labor gewerkelt
+  * MoepMan schaltet Muesli (unserem VM-Host im Space) wieder an und installiert eine VM mit Observium zum Monitoring
+  * ????? bitte ergänzen

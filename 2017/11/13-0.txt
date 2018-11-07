@@ -1,0 +1,8 @@
+BEGIN: 2017-11-13
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * es gibt ein erstes Planungstreffen zum Assembly der Binary Kitchen beim 34C3!
+  * es werden erste Ideen vorgestellt und weitere Infos folgen, Fragen können an Venti gestellt werden
+  * nach dem Treffen gab es eine Schokokalypse (Schokomuffins mit Schokoeis, Schokoganache und Schokosoße)

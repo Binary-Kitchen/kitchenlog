@@ -1,0 +1,7 @@
+BEGIN: 2016-06-20
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Timo testet weiter mit seinem 3D Drucker. Die Verbesserungen der Ergebnisse nach geheimen Tips von Mrks sind beeindruckend.
+  * Ralf probiert neue Boxen im Keller aus. Klingen ganz gut und vor allem laut...

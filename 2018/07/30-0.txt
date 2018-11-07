@@ -1,0 +1,9 @@
+BEGIN: 2018-07-30
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/img_20180730_194103-collage.jpg, 600
+
+  * es ist heiß, heißer, Kitchen-Montag! Soziale Aktivitäten verlagern sich natürlicherweise vor den Space
+  * es gibt frisches Obst und [[https://www.google.com/search?q=erdnuss%20popcorn%20rezept | erdnussiges Popcorn]] 
+  * in der Werkstatt wird vorher aber noch fleißig sortiert und für die kommmenden Lötkurse gepackt

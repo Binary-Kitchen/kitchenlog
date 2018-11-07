@@ -1,0 +1,7 @@
+BEGIN: 2017-02-05
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Spannendes Superbowl gucken in der Kitchen bis in den frühen Morgen
+  * Dazu gibt es Hot Dogs und andere Snacks

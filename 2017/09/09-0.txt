@@ -1,0 +1,14 @@
+BEGIN: 2017-09-09
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-09-09_1.png, 600
+MEDIA: kitchenlog/kitchenlog_2017-09-09_2.png, 600
+
+  * Ein großer Teil der Elektrik der neuen Werkstatt wird endlich fertiggestellt
+  * RGB Lampen werden im Schaufenster montiert
+  * Druckluft wird im kleinen Raum installiert
+  * IT-Verkabelung wird aufgeräumt
+  * Zwei weitere Netzwerkports in den Schaltschrank verlegt
+  * Rapsberry pi Monitor zur Steuerung der Automatisierung wird installiert
+  * und vieles vieles mehr

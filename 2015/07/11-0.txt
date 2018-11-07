@@ -1,0 +1,6 @@
+BEGIN: 2015-07-11
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Sandra sortiert die Säcke mit den Hinterlassenschaften unserer Vormieter

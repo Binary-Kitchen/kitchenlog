@@ -1,0 +1,7 @@
+BEGIN: 2018-01-08
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-01-08.png, 600
+
+  * Lightning Talk Meltdown & Spectre

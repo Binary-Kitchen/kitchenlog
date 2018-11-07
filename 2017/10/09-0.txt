@@ -1,0 +1,7 @@
+BEGIN: 2017-10-09
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: labor/img_20171009_210751.jpg, 400
+
+  * Phil und Mirwi bauen einen Untersatz für den Vielfachkasten im Nyota Uhura Funkerbunker

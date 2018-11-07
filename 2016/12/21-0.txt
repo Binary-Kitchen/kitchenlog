@@ -1,0 +1,10 @@
+BEGIN: 2016-12-21
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/pestphonev2.png, 300
+MEDIA: kitchenlog/20161221_192533.jpg, 300
+
+  * Letzte Vorbereitungen für den 33c3
+  * Wastl macht Funkbetrieb auf KW 
+  * Avarrish und Mirwi bauen die 2. Version des FieldPestPhones zusammen

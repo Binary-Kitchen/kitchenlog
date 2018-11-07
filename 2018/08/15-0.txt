@@ -1,0 +1,10 @@
+BEGIN: 2018-08-15
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/img_20180815_133544-collage.jpg, 600
+
+  * Eine IKEA-Couch wurde repariert
+  * Besuch im [[https://fablab-nuernberg.de/|Fablab Nürnberg]]
+  * Besichtigung verschiedener Lasercutter
+  * Erster Prototyp für einen neuen Lötbausatz wird gebaut

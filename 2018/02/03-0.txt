@@ -1,0 +1,12 @@
+BEGIN: 2018-02-03
+END: None
+TOPIC: OpenLab
+APPENDIX: None
+MEDIA: kitchenlog/20180205_140732.jpg, 600
+
+  * Ein tiefes Waschbecken für die Werkstatt wird gebaut
+  * Regalbretter werden gefertigt
+  * Ein Tisch für den neuen Drucker in der Werkstatt wird gebaut
+  * Es wird weiter an der Kitchen-Automatisierung gebaut
+  * Weitere Teile für die MPCNC werden gedruckt
+  * Es gibt Fischstäbchen und Shark-Movies

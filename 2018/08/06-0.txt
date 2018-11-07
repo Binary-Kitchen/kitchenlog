@@ -1,0 +1,13 @@
+BEGIN: 2018-08-06
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/20180807_113305.jpg, 600
+
+  * Die Slush Maschine wird weiter getestet
+  * Es wird Lasagne gekocht
+  * LAN-Steckdosen im Funkraum werden aufgelegt
+  * Versuche die USV zu reparieren
+  * Alte Server werden aussortiert und ausgeschlachtet
+  * Neue Server werden mit aktueller Firmware betankt
+  * Man sitzt gemütlich draußen vor der Kitchen dort ist es kühler

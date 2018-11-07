@@ -1,0 +1,13 @@
+BEGIN: 2015-02-20
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Amateurfunk-Kurs.
+  * Messtechnik
+    * Analog anzeigende Messgeräte
+    * Digital anzeigende Messgeräte
+    * Oszilloskop
+    * PEP-Leistung
+    * SWR
+    * Dummy Load

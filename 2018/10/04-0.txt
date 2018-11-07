@@ -1,0 +1,9 @@
+BEGIN: 2018-10-04
+END: None
+TOPIC: con_temporary
+APPENDIX: None
+MEDIA: kitchenlog/entry/2018/10/20181005_081610.jpg, 600
+MEDIA: kitchenlog/entry/2018/10/20181005_081526.jpg, 600
+
+  * Eröffnung von [[https://contemporary-regensburg.de/|con_temporary]] Hick_Hack in der Baumhackergasse 1
+  * Mit einigen [[projekte:con_temporary|Ausstellungsstücken]] aus der Binary Kitchen

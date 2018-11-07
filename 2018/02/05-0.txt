@@ -1,0 +1,13 @@
+BEGIN: 2018-02-05
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/videotogif_2018.02.06_21.37.20.gif, 600
+MEDIA: kitchenlog/441561517868039726.jpg, 600
+
+  * Ripperln!!!1!11!!
+  * Getränkeautomat bekommt ein Poster
+  * Es wird versucht eine Daten von einer Festplatte zu retten
+  * Am neuen Kitchen NAS wird gearbeitet
+  * Ein mittelschwerer Chemieunfall ereignet sich 
+  * Spass mit alten Lautsprechern

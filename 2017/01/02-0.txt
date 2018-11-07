@@ -1,0 +1,7 @@
+BEGIN: 2017-01-02
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Erster Küchenabend im Neuen Jahr.
+  * Ralf unternimmt erste Gehversuche in Richtung seiner Floppyorgel - Eine Folgeerscheinung vom 33C3

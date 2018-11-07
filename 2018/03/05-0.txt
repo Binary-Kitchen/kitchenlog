@@ -1,0 +1,10 @@
+BEGIN: 2018-03-05
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-03-05.jpg, 600
+
+  * In der Werkstatt wird ein Dicetray gebaut
+  * Internetprobleme in der Kitchen es wird versucht zu fixen
+  * Eine SPS zum spielen ist eingetroffen
+  * 3D Druck für die [[projekte:mpcnc|MPCNC]] geht weiter aber das Ende ist in Sicht

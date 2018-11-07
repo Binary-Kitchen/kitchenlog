@@ -1,0 +1,13 @@
+BEGIN: 2018-10-27
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/entry/2018/10/20181105_084540-collage.jpg, 400
+
+ 
+  * es regnet und regnet und regnet - perfektes Werkstattwetter!
+  * unser Staubsauger wird demnächst ohne Staubbeutel auskommen, dank des neuen Zyklonabscheiders
+  * aus einer alten Farbdose wird ein Behätnis dafür gebaut, mehr Infos zu diesem tollen Projekt findet ihr [[projekte:zyklon-abscheider|hier]]
+  * es gibt noch ein paar kleinere Basteleien
+  * es wird eine Halterung für eine Lampe gebaut und ein paar weitere Kleinigkeiten für privates Home-Improvement gesägt
+  * Der Backofen hat ein Blechfach aus einer Eurokiste mit Rollen bekommen

@@ -1,0 +1,13 @@
+BEGIN: 2018-04-30
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-04-30.jpg, 600
+MEDIA: kitchenlog/img_20180430_215939419.jpg, 200
+
+  * Es ist mal wieder Zeit für Ripperln \...
+  * Ein weiteres Regal für Sortimentskästen wird gebaut
+  * Ein Bett wird abgeschliffen und gestrichen
+  * Das tiefe Waschbecken wird in der Werkstatt installiert
+  * Gefrickel an der Elektronik für das Schweißgerät
+  * 

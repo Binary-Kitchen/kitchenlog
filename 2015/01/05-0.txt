@@ -1,0 +1,7 @@
+BEGIN: 2015-01-05
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+  * Gründung des Vereins Freifunk Regensburg

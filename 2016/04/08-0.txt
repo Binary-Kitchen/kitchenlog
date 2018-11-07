@@ -1,0 +1,7 @@
+BEGIN: 2016-04-08
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Es ist wieder Amateurfunk-Kurs, einige neue Gesichter haben sich dazugesellt
+  * Nächste Woche findet das Treffen nicht in der Kitchen, sondern in Grünthal statt

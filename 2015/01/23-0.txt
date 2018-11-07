@@ -1,0 +1,16 @@
+BEGIN: 2015-01-23
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Amateurfunk-Kurs.
+  * Modulation
+    * Prinzip der Nachrichtenübertragung
+    * Modulationsarten
+    * Amplitudenmodulation
+    * Bandbreite bei AM
+    * Einseitenbandmodulation SSB
+    * Frequenzmodulation
+    * Hub und Babdbreite bei FM
+    * Vorteil/Nachteil bei FM
+    * Sendearten

@@ -1,0 +1,6 @@
+BEGIN: 2014-05-26
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Parallel zum [[http://mayday2.planraum.org/|Hardware Mayday 2014]] wurde in der Kitchen-Küche für Mehr Ordnung und Sauberkeit gesorgt, was auch dringend nötig war.

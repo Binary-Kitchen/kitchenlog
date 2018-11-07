@@ -1,0 +1,13 @@
+BEGIN: 2017-07-11
+END: None
+TOPIC: Küchen-Radio
+APPENDIX: None
+MEDIA: kitchenlog/img_20170712_075131_282.jpg, 400
+
+  * [[veranstaltungen:kuechen-radio|Küchen-Radio]] im Juli
+  * Nebenan werden weitere Kabel- und Brüstungskanäle installiert
+  * Programmieren von MD-380 DMR-Funkgerät
+  * Wir freuen uns das der DMR Repeater auf DP0RP wieder funktioniert \o/
+  * Funkplaudereien über Antennen, HAM-Radio, SDR und und und \...
+  * Experimente mit Feldtelefon
+**Küchenradio im August (08.08.2017) entfällt wegen der SHA 2017! Nächster Termin 12.09.2017**

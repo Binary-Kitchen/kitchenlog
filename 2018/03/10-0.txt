@@ -1,0 +1,9 @@
+BEGIN: 2018-03-10
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-03-10.jpg, 600
+
+  * Aufbau der [[projekte:mpcnc|MPCNC]] geht weiter
+  * Die Kitchen wird mal wieder aufgeräumt \o/
+  * Geburtstag feiern

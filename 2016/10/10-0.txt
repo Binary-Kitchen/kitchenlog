@@ -1,0 +1,8 @@
+BEGIN: 2016-10-10
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Neues Druckluftwerkzeug wird ausprobiert und getestet. Niemand wurde verletzt \o/
+  * Die neue Tischbohrmaschine wurde ebenfalls in Betrieb genommen
+  * Zocken am Arcadeautomaten und Nintendoparty planen

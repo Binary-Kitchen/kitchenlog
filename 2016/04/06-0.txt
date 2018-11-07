@@ -1,0 +1,10 @@
+BEGIN: 2016-04-06
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Es haben sich ein paar Köche zum Basteln in der Kitchen zusammengefunden
+  * venti ist mit einem Mikro bewaffnet und fouriertransformiert alles was ihm vor dieses läuft (von weißem und rosa Rauschen, bis zum Kitchen-Stuhl-über-den-Boden-ziehen-Lärm)
+  * Demnächst dazu dann evtl. eine kleine Sammlung hier im Wiki
+  * Moep und Mrks basteln am Kitchen-Mail-Server
+  * xaver gibt Tipps zum Erwerb von Kaffeezubereitungsgeräten

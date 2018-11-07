@@ -1,0 +1,15 @@
+BEGIN: 2015-03-16
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff
+  * Sebastian bäckt Pizza-Semmeln
+  * Der 3D-Drucker wird fleissig genutzt
+===== Küchenzeit: Samstag, 14. März 2015=====
+Projekt, Aufräum und Spiele-Termin
+  * Wir haben Besuch einger seltener Gäste
+  * Clemens nimmt den Schneidplotter in Betrieb und experimentiert damit
+  * Phil hat nun alle Software(-Lizenzen) für den 3D-Drucker zusammen und druckt einen Flaschenöffner
+  * Es wird eine lecker Carbonare gekocht
+  * Analogspieleabend mit Cards against Humanity bis spät in die Nacht

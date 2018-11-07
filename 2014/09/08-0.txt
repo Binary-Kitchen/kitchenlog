@@ -1,0 +1,13 @@
+BEGIN: 2014-09-08
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+  * Niemand kocht, es wird kollektiv Pizza bestellt.
+  * Venti bringt den Audioverstärker im Labor in einen benutzbaren Zustand.
+  * Christian und Ralf verpassen der Lichtsteuerung zusätzliche Kühlkörperchen.
+  * mrks hat einen Großteil seiner [[veranstaltungen:2wickl2014|2wickl]] -Exponate dabei. Ausgehend von den Reaktionen der Anwesenden, inbesondere Timo, könnte die Aktion richtig gut werden.\\ Der Ortstermin für den nächsten Tag wird geplant.
+  * mirwi lötet weiter an seiner 2wickl Baustelle.
+  * Es macht sich die Erkenntnis breit, dass es hübsch wäre, bis zum [[veranstaltungen:2wickl2014|2wickl]] ein [[projekte:banner|Kitchen Banner]] und vielleicht auch Shirts zu haben. Entsprechende Zombi Prozesse wurden retriggert.
+  * Gunther kämpft mit einem kaputten Dateisystem auf einer SD Karte.

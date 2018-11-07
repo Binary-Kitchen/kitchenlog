@@ -1,0 +1,9 @@
+BEGIN: 2018-06-02
+END: None
+TOPIC: Open-Lab
+APPENDIX: None
+MEDIA: kitchenlog/log02.06.2018.jpg, 600
+
+  * ein erster  [[projekte:fraese_halten|Möbel-Workshop]] findet spontan statt
+  * es wird ein Berliner Hocker aus Fichte gebaut
+  * abends machen wir es uns draußen gemütlich und es gibt Brotzeit mit Radieschenmäuschen

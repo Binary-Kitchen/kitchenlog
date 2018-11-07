@@ -1,0 +1,9 @@
+BEGIN: 2015-05-04
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff
+  * Sebastian kocht Spaghetti und eine Unmenge an sehr gute Bolognese Soße. - Und trotzdem ist nicht genug für einen zweiten Abend Essen zum einfrieren übrig geblieben...
+  * Phil druckt 3D Pacman Geister
+  * Allgemeines Spielen mit den Chromecasts

@@ -1,0 +1,9 @@
+BEGIN: 2014-11-17
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+  * Diskussionen um Freifunk in Regensburg
+  * Verteilen von Freifunk-Routern
+  * (und vieles mehr, was ich nicht mitbekommen habe - bitte ergänzen!)

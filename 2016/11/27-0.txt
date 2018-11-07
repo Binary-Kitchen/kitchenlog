@@ -1,0 +1,8 @@
+BEGIN: 2016-11-27
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Es wird gesiebdruckt und es funktioniert! Viele Dinos wandern durch die Kitchen. Leider haften die Vorlagen noch nicht wie gewünscht, aber ein erster erfolgreicher Durchgang macht Lust auf mehr.
+  * im Keller rödelt der 3D-Drucker
+  * es gibt Lebkuchen, Kekse und heiße Schokolade  

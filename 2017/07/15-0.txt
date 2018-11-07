@@ -1,0 +1,9 @@
+BEGIN: 2017-07-15
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-07-15.png, 600
+
+  * Grillfest in der Binary Kitchen
+  * Nachmittags wurde die erste Bank fertiggestellt
+  * Am Abend war auch eine weitere fertiggestellt

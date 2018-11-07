@@ -1,0 +1,12 @@
+BEGIN: 2017-09-03
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-09-03_1.jpg, 200
+MEDIA: kitchenlog/kitchenlog_2017-09-03_2.jpg, 200
+MEDIA: kitchenlog/kitchenlog_2017-09-03_3.jpg, 200
+
+  * Neue Lötsets für die kommenden Lötkurse werden zusammengepackt
+  * Viele viele kleine Bauteile müssen sortiert werden
+  * Es wird immer noch an den Bänken gepinselt
+  * Schlösser der Werkstatt wurden ausgetauscht

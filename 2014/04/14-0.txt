@@ -1,0 +1,7 @@
+BEGIN: 2014-04-14
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/c-sort.jpg, 300
+
+Montagstreff, Getränkeautomat wurde geconft Julian hat lecker Essen gekocht. Mirwi hat im Labor <del>die Sortimentskästen</del> Kondensatoren sortiert - viele.

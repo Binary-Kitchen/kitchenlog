@@ -1,0 +1,25 @@
+BEGIN: 2014-11-14
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Amateurfunk-Kurs.
+  * Elektromagnetisches Feld
+    * Das elektrische Feld
+    * Das magnetische Feld
+    * Elektromagnetisches Feld
+    * Polarisation
+    * Wellenlänge
+  * Wellenausbreitung
+    * Kurzwellenausbreitung
+    * Ionosphäre
+    * Sonnenflecken
+    * Reichweite der Raumwellen
+    * D-Schicht
+    * Fading
+    * F-Schicht und E-Schicht
+    * Tote Zone
+    * Reichweite auf Kurzwelle
+    * UKW-Wellenausbreitung
+    * Weitere UKW-Betriebsarten
+ 

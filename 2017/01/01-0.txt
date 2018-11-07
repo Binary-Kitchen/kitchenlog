@@ -1,0 +1,6 @@
+BEGIN: 2017-01-01
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Eine Gruppe feiernder Menschen schwappt in der Kitchen ins Jahr 2017!

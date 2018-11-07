@@ -1,0 +1,11 @@
+BEGIN: 2018-01-22
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-01-22_1.jpg, 600
+MEDIA: kitchenlog/kitchenlog_2018-01-22_2.jpg, 600
+
+  * Clemens bringt Wraps (free food \o/)
+  * Partyplanung im Keller
+  * In der Werkstatt wird ein Schweißgerät zerlegt
+  * Die ersten von seeeehr vielen Teilen für die [[projekte:mpcnc|CNC-Fräse]] werden gedruckt

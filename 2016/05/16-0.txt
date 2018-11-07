@@ -1,0 +1,8 @@
+BEGIN: 2016-05-16
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Es ist Feiertag, dennoch haben sich ein paar Köche zum montaglichen Treff zusammengefunden
+  * es wird Exploding Kittens angestest, demnächst dann vielleicht ausgiebiger an einem Analogspieleabend
+  * Essen: Selbstversorgung

@@ -1,0 +1,19 @@
+BEGIN: 2018-01-01
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-01-01_1.jpg, 200
+MEDIA: kitchenlog/kitchenlog_2018-01-01_2.jpg, 200
+MEDIA: kitchenlog/kitchenlog_2018-01-01_3.jpg, 200
+MEDIA: kitchenlog/kitchenlog_2018-01-01_4.jpg, 200
+MEDIA: kitchenlog/kitchenlog_2018-01-01_5.jpg, 200
+
+**Happy First Day of Chaos 3184 Our Lady of Discord**
+  * Wir feiern ins neue Jahr
+  * Das IP-Telefon in der Küche wird angeschlossen
+  * Neue Sensoren für die Werkstatt werden verkabelt
+  * Feuerwerk
+  * Nach ein bisschen Schlaf wird die Kitchen wieder aufgeräumt
+|  |  |
+|  |  |
+|  |  |

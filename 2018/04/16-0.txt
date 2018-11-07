@@ -1,0 +1,13 @@
+BEGIN: 2018-04-16
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/schinkennudeln.png, 200
+MEDIA: kitchenlog/kitchenlog_2018-04-16_1.jpg, 200
+MEDIA: kitchenlog/kitchenlog_2018-04-16_2.jpg, 200
+
+  * Es gibt leckere Schinkennudeln mit viel Zwiebeln
+  * Wir begrüßen ein paar Gäste in der Kitchen \o/
+  * Die Seife die Sonntag hergestellt wurde, wird ausgepackt und in Stücke geschnitten
+  * Die Fräse bekommt eine Schublade für Werkzeug und Fräser und andere Dinge
+  

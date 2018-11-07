@@ -1,0 +1,8 @@
+BEGIN: 2015-02-06
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Amateurfunk-Kurs.
+  * Digitale Betriebsarten (Morse, PSK31 etc.)
+  * Gesetzliches

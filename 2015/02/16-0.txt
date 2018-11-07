@@ -1,0 +1,9 @@
+BEGIN: 2015-02-16
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+  * Sandra und Sven backen lecker Krapfen
+  * Sandra versucht uns weiszumachen, dass diese Krapfen Pfannenkuchen wären
+  * **Anmerkung des Bergtrolls: ** Sie hat recht....

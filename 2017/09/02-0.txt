@@ -1,0 +1,7 @@
+BEGIN: 2017-09-02
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * bevor mit dem Packen der Lötsets begonnen werden kann, muss noch das Chaos vom Montag beseitigt werden
+  * Kitchen-Chaos beseitigen dauert länger als gedacht und Projektarbeit wird auf ein anderes Mal vertagt

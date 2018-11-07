@@ -1,0 +1,15 @@
+BEGIN: 2018-05-08
+END: None
+TOPIC: Küchen-Radio
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-05-09.jpg, 600
+MEDIA: kitchenlog/img_20180509_190844-collage.jpg, 400
+
+  * Antennenkabel bauen
+  * Erfahrungsaustausch Magnetic Loop Antennen
+  * Selbstgebaute Groundplane wird vorgestellt und ausprobiert
+  * Schmöckern in einer älteren Ausgabe von Rothammels Antennenbuch
+===== TTN Treffen: Mittwoch, 9. Mai 2018 ====
+  * Erstes Treffen der The Tings Network Community Regensburg mit 11 Teilnehmern
+  * Vortrag zu TTN von Andreas und LoRaWAN von TobT
+  * Austausch über LoRa Gateways und Nodes

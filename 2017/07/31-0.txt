@@ -1,0 +1,12 @@
+BEGIN: 2017-07-31
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-07-31.png, 600
+MEDIA: kitchenlog/kitchenlog_2017-07-31_2.jpg, 600
+
+  * Unser [[projekte:arcadeautomat|Arcade-Automat]] kommt aus seinem Kurzurlaub zurück
+  * Feldbett Anti-versink-o-matic-Bretter werden gebaut
+  * Ein Brett für Bekanntmachungen auf der SHA wird zusammengezimmert
+  * Letzte Planungen zur Abfahrt werden getroffen
+  * Wir bekommen eine Ampel geliefert - Vielen Dank!

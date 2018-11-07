@@ -1,0 +1,7 @@
+BEGIN: 2015-01-30
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Amateurfunk-Kurs.
+  * Sender & Empfänger

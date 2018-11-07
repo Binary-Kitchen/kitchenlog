@@ -1,0 +1,8 @@
+BEGIN: 2016-12-07
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/20161207_202749.jpg, 300
+
+  * Umbau des [[projekte:kuechenradio:c5_umbau:start|Siemens C5]] abgeschlossen
+  * \...

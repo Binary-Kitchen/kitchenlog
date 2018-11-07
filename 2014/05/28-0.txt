@@ -1,0 +1,9 @@
+BEGIN: 2014-05-28
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Heute haben wir unseren eigenen Safe geknackt. Conrad Electronic und Bauhaus verkauft derzeit noch diesen Safe. Beide wurden über die Sicherheitsdefizite informiert.
+Seht selbst:
+[[https://www.youtube.com/watch?v=wQQtnyxgA1Y|Mit leichter Gewalt]]
+[[https://www.youtube.com/watch?v=jo2bMFFyiek|Ohne Gewalt]]

@@ -1,0 +1,9 @@
+BEGIN: 2018-06-25
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * heute geht es etwas ruhiger zu
+  * die Zeit wird genutzt um über die anstehende Klo-Renovierung zu sprechen
+  * die Ergebnisse können hier im [[ https://pad.binary-kitchen.de/s/HkRyj3R-X|Pad]] nachgelesen werden
+  * danach wird noch ein wenig getschunkelt

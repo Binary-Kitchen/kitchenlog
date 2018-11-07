@@ -1,0 +1,6 @@
+BEGIN: 2016-08-29
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Amateurfunkexperimente auf Kurzwelle. Die Dachrinne vorne muss als Antenne her halten.

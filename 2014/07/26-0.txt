@@ -1,0 +1,8 @@
+BEGIN: 2014-07-26
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Erster "Basteltermin".
+  * MoepMan frickelt ein paar Details am neuen Router (den wir seit Freitag haben)
+**Was hat sich sonst getan???**

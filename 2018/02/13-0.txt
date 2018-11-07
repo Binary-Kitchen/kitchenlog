@@ -1,0 +1,10 @@
+BEGIN: 2018-02-13
+END: None
+TOPIC: Küchen-Radio
+APPENDIX: None
+MEDIA: kitchenlog/20180213_203044.jpg, 600
+
+  * Nur kleine Runde nach Winterpause
+  * Abstimmes eines 2m Fuchsempfängers
+  * 2m/70cm Antenne für die Kitchen wird geplant
+  * Der Stand anderer AFU-Projekte wird geprüft

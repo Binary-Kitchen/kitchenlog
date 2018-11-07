@@ -1,0 +1,12 @@
+BEGIN: 2015-01-10
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/cam01138.jpg, 100
+MEDIA: kitchenlog/cam01141.jpg, 100
+
+Projektnachmittag & Spieleabend.
+  * Whiskyflaschenregal in der Küche montiert
+  * Transparente Umrandung für die Kugelbahn aus Plexiglas geschnitten
+  * Getränkeautomat debugged: Mit Kunststoffstreifen die Gleitfähigkeit der Flaschenschächte verbessert, weniger feststeckende Flaschen erhofft (Bild)
+  * Analogspieleabend mit "Cards against humanity", "Cluedo" & Chili

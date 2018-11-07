@@ -1,0 +1,7 @@
+BEGIN: 2017-09-25
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * es gibt Kürbiskuchen und es werden lecker Nudeln mit Käsesoße gekocht
+  * reges Treiben in allen Räumen

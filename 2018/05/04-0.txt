@@ -1,0 +1,10 @@
+BEGIN: 2018-05-04
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-05-04.jpg, 400
+
+  * 3D-Druck im Keller
+  * Es gibt Laugengebäck
+  * Das zweite Regal für Sortimentskästen wird aufgehängt
+  * Erste Sortierarbeiten \...

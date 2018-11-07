@@ -1,0 +1,7 @@
+BEGIN: 2017-12-31
+END: None
+TOPIC: Silvester
+APPENDIX: None
+MEDIA: silvester_2018.jpg, 400
+
+  * [[:silvester2017|Silvesterparty 2018 in der Binary Kitchen]]

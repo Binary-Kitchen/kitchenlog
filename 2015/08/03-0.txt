@@ -1,0 +1,6 @@
+BEGIN: 2015-08-03
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Die Camp-Fahrer verladen mehr als eine Tonne Gepäck auf zwei Autos und einen Anhänger

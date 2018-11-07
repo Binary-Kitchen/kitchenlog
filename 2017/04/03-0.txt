@@ -1,0 +1,8 @@
+BEGIN: 2017-04-03
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Diskussionen zur Verbesserung des Freifunk Netzes
+  * Installation eines Test-Routers für den neuen Freifunk Gateway
+  * Planungen für den Umbausamstag

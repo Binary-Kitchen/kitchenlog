@@ -1,0 +1,11 @@
+BEGIN: 2017-08-04
+END: 2017-08-08
+TOPIC: SHA2017
+APPENDIX: None
+MEDIA: kitchenlog/sha2017_1.png, 600
+MEDIA: kitchenlog/sha2017_2.png, 600
+MEDIA: kitchenlog/sha2017_3.png, 600
+MEDIA: kitchenlog/sha2017_4.png, 600
+
+Zusammen mit Munich Maker Lab, Fablab Nürnberg, ICMP und weiteren Gästen war die Binary Kitchen auf der SHA 2017 im KGL Bamt vertreten.
+Trotz einiger Probleme, viel Regen und viel viel Wind konten wir im 2. Anlauf unseren Maibaum erfolgreich aufstellen.

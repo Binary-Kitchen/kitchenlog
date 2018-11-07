@@ -1,0 +1,10 @@
+BEGIN: 2018-03-30
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/pulled1.png, 200
+MEDIA: kitchenlog/pulled2.png, 200
+
+  * ein paar Daheimgebliebene treffen sich für einen gemütlichen Abend
+  * es gibt pulled pork und Monty Python Filme
+ 

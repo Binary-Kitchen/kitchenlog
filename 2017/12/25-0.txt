@@ -1,0 +1,6 @@
+BEGIN: 2017-12-25
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Weihnachten ;-)

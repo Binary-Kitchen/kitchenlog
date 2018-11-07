@@ -1,0 +1,6 @@
+BEGIN: 2016-08-31
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Eine neue Antenne für Kurzwelle wird installiert (13m Vertikal im Baum). Erste Tests sind ermutigend.

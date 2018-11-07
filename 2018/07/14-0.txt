@@ -1,0 +1,12 @@
+BEGIN: 2018-07-14
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/20180716_090633.jpg, 600
+MEDIA: kitchenlog/20180716_090714.jpg, 600
+
+  * Einige Kitchenmitglieder besuchen die U.S.S. DANUBIA zu ihrem Sommerfest
+  * Es wird weiter an der [[projekte:mpcnc|MPCNC]] gearbeitet
+  * Die Fräse wird eingebaut und ein Kitchenkopf zuerst in Styropor dann in Holz gefräst
+  * Weitere Tische für die Kitchen werden gebaut
+ 

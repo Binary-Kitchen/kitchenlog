@@ -1,0 +1,8 @@
+BEGIN: 2017-01-30
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * aufgrund von Blitzeis ist an diesem Montag etwas weniger los
+  * zu essen gibt es Restpizza vom Partyaufräumen am Sonntag
+  * es wird ein wenig geschneidplottert, Crypto erklärt und anderweitig vor sich her gewerkelt

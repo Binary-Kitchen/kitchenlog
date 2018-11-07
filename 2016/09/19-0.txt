@@ -1,0 +1,13 @@
+BEGIN: 2016-09-19
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/85031474307163720-2035761400.jpg, 300
+
+  * Viele neue und altbekannte Besucher
+  * Julian kocht mal wieder: Nudeln kalifornischer Art
+  * Das neue Arcade-Rack wird ausprobiert
+  * Der PC im Labor wurde endlich auf Jessy geupdatet. Danke wastl!
+  * Ein Funkamateur aus Ungarn war da mit einem Elecraft KX3 an dem mirwi gemorst hat
+  * Durch einen kleinen Unfall fallen die Moodlights aus. Ein Kupferlackdraht auf der Steuerplatine schmorte durch.
+  * Außerdem musste aus 2 defekten Raspys durch umlöten des SD-Slots wieder ein ganzer gemacht werden um das Problem zu lösen

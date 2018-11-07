@@ -1,0 +1,9 @@
+BEGIN: 2014-10-06
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Montagstreff.
+  * Tom kocht.
+  * Leute spielen und kämpfen mit BananaPi. 
+  * Sonst fällt mir nichts mehr ein, wir haben uns gut unterhalten.

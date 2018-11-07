@@ -1,0 +1,7 @@
+BEGIN: 2014-03-10
+END: None
+TOPIC: Küchenzeit
+APPENDIX: Abend
+MEDIA: kitchenlog/dmxdimmer.jpg, 300
+
+Montags Treff, Sebastian hat Spaghetti Bolognese gekocht. Ralf, Mrks und Michael haben die Hardware des DMX-Dimmers repariert, jetzt muss er nur noch neu geflasht werden, dann können die LED Fluter in Betrieb genommen werden.

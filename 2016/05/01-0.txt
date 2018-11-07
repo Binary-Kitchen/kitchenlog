@@ -1,0 +1,7 @@
+BEGIN: 2016-05-01
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Ein paar Köche haben sich zu einer ausgiebigen Nachmittagsbrotzeit zusammengefunden
+  * es wird über allerlei Bastel-, Koch- und Backprojekte geredet

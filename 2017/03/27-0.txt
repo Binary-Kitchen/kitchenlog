@@ -1,0 +1,9 @@
+BEGIN: 2017-03-27
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Die Mitglieder des Freifunk Regensburg e.V. treffen sich im Keller zur Jahreshauptversammlung
+  * Im Anschluss wird über weitere Freifunk Themen diskutiert
+  * Das letzte Woche zu Bruch gegangene (und inzwischen reparierte) Kellerfenster wird wieder eingesetzt
+  * Der 3D-Drucker Mendel90 läuft wieder und hat gleich mal das erste Teil für sein eigenes Upgrade gedruckt.

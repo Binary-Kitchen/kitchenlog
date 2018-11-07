@@ -1,0 +1,8 @@
+BEGIN: 2014-02-20
+END: None
+TOPIC: Küchenzeit
+APPENDIX: Abend
+MEDIA: kitchenlog/matrix-schraubenzieher.jpg, 200
+MEDIA: projekte/ledmatrix/clock.jpg, 200
+
+Ich (Ralf) hab in die Matrix den 12V<->5V DC/DC Wandler eingebaut. Damit ist die Matrix jetzt hardware wie softwareseitig fertig. Mit einem [[https://github.com/rralf/Matrix-Client/blob/e37d833323c5c05cf2948017ca5714609263ffa6/scripts/matrix-pic-webcam.sh|kleinen trickreichen Script]] war es mir sogar möglich, live meine Webcam auf die Matrix zu projezieren:

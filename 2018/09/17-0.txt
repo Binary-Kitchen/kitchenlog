@@ -1,0 +1,8 @@
+BEGIN: 2018-09-17
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * SSDs werden in den neuen Server (wurst) in der Kitchen eingebaut
+  * Der neue RZ-Server (salat) wird ins RZ gebracht und dort in Betrieb genommen
+  * Einige Mitglieder sind bei einem Treffen von CON_TEMPORARY: Eine Kunstausstellung wird kommen!

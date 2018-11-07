@@ -1,0 +1,10 @@
+BEGIN: 2016-10-22
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/2016-10-22.png, 300
+
+  * Film gucken, irgendwas mit Zombies
+  * Begonnene künstlerische Ausgestaltung des Treppenhauses
+  * Debugging am Getränkeautomat -> Kompressor läuft, ist also vermutlich ein Kühlmittelproblem, kein elektrisches.
+ 

@@ -1,0 +1,6 @@
+BEGIN: 2018-04-10
+END: None
+TOPIC: Küchen-Radio
+APPENDIX: None
+
+  * leider nichts besonderes passiert \...

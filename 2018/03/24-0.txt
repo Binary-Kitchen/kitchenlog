@@ -1,0 +1,9 @@
+BEGIN: 2018-03-24
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-03-24.jpg, 600
+
+  * Ein Bett wird gebaut
+  * Irgendjemand kehrt den Weg vor Kitchen
+  * Schutz vor den Werkbänken wird an den Wänden angebracht

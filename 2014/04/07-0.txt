@@ -1,0 +1,9 @@
+BEGIN: 2014-04-07
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/automat2.jpg, 300
+MEDIA: kitchenlog/automat1.jpg, 300
+MEDIA: kitchenlog/automat3.jpg, 300
+
+Montagstreff, Getränkeautomat hat seinen Platz gefunden im Keller. Um ihn runterzubringen mussten wir ihn total zerlegen. Hoffentlich muss der nie wieder raus...

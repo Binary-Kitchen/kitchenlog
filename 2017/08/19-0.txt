@@ -1,0 +1,16 @@
+BEGIN: 2017-08-19
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-08-19.png, 600
+
+  * Renovieren der neuen Werkstatt
+  * Überflüssigen Baumaterial und sonstiger Müll wird entsorgt
+  * Schuppen wird entrümpelt und neu eingeräumt
+  * Der Eingangsbereich wird fertiggestrichen
+  * Im kleinen Raum wird die Deckenbeleuchtung installiert
+  * Weiteres Werkzeug wird sortiert und säuberlich verstaut
+  * Fenster wird blau gestrichen
+  * Die grüne Tür wird eingepasst
+  * Allgemeines saubermachen
+  * und vieles vieles mehr

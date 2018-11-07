@@ -1,0 +1,14 @@
+BEGIN: 2018-06-18
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/seife_fett_juni18.png, 600
+MEDIA: kitchenlog/seife.png, 600
+MEDIA: kitchenlog/seife_form_juni18.png, 600
+
+  * trockenes Wetter, es ist viel los und man sitzt gemütlich in und vor der Kitchen
+  * draußen wird nicht der Grill angeworfen, sondern neues Rindernierenfett für einen weiteren [[projekte:seife|Seifenworkshop]] ausgekocht
+  * außerdem wird an der BK-Seifenform weitergearbeitet 
+  * das Campusfest wird nachbesprochen - alle neuen Erkenntnisse werden in den kommenden Tagen im Wiki zum [[organisation:howtos:campusfest|Campusfest]] ergänzt
+  * Im Keller wurde der Steckdosenumbau begonnen, u.A. Notstrom für die 3D Drucker
+  * Einige Netzwerkkomponenten für Freifunk in Kelheim wurden Konfiguriert

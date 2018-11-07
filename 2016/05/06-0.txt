@@ -1,0 +1,6 @@
+BEGIN: 2016-05-06
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * AFU-Kurs in der Kitchen, wieder gut besucht

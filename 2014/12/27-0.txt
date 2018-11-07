@@ -1,0 +1,12 @@
+BEGIN: 2014-12-27
+END: 2014-12-30
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/spacerail_lvl9.jpg
+
+Congress Everywhere.
+  * Wir schauen zusammen Congress-Streams
+  * Kochen leckeres essen
+  * Diskutieren Freifunk
+  * Stellen das Spacerail Level 9 fertig (Bild)
+  * Die Veranstaltung findet mit täglich mehr als 10 Gästen regen Anklang.

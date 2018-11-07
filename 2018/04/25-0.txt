@@ -1,0 +1,7 @@
+BEGIN: 2018-04-25
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-04-25.jpg, 600
+
+  * Lötdampfabsaugungen für den Kitchen Lötkurs werden gebaut

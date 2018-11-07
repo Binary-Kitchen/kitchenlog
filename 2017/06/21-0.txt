@@ -1,0 +1,12 @@
+BEGIN: 2017-06-21
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-06-21.png, 600
+
+  * In der Kitchen ist es heiß wie in einer Sauna!
+  * Netzteil & Steuergerät für Bürgerfestbeleuchtung wird gebaut
+  * Der Nibbel-Tool der Kitchen kommt zum Einsatz um das Gehäuse zu bearbeiten
+  * Letzte Versuche die defekte Spülmaschine zu reparieren
+  * Feldtelefone fürs Bürgerfest zusammengepackt
+  * Kurze Besprechung was zum Thema Amateuerfunk auf dem Bürgerfest gemacht werden kann

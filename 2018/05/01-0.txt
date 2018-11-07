@@ -1,0 +1,7 @@
+BEGIN: 2018-05-01
+END: None
+TOPIC: Ausflug
+APPENDIX: None
+
+  * Maibockanstich
+  * Eis in der Stadt

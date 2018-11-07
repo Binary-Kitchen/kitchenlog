@@ -1,0 +1,17 @@
+BEGIN: 2017-04-08
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog-2017-04-08-01.png, 600
+MEDIA: kitchenlog/kitchenlog-2017-04-08-02.png, 600
+
+  * Der letzte Sperrmüll aus unseren neuen Räumen wurde entsorgt
+  * Elektroinstallation wird geplant
+  * Löcher für zukünftige Kabel wurden angelegt
+  * Streicharbeiten beginnen
+  * Der Schuppen wurde abgeschliffen und neu gestrichen
+  * (Freifunk) Vorbereitung Access-Points für den Zeisstower
+  * (Freifunk) Montage des neuen Gehäuse am Zeisstower
+  * (Freifunk) Firmware-Updates im Richtfunk Backbone
+  * (Freifunk) Konfiguration und Einbau neuer Hardware am Galeria
+  * Abends gibt es leckere Spagetti Bolognese zur Belohnung

@@ -1,0 +1,15 @@
+BEGIN: 2017-09-16
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-09-16_1.png, 600
+MEDIA: kitchenlog/kitchenlog_2017-09-16_2.png, 600
+MEDIA: kitchenlog/kitchenlog_2017-09-16_3.png, 600
+MEDIA: kitchenlog/kitchenlog_2017-09-16_4.png, 600
+
+  * [[veranstaltungen:werkstatteroeffnung|Tag der offenen Kitchen und Eröffnung der Werkstatt]]
+  * Wir freuten uns über die vielen Besucher. Nachbarn, Freunde, Bekannte und Besucher aus anderen Hackspaces
+  * Es gab viel zu erleben. Der Lötworkshop war bis spät in die Nacht gut besucht.
+  * Siebdruck auf viele Taschen, T-Shirts und sonstiges
+  * Führungen durch unseren Space mit Vorstellung der verschiedenen Arbeitsplätze
+  * Unser 3D-Drucker war auch fast dauernd in Betrieb

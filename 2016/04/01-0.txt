@@ -1,0 +1,7 @@
+BEGIN: 2016-04-01
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Ein neuer Amateurfunk-Kurs startet!
+  * In den kommenden Wochen sind die Amateurfunker freitags zwischen 18 und 20 Uhr in der Kitchen. Interessenten können gern noch dazukommen.

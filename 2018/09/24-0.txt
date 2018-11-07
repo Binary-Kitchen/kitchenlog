@@ -1,0 +1,11 @@
+BEGIN: 2018-09-24
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/entry/2018/09/20180925_093911.jpg, 600
+
+  * Die [[projekte:mpcnc|MPCNC]] bekommt ein neues größeres und höheres Untergestell
+  * Bei dieser Gelegenheit bekommt die Kreissäge auch noch eine passende Garage (Arbeitsfläche fehlt noch)
+  * Siebdruck
+  * Stiftplotter wird mal wieder ausgepackt
+==== Bilder ====

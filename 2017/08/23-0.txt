@@ -1,0 +1,10 @@
+BEGIN: 2017-08-23
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Die Kanten der Bänke werden abgefräst und geschliffen
+  * Die grüne Tür wird nochmal gestrichen
+  * Der 3D Drucker wird weiter vorbereitet
+  * Mailingliste für Küchen Radio wird eingerichtet
+  * Eröffnung der der Werkstatt wird geplant

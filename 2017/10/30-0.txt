@@ -1,0 +1,8 @@
+BEGIN: 2017-10-30
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/2017-10-30-1.jpg, 400
+
+  * Der Kompressor wurde mit einer SPS in die [[projekte:hausautomatisierung:openhab|Hausautomation]] eingebunden
+  * Am Fenster in der Butchery wurden Reedkontakte angebracht um den Fensterstatus zu überwachen

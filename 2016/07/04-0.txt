@@ -1,0 +1,9 @@
+BEGIN: 2016-07-04
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Leckere Flammkuchen von Xaver
+  * Die Mannschaft am 3D-Drucker versucht einen Keil zwischen Dinge zu treiben (Türstopper) und die Pfeifen funktionieren nicht \...
+  * Diskussionen über den Aufbau des Freifunk Backbone
+  * Weiteres Kämpfen am Multiboot System mit hin und her Partitionieren und Installieren... 

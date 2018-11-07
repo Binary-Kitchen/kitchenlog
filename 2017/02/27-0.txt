@@ -1,0 +1,12 @@
+BEGIN: 2017-02-27
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog1_2017-02-27.jpg, 330
+MEDIA: kitchenlog/kitchenlog2_2017-02-27.jpg, 330
+
+  * Phil repariert den Flaschenöffner in der Küche
+  * Ein paar neue Bilder von der Kitchen werden gemacht
+  * Die Kitchen Poster werden vorgestellt
+ 
+----

@@ -1,0 +1,10 @@
+BEGIN: 2018-06-16
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/img_20180616_145332.jpg, 400
+MEDIA: kitchenlog/img_20180616_171340.jpg, 400
+
+  * Großes Siebdrucken mit der Fachschaft Informatik.
+  * Lötworkshop am Pürkelgut bei [[https://www.transition-regensburg.de/|Transition]]. Wir haben Nibbleklammern gebastelt
+  * am Abend wird gegrillt, ein Vogel aus der Kitchen gerettet und gemütlich ein Film zusammen geschaut

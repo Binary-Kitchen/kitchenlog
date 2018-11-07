@@ -1,0 +1,11 @@
+BEGIN: 2014-07-07
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+Gut besuchter Montagstreff.
+  * Nudeln mit Bolognese Soße, diesmal von Tom - sehr lecker, erfordert Nudelnachkochen.
+  * Was tut sich sonst da oben? - bitte Ergänzen!
+  * Timo hat ein defektes Schaltnetzteil dabei, das wir in Betrieb nehmen und ein bisschen daran rum messen. Ausser einer Bestätigung, dass wirklich ein Teilbereich defekt ist, kam dabei aber nicht viel heraus...
+  * Mirwi ergründet auf dem Steckbrett die Funktion eines Logik-IC, dessen kyrillisches Datenblatt sich uns nicht so ganz erschließt.
+  * Lief irgendwo noch was mit Fußball?

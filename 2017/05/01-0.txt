@@ -1,0 +1,8 @@
+BEGIN: 2017-05-01
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Nachmittags Maibockanstich im Spital
+  * Abends wird wieder mal gekocht! Chilli von Julian.
+  * Die aktuellen Fortschritte der neuen Räume werden begutachtet

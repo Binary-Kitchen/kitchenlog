@@ -1,0 +1,7 @@
+BEGIN: 2016-10-18
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Wast spielt mit seinem Funkgerät
+  * Janos spendiert ein paar als elektronische Morstetaste programmierte PICs und passende Platinen (siehe [[projekte:kuechenradio:dl4yhf_keyer:start|DL4YHF Keyer]])

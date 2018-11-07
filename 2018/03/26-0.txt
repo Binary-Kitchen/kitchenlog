@@ -1,0 +1,8 @@
+BEGIN: 2018-03-26
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Vorstandssitzung: Bienenplanung, neue Mitglieder und anderes
+  * Planungen und Tests für die neue USV
+  * Chaosvermittlung wird für die Easterhegg verladen

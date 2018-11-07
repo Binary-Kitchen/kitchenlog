@@ -1,0 +1,12 @@
+BEGIN: 2017-11-18
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/408651511016462568.jpg, 200
+MEDIA: kitchenlog/408871511022750372.jpg, 400
+
+  * am Vormittag trafen sich die Amateurfunker zu ihrem Amateurfunkkurs
+  * Es gab viel Aktivität in der Werkstatt
+  * unter anderem wurden die Lampen neu verkabelt und hängen nun in friedlicher Koexistenz mit den neuen Hängeschränken in der Dunkelkammer
+  * Es wurde gefräst und viel gekappsägt
+  * Die Reedkontakte am Küchenfenster wurden mit der Hausautomatisation verbunden. Im Display wird nun der Fensterstatus angezeigt.

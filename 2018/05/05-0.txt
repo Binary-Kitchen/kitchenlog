@@ -1,0 +1,16 @@
+BEGIN: 2018-05-05
+END: None
+TOPIC: OpenLab
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2018-05-05_1.jpg, 400
+MEDIA: kitchenlog/kitchenlog_2018-05-05_2.jpg, 400
+MEDIA: kitchenlog/videotogif_2018.05.05_20.09.30.gif, 400
+
+  * Es wird weiter an der [[projekte:mpcnc|MPCNC]] gearbeitet
+    * Am Ende bewegen sich schon die X und Y-Achse
+    * Halteklammern für die Fräse werden zusammengestellt
+  * Das große Waschbecken in der Werkstatt silikoniert
+  * Eine USB-Buchse wird an einem Verstärker gelötet
+  * UV-Lampe zum belichten wird getestet und bekommt eine Halterung
+  * An einem der 3D-Drucker bricht die Achse des Schrittmotors :-(
+  * Abends wird Geburtstag gefeiert mit Grill und Lagerfeuer

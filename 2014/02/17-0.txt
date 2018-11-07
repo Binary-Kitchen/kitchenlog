@@ -1,0 +1,6 @@
+BEGIN: 2014-02-17
+END: None
+TOPIC: Küchenzeit
+APPENDIX: Abend
+
+**Regulärer Treff am Montag.** Andreas, Sebastian, Moep, \... kochen leckeres Essen. Ralf feilt weiter an der Software zur LED Matrix - Graustufen und Textausgabe, einfach cool. Feili bringt wieder Geschenke mit - vor allem Bücher für die Hackspace Bibliothek. Mirwi spielt im Labor mit den neuen, alten, Messgeräten - auch der Röhren-Messender aus dem Bytewerk in Ingolstadt funktioniert grundsätzlich! Christian plant weiter an der Automatisierungsinfrastruktur. Wastl erbarmt sich wieder mal und macht die Küche klar - manches ändert sich eben doch nicht, trotz neuem Hackspace und Spülmaschine... 

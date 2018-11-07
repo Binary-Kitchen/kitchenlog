@@ -1,0 +1,9 @@
+BEGIN: 2017-02-07
+END: None
+TOPIC: Küchen-Radio
+APPENDIX: None
+
+  * [[veranstaltungen:kuechen-radio|Küchen-Radio]] im Februar
+  * Wir basteln an unserem Prototyp der [[projekte:dl3rtl_arrow|Arrow-Antenne]]
+  * Es fehlt noch das eine oder andere Werkzeug und Bauteil
+  * Erste Versuche für einen Duplexer für die Arrow-Antenne

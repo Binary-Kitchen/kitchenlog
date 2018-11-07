@@ -1,0 +1,14 @@
+BEGIN: 2014-10-20
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2014-10-20.jpg, 300
+
+Montagstreff.\\
+Es rührt sich wieder richtig was.
+  * Venti baut mit seinem Bruder einen ???-Bug zusammen, der dem Licht folgen kann.
+  * Phil entlockt dem Plotter Kitchen- und Debian-Logos. Egal, was die Kiste zeichnet, es macht einfach Freude beim Zuschauen :-) \.
+  * Julian kocht.
+  * Mirwi bringt die [[labor:equipment|Makrokamera im Labor]] in Stellung.
+  * Möp leistet technische Hilfestellung beim Zerlegen, und auch wieder Zusammensetzen, eines Laptop.
+ 

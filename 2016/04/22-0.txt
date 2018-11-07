@@ -1,0 +1,6 @@
+BEGIN: 2016-04-22
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Es ist wieder AFU-Kurs in der Kitchen.

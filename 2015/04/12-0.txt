@@ -1,0 +1,8 @@
+BEGIN: 2015-04-12
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * es wird zum zweiten Mal in diesem Jahr gegrillt
+  * Norbert, Wastl und Gerd schauen Dr. Who
+  * Chaser hat unten seine DSA Runde

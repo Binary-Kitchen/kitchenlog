@@ -1,0 +1,10 @@
+BEGIN: 2017-01-28
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+MEDIA: kitchenlog/kitchenlog_2017-01-28.png
+
+**Nibble-Party. Party zum 4. Geburtstag der Binary Kitchen!**
+  * Viele viele Gäste! Mit teilweise über 50 Leuten waren unsere Räumlichkeiten ziemlich voll.
+  * Besonders gefreut haben wir uns über die Besucher von FabLab Nürnberg sowie LAN-com.
+  * Es gab einen LED-Geburtstagskuchen, Chili, Mate und natürlich Tschunk!
