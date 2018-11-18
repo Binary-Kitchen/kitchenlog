@@ -2,7 +2,6 @@ BEGIN: 2017-03-20
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20170320_212331.jpg, 400
 
   * Wir haben die Schlüssel für unsere zusätzlichen Räumlichkeiten bekommen \o/
   * Viele Mitglieder schauen sich die neuen Räumlichkeiten an 

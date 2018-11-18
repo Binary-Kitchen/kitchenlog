@@ -2,7 +2,6 @@ BEGIN: 2017-08-19
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog_2017-08-19.png, 600
 
   * Renovieren der neuen Werkstatt
   * Überflüssigen Baumaterial und sonstiger Müll wird entsorgt

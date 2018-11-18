@@ -2,7 +2,6 @@ BEGIN: 2017-07-11
 END: None
 TOPIC: Küchen-Radio
 APPENDIX: None
-MEDIA: img_20170712_075131_282.jpg, 400
 
   * [[veranstaltungen:kuechen-radio|Küchen-Radio]] im Juli
   * Nebenan werden weitere Kabel- und Brüstungskanäle installiert

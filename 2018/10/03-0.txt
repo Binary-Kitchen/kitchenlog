@@ -2,8 +2,6 @@ BEGIN: 2018-10-03
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20181004_081238.jpg, 600
-MEDIA: 20181004_081342.jpg, 600
 
   * Mehr Licht für das Kellerlabor
   * Der neue Herd wird angeschlossen

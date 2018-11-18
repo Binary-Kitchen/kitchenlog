@@ -2,7 +2,6 @@ BEGIN: 2018-07-26
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: donnerstag.jpg, 600
 
   * Es geht weiter mit den Zargen
   * Für Futtertaschen wird eine Schablone gebaut

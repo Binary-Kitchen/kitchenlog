@@ -2,7 +2,6 @@ BEGIN: 2018-09-03
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_20180903_225030.jpg, 600
 
   * Gemeinsame Brotzeit
   * Bilder vom Lübek Ausflug zum Chaoticum Hackspace 

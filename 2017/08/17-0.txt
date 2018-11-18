@@ -2,7 +2,6 @@ BEGIN: 2017-08-17
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog_2017-08-17.png, 600
 
   * Alle Schübe in der Werkstatt sind jetzt geseift und laufen wie geschmiert
   * Label all the things!

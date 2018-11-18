@@ -2,8 +2,6 @@ BEGIN: 2018-06-11
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: bananenmate.jpg, 200
-MEDIA: image-54700.jpg, 300
 
   * Die Top News: Banana-Mate is back und führt zu einiger Freude unter nicht wenigen BinärköchInnen
   * Havarie! Es regnet und drückt das Wasser mal wieder in den Keller - da wird wohl demnächst mal eine Wand demontiert

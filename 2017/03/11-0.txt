@@ -2,7 +2,6 @@ BEGIN: 2017-03-11
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-03-12.jpg
 
   * Es gab leckere Burger und Cole Slaw 
   * Wir basteln an Magic Mirrors

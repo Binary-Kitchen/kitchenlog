@@ -2,8 +2,6 @@ BEGIN: 2018-09-01
 END: None
 TOPIC: Ausflug
 APPENDIX: None
-MEDIA: luebeck1.jpg, 600
-MEDIA: luebeck2.jpg, 600
 
   * Kitchenausflug nach Lübeck und Travemünde
   * Besuch der neuen Räumlichkeiten des Chaotikum e.V. nach Besuchungsbeschluss 

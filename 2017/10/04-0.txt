@@ -2,6 +2,5 @@ BEGIN: 2017-10-04
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: geschirrtuecher.jpg, 400
 
   * Siebdruck in der Werkstatt - die Kitchen hat jetzt eigene Geschirrtücher

@@ -2,10 +2,6 @@ BEGIN: 2018-01-27
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: ninjakatze.jpg, 200
-MEDIA: ninjakatzefarbig.jpg, 200
-MEDIA: gruenerkrake.jpg, 200
-MEDIA: ca44d703-aa59-4c76-b057-813962f2080f.jpeg, 600
 
   * Wir haben tollen Besuch aus Nürnberg und zusammen werden grüne Kraken und Ninja-Katzen gedruckt.
   * Außerdem wurde am Wiki gearbeitet, Design wurde etwas angepasst und Kitchenstatus wird jetzt angezeigt in der Sidebar.

@@ -2,8 +2,6 @@ BEGIN: 2018-05-21
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchen_log_pfingsten_2018.jpg, 400
-MEDIA: cnc_stiftplotter.jpg, 400
 
   * trotz oder wegen Feiertag ist doch einiges los
   * in der Küche werden noch einmal Holler-Küchl gemacht

@@ -2,10 +2,6 @@ BEGIN: 2018-04-23
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: filamentregal_20180423_194934.jpg, 300
-MEDIA: filamentregal_20180423_203742.jpg, 300
-MEDIA: wire_2018-04-23_at_13.20.51.jpeg, 300
-MEDIA: kitchenlog_2018-04-23_1.jpg, 200
 
   * Das neue Filamentregal wird aufgehängt (vorher vs. nachher)
   * Ein kleiner Lüfter sorgt für eine Menge Spaß

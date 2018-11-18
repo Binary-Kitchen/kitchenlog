@@ -2,7 +2,6 @@ BEGIN: 2018-10-26
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20181105_084409-collage.jpg, 400
 
  
   * Es ist Herbst, es ist Filmabendzeit - gemeinsam werden ein paar Filme, der Jahreszeit entsprechend, geschaut *määääh

@@ -2,7 +2,6 @@ BEGIN: 2018-01-29
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog_2018-01-29.jpg, 600
 
   * Letztes Planungstreffen für die Kitchen-Party
   * Das Telefon im Hauptraum wird wieder angeschlossen

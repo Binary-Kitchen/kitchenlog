@@ -2,7 +2,6 @@ BEGIN: 2017-05-29
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_1123.jpg, 400
 
   * Phil lackiert
   * \...

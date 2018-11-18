@@ -2,9 +2,6 @@ BEGIN: 2016-09-09
 END: 2016-09-10
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20160909_164048.jpg, 300
-MEDIA: 20160910_131513.jpg, 300
-MEDIA: 79231473534244969799574428.jpg, 300
 
   * Spielekonsolenrack aufgebaut und erste runde Mario Kart gespielt
   * Das Fenster im Keller wurde noch mit Farbe aufgefrischt, nachdem es vermutlich zum ersten mal gereinigt wurde ;-)

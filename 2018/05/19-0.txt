@@ -2,7 +2,6 @@ BEGIN: 2018-05-19
 END: None
 TOPIC: Ausflug
 APPENDIX: None
-MEDIA: ktb_log.png, 600
 
   * Ausflug zur [[https://de.wikipedia.org/wiki/Kontinentales_Tiefbohrprogramm_der_Bundesrepublik_Deutschland|KTB]] nach Windischeschenbach
   * erst gab es eine kleine Wanderung vom Windischeschenbacher Bahnhof zum KTB

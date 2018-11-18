@@ -2,10 +2,6 @@ BEGIN: 2016-12-19
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20161219_213121.jpg, 200
-MEDIA: 20161219_205959.jpg, 200
-MEDIA: oszi1.jpg, 200
-MEDIA: oszi2.jpg, 200
 
   * Packen der Chaosvermittlung für den 33C3
   * Spaß mit Oszilloskopen. Auch als Vorbereitung für den 33C3

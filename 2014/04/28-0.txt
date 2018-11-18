@@ -2,7 +2,5 @@ BEGIN: 2014-04-28
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: moodkitchen.jpg, 300
-MEDIA: aggregat.jpg, 300
 
 Montagstreff. Markus hat seinen RestLeberkäs vernichten lassen. Phil und Christian haben Feldtelefonkabel fertig verlegt - sie funktionieren wieder. Verstärker und Audioverteilerkabel sind fertig verlegt worden. Sebastian, Ralf und Phil haben MoodKitchen Beleuchtung angetestet und wird am Mittwoch fertig verschraubt. Ralf und Clemens haben das "Aggregat" - unser neuer Labor PC - mit ArchLinux versorgt.

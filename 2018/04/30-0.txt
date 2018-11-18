@@ -2,8 +2,6 @@ BEGIN: 2018-04-30
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog_2018-04-30.jpg, 600
-MEDIA: img_20180430_215939419.jpg, 200
 
   * Es ist mal wieder Zeit für Ripperln \...
   * Ein weiteres Regal für Sortimentskästen wird gebaut

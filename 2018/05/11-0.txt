@@ -2,7 +2,6 @@ BEGIN: 2018-05-11
 END: None
 TOPIC: Movienight
 APPENDIX: None
-MEDIA: log11.05.2018.jpg, 600
 
   * Es wird weiter an der [[projekte:mpcnc|MPCNC]] gearbeitet
     * Endschalter werden verdrahtet

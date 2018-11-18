@@ -2,7 +2,6 @@ BEGIN: 2017-08-30
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_20170830_205205.jpg, 600
 
   * Und weiter gehts mit dem 3D-Drucker
   * Warping nun vollständig entfernt

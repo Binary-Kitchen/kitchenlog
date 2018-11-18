@@ -2,7 +2,6 @@ BEGIN: 2018-08-04
 END: None
 TOPIC: OpenLab
 APPENDIX: None
-MEDIA: img_20180804_162901-collage.jpg, 600
 
   * Viel passiert am OpenLab
   * Im Keller wurden Schwingkreise analysiert

@@ -2,6 +2,5 @@ BEGIN: 2018-07-25
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_20180724_211524-collage.jpg, 600
 
   * Weitere Zargen werden gebaut

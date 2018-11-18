@@ -2,7 +2,6 @@ BEGIN: 2018-02-13
 END: None
 TOPIC: Küchen-Radio
 APPENDIX: None
-MEDIA: 20180213_203044.jpg, 600
 
   * Nur kleine Runde nach Winterpause
   * Abstimmes eines 2m Fuchsempfängers

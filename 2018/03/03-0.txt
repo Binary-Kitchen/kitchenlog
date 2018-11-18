@@ -2,11 +2,6 @@ BEGIN: 2018-03-03
 END: None
 TOPIC: OpenLab
 APPENDIX: None
-MEDIA: kitchenlog_2018-03-03_0.jpg, 300
-MEDIA: kitchenlog_2018-03-03_1.jpg, 300
-MEDIA: kitchenlog_2018-03-03_4.jpg, 300
-MEDIA: kitchenlog_2018-03-03_3.jpg, 300
-MEDIA: kitchenlog_2018-03-03_2.jpg, 300
 
   * Beide 3D-Drucker drucken die letzten Teile der [[projekte:mpcnc|MPCNC]]
   * Der Bau der [[projekte:mpcnc|MPCNC]] beginnt. Grundgestell aus ALU-Profilen wird auf einer Siebdruckplatte aufgebaut

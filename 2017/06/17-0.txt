@@ -2,13 +2,6 @@ BEGIN: 2017-06-17
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_1355.jpg, 600
-MEDIA: img_1354.jpg, 600
-MEDIA: img_13461.jpg, 600
-MEDIA: img_1367.jpg, 600
-MEDIA: img_1353.jpg, 600
-MEDIA: img_1357.jpg, 600
-MEDIA: matrix64.gif, 600
 
   * Lötkurs in der Binary Kitchen, volles Haus mit vielen interessierten Teilnehmern.
   * Es wurde fleissig in der Butchery weitergebaut, Kabelkanäle wurden angebracht, Leitungen verlegt, Sicherungskasten montiert, Rigibs montiert.

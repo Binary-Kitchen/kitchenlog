@@ -2,8 +2,6 @@ BEGIN: 2016-10-27
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 2016-10-27-02.jpg, 300
-MEDIA: kitchenlog/2016-10-27-03.png
 
   * Hacker hacken Schränke an die Wand
   * Siemens [[projekte:kuechenradio:c5_umbau:start|C5 Umbau]] wurde begonnen

@@ -2,8 +2,6 @@ BEGIN: 2018-06-04
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_20180604_222303159-02.jpeg, 200
-MEDIA: log04.06.18.jpg, 200
 
   * es gibt Restbrotzeit von Samstag
   * im Keller wird ein Dell-Netzteil vermessen - die Frage ist ob sich ein Adapter für den TS100 bauen lässt

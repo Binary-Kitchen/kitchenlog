@@ -2,8 +2,6 @@ BEGIN: 2016-10-02
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: zwiebel1.png, 200
-MEDIA: zwiebel2.png, 200
 
   * Es wird gekocht: Zwiebelkuchen und Federweisser
   * Anschließend gemütliches Abendprogramm

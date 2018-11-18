@@ -2,8 +2,6 @@ BEGIN: 2017-11-18
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 408651511016462568.jpg, 200
-MEDIA: 408871511022750372.jpg, 400
 
   * am Vormittag trafen sich die Amateurfunker zu ihrem Amateurfunkkurs
   * Es gab viel Aktivität in der Werkstatt

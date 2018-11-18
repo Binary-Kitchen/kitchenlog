@@ -2,8 +2,6 @@ BEGIN: 2017-11-25
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: getraenkeautomatdekonfigurationmatekuehlschrank.png, 400
-MEDIA: burger_abend.png, 400
 
   * in der Küche wird der defekte Getränkeautomat zerlegt, um Platz für einen Getränkekühlschrank zu schaffen
   * der Umbau wird genutzt, um den Boden mal wieder so richtig zu schrubben

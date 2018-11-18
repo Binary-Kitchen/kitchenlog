@@ -2,7 +2,6 @@ BEGIN: 2016-11-02
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchen_2016-11-02.png
 
   * Letzte Aufräumarbeiten von der Halloween-Party
   * Die Ständerbohrmaschine wurde auf eine Holzplatte geschraubt. Damit hat sie einen besseren Stand und kann mit Schraubzwingen flexibel an verschiedenen Tischen befestigt werden

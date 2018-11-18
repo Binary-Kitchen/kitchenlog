@@ -2,8 +2,6 @@ BEGIN: 2017-09-12
 END: None
 TOPIC: Küchen-Radio
 APPENDIX: None
-MEDIA: kitchenlog_2017-09-12_1.png, 600
-MEDIA: kitchenlog_2017-09-12_2.png, 600
 
   * [[veranstaltungen:kuechen-radio|Küchen-Radio]] im September
   * Dank der neuen Werkstatt wurde nun der kleine Werkraum in der Kitchen frei

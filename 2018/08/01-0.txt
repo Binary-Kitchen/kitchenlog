@@ -2,7 +2,6 @@ BEGIN: 2018-08-01
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: djh49egwwae42ui.jpg, 400
 
   * [[organisation:plenum:plenum_05|5. Kitchen Plenum]] 
   * Ein neues Sofa wird besorgt \o/ hoffentlich folgen noch weitere

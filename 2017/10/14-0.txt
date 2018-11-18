@@ -2,9 +2,6 @@ BEGIN: 2017-10-14
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 384271508014003248.jpg, 400
-MEDIA: 384261508007247650.jpg, 400
-MEDIA: 384291508015036226.jpg, 400
 
   * Der Samstagabend wird in einer kleinen Runde zum Basteln genutzt.
   * Die Telefone bekommen ein Upgrade, sowohl optisch als auch akustisch.

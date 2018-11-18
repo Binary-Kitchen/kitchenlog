@@ -2,7 +2,6 @@ BEGIN: 2018-08-06
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20180807_113305.jpg, 600
 
   * Die Slush Maschine wird weiter getestet
   * Es wird Lasagne gekocht

@@ -2,10 +2,6 @@ BEGIN: 2017-09-16
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog_2017-09-16_1.png, 600
-MEDIA: kitchenlog_2017-09-16_2.png, 600
-MEDIA: kitchenlog_2017-09-16_3.png, 600
-MEDIA: kitchenlog_2017-09-16_4.png, 600
 
   * [[veranstaltungen:werkstatteroeffnung|Tag der offenen Kitchen und Eröffnung der Werkstatt]]
   * Wir freuten uns über die vielen Besucher. Nachbarn, Freunde, Bekannte und Besucher aus anderen Hackspaces

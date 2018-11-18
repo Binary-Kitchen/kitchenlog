@@ -2,7 +2,6 @@ BEGIN: 2017-04-22
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog_2017-04-22.png, 600
 
   * Renovieren geht weiter
   * Die hoffentlich letzten Abrissarbeiten (Altes Rigips und alte Kabelkanäle entfernen)

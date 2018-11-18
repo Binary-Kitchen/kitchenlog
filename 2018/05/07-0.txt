@@ -2,9 +2,6 @@ BEGIN: 2018-05-07
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_20180506_150006487.jpg, 300
-MEDIA: log07.05.2018.jpg, 600
-MEDIA: img_20180507_203408868_hdr.jpg, 300
 
   * Es gibt selbstgemachte Bärlauchbutter mit Knoblauch - neue Erkenntnis: auch mit Erdnussflips zu empfehlen!
   * Räder werden begutachtet und repariert

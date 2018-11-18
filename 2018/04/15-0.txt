@@ -2,7 +2,6 @@ BEGIN: 2018-04-15
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: seifentestlauf.jpg, 600
 
   * es wird das erste Mal Seife gesiedet (Testlauf für einen zukünftigen Workshop)
   * im Kaltverfahren wird Mate- und eine (sehr dunkelblaue) Orangenseife hergestellt

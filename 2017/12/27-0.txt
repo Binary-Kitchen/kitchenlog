@@ -2,9 +2,6 @@ BEGIN: 2017-12-27
 END: 2017-12-30
 TOPIC: TUWAT 34C3
 APPENDIX: None
-MEDIA: kitchenlog_tuwat1.jpg, 600
-MEDIA: kitchenlog_tuwat_2.jpg, 600
-MEDIA: kitchenlog_tuwat_3.jpg, 600
 
 Die Binary Kitchen ist auf dem 34C3 mit einem eigenen Assembly vor Ort.
 Kommt vorbei und besucht uns! Assembly: [[https://34c3.c3nav.de/l/weisswurscht-is/@0,491.64,376.12,5|Weisswurst-is]]

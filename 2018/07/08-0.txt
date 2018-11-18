@@ -2,7 +2,6 @@ BEGIN: 2018-07-08
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20180709_090554.jpg, 600
 
   * [[projekte:magicmirror|MagicMirror]] wird installiert
   * Es gibt noch Probleme mit dem WLAN

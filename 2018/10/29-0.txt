@@ -2,7 +2,6 @@ BEGIN: 2018-10-29
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20181105_084522-collage.jpg, 400
 
  
   * Der Zyklonabscheider, aka Turbo Dusty, wird finalisiert! \o/

@@ -2,8 +2,6 @@ BEGIN: 2018-02-26
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20180226_225424.jpg, 600
-MEDIA: 20180226_225444.jpg, 600
 
   * An den MagicMirrors wird weitergearbeitet
   * Ein Würfelbrett wird gebaut

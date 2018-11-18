@@ -2,9 +2,6 @@ BEGIN: 2018-06-18
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: seife_fett_juni18.png, 600
-MEDIA: seife.png, 600
-MEDIA: seife_form_juni18.png, 600
 
   * trockenes Wetter, es ist viel los und man sitzt gemütlich in und vor der Kitchen
   * draußen wird nicht der Grill angeworfen, sondern neues Rindernierenfett für einen weiteren [[projekte:seife|Seifenworkshop]] ausgekocht

@@ -2,9 +2,6 @@ BEGIN: 2017-02-17
 END: 2017-02-19
 TOPIC: Renovierungswochenende
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-02-17.png
-MEDIA: kitchenlog/kitchenlog_2017-02-17_2.png.jpg
-MEDIA: kitchenlog/kitchenlog_2017-02-17_1.png
 
   * Mehrere Besuche beim Baumarkt
   * Anke kocht Lasagne

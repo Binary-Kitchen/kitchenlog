@@ -2,7 +2,6 @@ BEGIN: 2018-03-12
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog_2018-03-12.jpg, 600
 
   * Es wird am NAS genibbelt
   * Dicetray wird fertiggestellt

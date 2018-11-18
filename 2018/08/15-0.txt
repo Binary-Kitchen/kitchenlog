@@ -2,7 +2,6 @@ BEGIN: 2018-08-15
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_20180815_133544-collage.jpg, 600
 
   * Eine IKEA-Couch wurde repariert
   * Besuch im [[https://fablab-nuernberg.de/|Fablab Nürnberg]]

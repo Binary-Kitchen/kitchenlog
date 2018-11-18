@@ -2,7 +2,6 @@ BEGIN: 2018-08-02
 END: None
 TOPIC: Lötworkshop
 APPENDIX: None
-MEDIA: kitchenlog02_08_2018.jpg, 400
 
   * Dank eines Kitchen-Kontakts kam auf einem Seminar des FSJ-Kulturs ein Lötworkshop zustande!
   * Der Begriff "Nibbleklammer" sorgte für helle Begeisterung

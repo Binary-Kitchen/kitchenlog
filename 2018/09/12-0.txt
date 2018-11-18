@@ -2,7 +2,6 @@ BEGIN: 2018-09-12
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_20180912_172717-collage.jpg, 600
 
   * Allgemeines Aufräumen
   * Dinge für den 35C3 werden zusammengepackt

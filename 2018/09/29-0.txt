@@ -2,7 +2,6 @@ BEGIN: 2018-09-29
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20180929_184602.jpg, 600
 
   * Die Arbeitsplatte auf der Garage für die Kreissäge wird fertiggestellt
   * Die Tischbohrmaschine bekommt damit einen festen Platz in der Werkstatt

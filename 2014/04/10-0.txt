@@ -2,6 +2,5 @@ BEGIN: 2014-04-10
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: usv.jpg, 300
 
 Moep, Ralf und Wastl haben die USV geconft. APC hat hinten nen 9-Pin SUB-D dran, der sich natürlich nicht an den RS232 Standard hält. Deshalb musste erst ein "Adapter" getüdelt werden:

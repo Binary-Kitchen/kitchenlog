@@ -2,7 +2,6 @@ BEGIN: 2017-07-21
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog_2017-07-21_1.png, 600
 
   * Der kleine Raum in der Werkstatt bekommt einen Fussboden
   * Es wird gekocht: Paprikahändl mit Spätzle

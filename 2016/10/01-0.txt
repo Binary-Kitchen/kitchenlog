@@ -2,9 +2,6 @@ BEGIN: 2016-10-01
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: chilli16.jpg, 300
-MEDIA: 20161003_013511.jpg, 200
-MEDIA: curry2.png, 300
 
   * Es wird gekocht: Curry mit frischen Chillis (bitte vorher anmelden bei Xaver)
   * Der neue Kompressor wurde geliefert. Luft mit Druck für die Kitchen

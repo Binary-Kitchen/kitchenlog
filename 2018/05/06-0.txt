@@ -2,7 +2,6 @@ BEGIN: 2018-05-06
 END: None
 TOPIC: Workshop
 APPENDIX: None
-MEDIA: seifenworkshop1collage.jpg, 600
 
   * der erste Seifenworkshop mit 6 tollen Teilnehmern findet statt
   * nach einem kurzen Überblick über die chemischen Eigenschaften von Seife und die Reaktionen beim Herstellungsprozess werden eine Lavendelseife und eine Seife ohne Zusätze gesiedet

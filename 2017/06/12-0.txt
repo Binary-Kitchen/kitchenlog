@@ -2,7 +2,6 @@ BEGIN: 2017-06-12
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_5133_2.jpg, 600
 
   * Allgemeines Gewusel, der Aussenbereich wird intensiv genutzt.
   * Fleissige Hände verteilen weiter weissen Fliesenlack in der Metzgerei

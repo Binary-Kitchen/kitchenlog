@@ -2,8 +2,6 @@ BEGIN: 2017-04-08
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog-2017-04-08-01.png, 600
-MEDIA: kitchenlog-2017-04-08-02.png, 600
 
   * Der letzte Sperrmüll aus unseren neuen Räumen wurde entsorgt
   * Elektroinstallation wird geplant

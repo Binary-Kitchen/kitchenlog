@@ -2,7 +2,6 @@ BEGIN: 2017-11-04
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 2017-11-04-01.jpg, 400
 
   * In der Butchery wurden Wandregale angebracht
   * Einige Leute berichten vom Besuch der [[veranstaltungen:34c3|34C3]] Location in Leipzig

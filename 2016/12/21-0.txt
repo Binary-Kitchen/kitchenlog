@@ -2,8 +2,6 @@ BEGIN: 2016-12-21
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: pestphonev2.png, 300
-MEDIA: 20161221_192533.jpg, 300
 
   * Letzte Vorbereitungen für den 33c3
   * Wastl macht Funkbetrieb auf KW 

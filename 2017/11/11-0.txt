@@ -2,8 +2,6 @@ BEGIN: 2017-11-11
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_20171111_174908.jpg, 400
-MEDIA: vodka_tasting.jpg, 200
 
   * Ein neuer Ausflug mit dem Lötkurs. 14 junge Menschen freuen sich jetzt über blinkende Würfel und Anstecker
   * Danach: Professional Wodka-Tasting in der Binary Kitchen mit erstaunlich vielen Menschen. Hier die Ergebnisse (zum Vergrößern klicken): 

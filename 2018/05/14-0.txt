@@ -2,8 +2,6 @@ BEGIN: 2018-05-14
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_20180514_204517251_hdr.jpg, 300
-MEDIA: log14.05.2018.jpg, 600
 
   * im Keller wird ein Netzteil mit neuem Stecker verlötet - um damit anschließend einen Lötkolben betreiben zu können
   * der Kühlschrank wird entrümpelt und es entstehen spontan Hollerkücherl

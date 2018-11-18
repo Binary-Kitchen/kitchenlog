@@ -2,7 +2,6 @@ BEGIN: 2018-08-20
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20180821_143340.jpg, 500
 
   * Weitere Wartungsarbeiten am Netzwerk
   * Siebdruck in der Werkstatt

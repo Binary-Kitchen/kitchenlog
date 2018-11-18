@@ -2,8 +2,6 @@ BEGIN: 2018-08-13
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20180814_103901.jpg, 600
-MEDIA: 20180814_100613.jpg, 600
 
   * Es gibt Mate Granatapfel und Lepacho Slush
   * Siebdruckarbeiten in der Werkstatt

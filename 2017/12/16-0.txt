@@ -2,7 +2,6 @@ BEGIN: 2017-12-16
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog_2017-12-16.png, 600
 
   * Bastelsamstag in der Kitchen
   * Eine leicht vergrößerte Version der Nibbleklammer wird gebaut

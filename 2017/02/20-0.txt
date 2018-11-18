@@ -2,7 +2,6 @@ BEGIN: 2017-02-20
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-02-20.png
 
   * Regal im Serverraum wird fertiggebaut, nachdem die nochmal Schrauben nachgekauft wurden
   * Feldtelefonverkabelung wird wieder hergestellt nach dem Umbaumaßnahmen

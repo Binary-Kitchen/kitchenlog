@@ -2,7 +2,6 @@ BEGIN: 2017-08-11
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog_2017-08-11.png, 600
 
   * Der restliche Stuff von der SHA wird zur Kitchen zurückgebracht
   * Alles wird ausgepackt sauber gemacht und neu sortiert

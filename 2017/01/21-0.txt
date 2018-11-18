@@ -2,7 +2,6 @@ BEGIN: 2017-01-21
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-01-21.png
 
   * Die Küche bekommt bunte Unterschrankbeleuchtung
   * Ralf bastelt eine Uhr

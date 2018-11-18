@@ -2,7 +2,6 @@ BEGIN: 2018-09-15
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20180915_205059cyanotypie.jpg, 600
 
   * es findet der erste [[projekte:fotoexperimente|Cyanotypieworkshop]] in der Kitchen statt
   * das Wetter ist gnädig und die Entwicklung der Bilder mit Hilfe des Sonnenlichts geht sehr schnell

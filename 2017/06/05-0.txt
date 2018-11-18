@@ -2,7 +2,6 @@ BEGIN: 2017-06-05
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20170605_183626.jpg, 600
 
   * Fliesen streichen in der Metzgerei. Leider reicht die Farbe nicht ganz.
   * Weitere Kabelkanäle werden an die Wand gedübelt

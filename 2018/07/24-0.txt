@@ -2,7 +2,6 @@ BEGIN: 2018-07-24
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_20180724_175427-collage.jpg, 600
 
   * Bienenvölker werden besichtigt
   * Die ersten Zargen für [[projekte:bienen|Projekt Bienen]] werden gebaut

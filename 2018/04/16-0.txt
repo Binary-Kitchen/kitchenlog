@@ -2,9 +2,6 @@ BEGIN: 2018-04-16
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: schinkennudeln.png, 200
-MEDIA: kitchenlog_2018-04-16_1.jpg, 200
-MEDIA: kitchenlog_2018-04-16_2.jpg, 200
 
   * Es gibt leckere Schinkennudeln mit viel Zwiebeln
   * Wir begrüßen ein paar Gäste in der Kitchen \o/

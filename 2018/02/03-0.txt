@@ -2,7 +2,6 @@ BEGIN: 2018-02-03
 END: None
 TOPIC: OpenLab
 APPENDIX: None
-MEDIA: 20180205_140732.jpg, 600
 
   * Ein tiefes Waschbecken für die Werkstatt wird gebaut
   * Regalbretter werden gefertigt

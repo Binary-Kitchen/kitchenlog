@@ -2,7 +2,6 @@ BEGIN: 2016-12-06
 END: None
 TOPIC: Küchen-Radio
 APPENDIX: None
-MEDIA: 20161206_205435.jpg, 300
 
   * Treffen [[veranstaltungen:kuechen-radio|Küchen-Radio]]
   * Kleine Weihnachtsrunde

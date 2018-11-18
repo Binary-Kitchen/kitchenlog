@@ -2,7 +2,6 @@ BEGIN: 2018-07-02
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenmonday20180702.png, 600
 
   * heute gibt es Muffins, frischgebackene Erdnusskekse und natürlich Lollies, gemütliches draußen und drinnen Sitzen, so wie ein paar neue Gesichter
   * die [[https://github.com/Binary-Kitchen/SolderingTutorial/tree/master/ATXBreakoutBoardSMD|ATX-Breakout-Boards]] sind fast vollständig, ein erstes Exemplar wurde bereits am Wochenende zusammengelötet und hat kein Feuer gefangen \o/

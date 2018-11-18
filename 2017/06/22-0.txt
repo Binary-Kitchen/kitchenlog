@@ -2,8 +2,5 @@ BEGIN: 2017-06-22
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_1418.jpg, 600
-MEDIA: img_1419.jpg, 600
-MEDIA: img_1420.jpg, 600
 
   * Vorbereitungen und Packen für das Bürgerfest

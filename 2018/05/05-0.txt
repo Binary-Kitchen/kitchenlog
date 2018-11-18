@@ -2,9 +2,6 @@ BEGIN: 2018-05-05
 END: None
 TOPIC: OpenLab
 APPENDIX: None
-MEDIA: kitchenlog_2018-05-05_1.jpg, 400
-MEDIA: kitchenlog_2018-05-05_2.jpg, 400
-MEDIA: videotogif_2018.05.05_20.09.30.gif, 400
 
   * Es wird weiter an der [[projekte:mpcnc|MPCNC]] gearbeitet
     * Am Ende bewegen sich schon die X und Y-Achse

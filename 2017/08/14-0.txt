@@ -2,7 +2,6 @@ BEGIN: 2017-08-14
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog_2017-08-14.png, 600
 
   * Die Elektroinstallation in der Werkstatt geht voran
   * Die Arbeitsflächen werden geölt und geschliffen

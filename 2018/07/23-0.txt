@@ -2,7 +2,6 @@ BEGIN: 2018-07-23
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 20180724_065824.jpg, 600
 
   * Es gibt selbstgemachte Pizza \o/
   * Wir schauen uns den "neuen" Garten an

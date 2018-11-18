@@ -2,7 +2,6 @@ BEGIN: 2017-06-10
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 2017-06-10_lkvorbereitung.jpg, 600
 
   * Die Bausätze für die ersten Lötworkshops wurden vorbereitet
   * Lötequipment wurde ausgepackt und in Euro Kisten verpackt

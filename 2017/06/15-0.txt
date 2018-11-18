@@ -2,7 +2,5 @@ BEGIN: 2017-06-15
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_20170618_184147.jpg, 600
-MEDIA: img_20170618_184101.jpg, 600
 
   * Ein Krake wird per Siebdruck auf T-Shirts, Taschen und Geschirrtücher gedruckt.

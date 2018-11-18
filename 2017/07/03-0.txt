@@ -2,7 +2,6 @@ BEGIN: 2017-07-03
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: img_1696.jpg, 400
 
   * Wir haben einen neuen Geschirrspüler! Er wird umgehend installiert und in Betrieb genommen.
   * Im Erweiterungsraum wird fleißig weiter renoviert - wir haben jetzt eine Richtfunkverbindung zur Kitchen und noch mehr fertig installierte Kabelkanäle

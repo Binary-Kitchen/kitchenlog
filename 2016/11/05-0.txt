@@ -2,7 +2,6 @@ BEGIN: 2016-11-05
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 106811478383943797.jpg, 300
 
   * Es wird gekocht: Nudeln mit Gorgonzolasoße
   * Der Flugschreiber von Ralfs letzten Kopter-Absturz wird ausgewertet

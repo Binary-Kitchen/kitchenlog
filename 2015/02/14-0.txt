@@ -2,7 +2,6 @@ BEGIN: 2015-02-14
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: 2015-02-14.jpg, 200
 
 Bastel-Tag
   * Arbeiten am Arcade-Automaten gehen voran

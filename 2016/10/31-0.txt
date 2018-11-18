@@ -2,7 +2,6 @@ BEGIN: 2016-10-31
 END: None
 TOPIC: Halloween Party
 APPENDIX: None
-MEDIA: kitchenlog/halloween2016.png
 
   * [[veranstaltungen:halloweenparty2016|Halloween Party 2016]]
   * Es gab Leberkäs und selbstgemachten Kartoffelsalat

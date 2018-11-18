@@ -2,7 +2,6 @@ BEGIN: 2018-02-28
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog_2018-02-28.jpg, 600
 
   * Wir bekommen eine Tischkreissäge \o/
   * viel Fachsimpelei

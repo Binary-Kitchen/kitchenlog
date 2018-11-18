@@ -2,7 +2,6 @@ BEGIN: 2016-10-17
 END: None
 TOPIC: Küchenzeit
 APPENDIX: None
-MEDIA: kitchenlog/2016-10-17.png
 
   * Spielen am Arcadeautomaten
   * Funkbetrieb

@@ -2,7 +2,6 @@ BEGIN: 2017-02-25
 END: None
 TOPIC: Ausflug
 APPENDIX: None
-MEDIA: kitchenlog/kitchenlog_2017-01-25.png
 
 Das [[http://fablab-nuernberg.de|FabLab Nürnberg ]] feierte sein 6-jähriges bestehen und wir waren auch dabei.
 Wir hatten sehr viel Spaß, super leckeres Essen, nette Leute und mit vielen neue Ideen für unseren Hackspace und over 9000 verteilten Ahoi Brausepäckchen weniger machten wir uns wieder auf den Heimweg.
