@@ -1,0 +1,15 @@
+===== Küchenzeit: Samstag, 08. April 2017  =====
+  * Der letzte Sperrmüll aus unseren neuen Räumen wurde entsorgt
+  * Elektroinstallation wird geplant
+  * Löcher für zukünftige Kabel wurden angelegt
+  * Streicharbeiten beginnen
+  * Der Schuppen wurde abgeschliffen und neu gestrichen
+  * (Freifunk) Vorbereitung Access-Points für den Zeisstower
+  * (Freifunk) Montage des neuen Gehäuse am Zeisstower
+  * (Freifunk) Firmware-Updates im Richtfunk Backbone
+  * (Freifunk) Konfiguration und Einbau neuer Hardware am Galeria
+  * Abends gibt es leckere Spagetti Bolognese zur Belohnung
+
+
+==== Bilder ====
+{{gallery>:klog:2017:04:08:0?direct&lightbox}}

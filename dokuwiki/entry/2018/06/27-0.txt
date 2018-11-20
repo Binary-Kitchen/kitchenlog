@@ -1,0 +1,6 @@
+===== Küchenzeit: Mittwoch, 27. Juni 2018  =====
+  * Eine Fritzbox wird testweise am DSL Zugang in Betrieb genommen
+  * Neuer Server: neon (Host ruben). Soll DNS für Kitchen-Domains werden, um damit dann auch LE-Zertifikate ausrollen zu können. Mehr Diskussion nötig, Montag ?
+  * Update der Check_MK Version auf forseti, 1.4.0p34
+  * Whiskeyprobe: Allen bis auf einen gefällt's. Rauchig++
+

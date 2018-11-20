@@ -1,0 +1,12 @@
+===== Küchenzeit: Samstag, 29. März 2014 (all day(ish)) =====
+nächste Ausbaustufe implementiert:
+Die Flexibilität von Kabelkanälen genutzt, um weitere Kabel im Foyer einzuziehen für den Hausbus für die Heizungssteuerung, Audio für die Stereoanlage und Video für den zukünftigen Beamer. Mehrere 100m Leitung. Der Schlagbohrer freute sich über den Einsatz um weitere Kabelkanäle zu legen, die Matrix ins Fenster zu heben und in der Küche einen weiteren Schrank anzubringen. Dabei wird wiedermal klar, dass die Wandqualität zwischen Granit und Pappe schwankt. Moderne Dübelvarianten aller Art könnten dies jedoch ausgleichen.
+Die neue Routerhardware wird ersten Tests unterzogen, leider ist das VDSL etwas wählerisch (synct nicht)
+Die Besetzung ist variabel, aber kontinuierlich sind 6 - 10 Köche anwesend. Der Grill wird getestet (geht gut), leider enttäuscht der Lebensmitteleinzelhandel und kann die Nachfrage nach Fleisch nur mit Vogel bedienen, aber mangels Beleuchtung im Vorgarten sieht man eh nicht so genau, was man gerade isst. Dafür liefert der Baumarkt gleich zweimal die nötige Hardware.
+Es fällt auf, dass immer noch ein Cupboard der Vormieter im Treppenhaus steht, leider ist es untragbar schwer und verschlossen, Inhalt bleibt mysteriös. Dafür tauchen 10kg Weihnachtsschokolade wieder auf.
+Die Chefinfrastrukturköche sven und staudte leiten die Operation; jonny, venti, moep, markus, wastl verarbeiten die Zutaten. Weitere Gehilfen und Topfgucker im Wechsel.
+Wimmelbild: Finde den Koch (im Bild) an der Kreissäge (nicht im Bild)
+
+
+==== Bilder ====
+{{gallery>:klog:2014:03:29:0?direct&lightbox}}

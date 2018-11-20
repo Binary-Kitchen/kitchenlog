@@ -1,0 +1,7 @@
+===== Küchenzeit: Montag, 28. Juli 2014  =====
+Montagstreff.
+  * Julian kocht mit viel Knoblauch
+  * Moodlight im Serverraum wird installiert
+  * Noch ein Schwandorf Projekt: Chaser testet seinen Twitterclient auf Raspi mit RS232-Terminalausgabe
+  * Wie immer gibt es gemütliche Unterhaltungen bei Bier & Mate
+

@@ -1,0 +1,9 @@
+===== Küchenzeit: Montag, 10. November 2014  =====
+Montagstreff.
+  * Lagrange Punkte des Jupiters diskutiert: http://de.wikipedia.org/wiki/Lagrange-Punkte
+  * Warum sich Leute FreeBSD-Server bauen: Weil sie systemd hassen
+  * SPAM-Schutz für den Lichtschalter by philmacfly
+  * Fortschritte bei der Plotteransteuerung
+  * Leider kein Koch, daher kein Essen
+  * Kamerahacking in Hard- und Software
+

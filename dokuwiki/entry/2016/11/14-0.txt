@@ -1,0 +1,5 @@
+===== Küchenzeit: Montag, 14. November 2016  =====
+  * der dragonchaser hat eine WLAN-fähige MQTT Winkekatze gebaut - über einen IRC-Bot, der mit dem MQTT Broker spricht, hat er diese an den IRC gebunden
+  * jetzt kann man mit den Befehlen \.wink und \.leuchte RRGGBB versuchen die Aufmerksamkeit der Leute im Space auf den IRC-Channel zu lenken
+  * weiterhin wurde das Türschloss an den IRC-Bot gebunden, mit \.status kann man jetzt den aktuellen Schließzustand abrufen
+

@@ -1,0 +1,6 @@
+===== Küchenzeit: Samstag, 23. Mai 2015  =====
+Bastelsamstag
+  * Clemens kocht Gorgonzolaspaghetti
+  * Markus frickelt bis in die Nacht den LDAP/RADIUS und Zertifikatskram
+  * Erste Testnutzer können das 802.1x gesicherte WLAN mit PEAP/MSCHAP unter Windows nutzen
+

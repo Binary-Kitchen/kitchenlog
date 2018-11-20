@@ -1,0 +1,6 @@
+===== Küchenzeit: Montag, 08. Januar 2018  =====
+  * Lightning Talk Meltdown & Spectre
+
+
+==== Bilder ====
+{{gallery>:klog:2018:01:08:0?direct&lightbox}}

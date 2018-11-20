@@ -1,0 +1,15 @@
+===== Küchenzeit: Samstag, 06. Januar 2018  =====
+  * Es ist wieder [[veranstaltungen:openlab|OpenLab]]
+  * Ein schräger Schrank wird gebaut
+  * Vorbereitungen für eine Geburtstagsfeier werden getroffen
+  * Mit viel Knoblauch und Chili
+  * Die Lötdampfabsaugung eignet sich auch prima zum Zwiebelschneiden
+  * Party!! Mit Partyhüten!
+  * Spaß mit Bügelperlen
+  * Konsolidierung der Kitchen MQTT-Server
+|  |  |
+|  |  |
+
+
+==== Bilder ====
+{{gallery>:klog:2018:01:06:0?direct&lightbox}}

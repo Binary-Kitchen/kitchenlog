@@ -1,0 +1,6 @@
+===== Küchenzeit: Donnerstag, 20. Februar 2014 (Abend) =====
+Ich (Ralf) hab in die Matrix den 12V<->5V DC/DC Wandler eingebaut. Damit ist die Matrix jetzt hardware wie softwareseitig fertig. Mit einem [[https://github.com/rralf/Matrix-Client/blob/e37d833323c5c05cf2948017ca5714609263ffa6/scripts/matrix-pic-webcam.sh|kleinen trickreichen Script]] war es mir sogar möglich, live meine Webcam auf die Matrix zu projezieren:
+
+
+==== Bilder ====
+{{gallery>:klog:2014:02:20:0?direct&lightbox}}

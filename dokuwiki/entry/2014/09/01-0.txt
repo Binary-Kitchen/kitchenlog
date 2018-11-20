@@ -1,0 +1,10 @@
+===== Küchenzeit: Montag, 01. September 2014  =====
+Montagstreff.
+  * Keine Verköstigung, der Koch ist vorübergehend von der Seuche (Erkältung) niedergestreckt.
+  * Phia baut am Looping der Level9
+  * Moep und Christian diskutieren über Möglichkeiten ein Event (typisch CCC-Umfeld: Hackcenter, Vorträge, Basteln) zu organisieren
+  * Ralf aktualisiert die Game of life Software auf seiner kleinen LED Matrix fürs [[veranstaltungen:2wickl2014|2wickl]].
+  * Mrks führt den Frequenzähler am Geigerzähler vor, der nun super funktioniert. Der Präsentationsaufbau fürs [[veranstaltungen:2wickl2014|2wickl]] mit Interaktion und Schwarzlichtbeleuchtung ist beeindruckend!
+  * Mirwi lötet an den Anfängen des [[projekte:hex_trainer|HEX-BIN-Trainer]], der hoffentlich noch bis zum  [[veranstaltungen:2wickl2014|2wickl]] ans Laufen kommt.
+  * Gunther und Wastl frickeln am BananaPi.
+

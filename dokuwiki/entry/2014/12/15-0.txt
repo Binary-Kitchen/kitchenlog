@@ -1,0 +1,6 @@
+===== Küchenzeit: Montag, 15. Dezember 2014  =====
+Montagstreff.
+  * Basti bringt zwei Ubiquiti Powerbeam M5-300 mit.
+  * Wir haben vor mit diesen am Wochenende Richtfunk Strecken zu testen.
+  * Ein erster Test die Strasse vor der Kitchen entlang verläuft sehr vielversprechend.
+

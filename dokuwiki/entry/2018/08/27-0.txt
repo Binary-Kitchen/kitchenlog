@@ -1,0 +1,5 @@
+===== Küchenzeit: Montag, 27. August 2018  =====
+  * es wird an der Doorlock-App gebastelt - es wird alles besser und hübscher!
+  * mehr dazu bald im Wiki: [[projekte:hausautomatisierung:doorlock|Kitchen Schließsystem "doorlock"]]
+  * die Ampel wird im Treppenhaus aufgehangen
+

@@ -1,0 +1,12 @@
+===== Küchen-Radio: Dienstag, 12. September 2017  =====
+  * [[veranstaltungen:kuechen-radio|Küchen-Radio]] im September
+  * Dank der neuen Werkstatt wurde nun der kleine Werkraum in der Kitchen frei
+  * Mit einer Regalspende und ein paar Latten aus dem Baumarkt haben wir uns ein Shack gebaut
+  * Das alte Antennenkabel, das der Heckenschere zum Opfer gefallen war, wurde ersetzt
+  * Aus zwei defekten Monitoren (1x Display gebrochen 1x Backlight defekt) wurde ein funktionierender gebaut
+  * Ein erstes QSO im 40m-Band war der erfolgreiche Abschluss des Abends
+  * Besuch einiger Mensch und Computer 2017 Konferenz Teilnehmer im Rahmen einer Exkursion
+
+
+==== Bilder ====
+{{gallery>:klog:2017:09:12:0?direct&lightbox}}

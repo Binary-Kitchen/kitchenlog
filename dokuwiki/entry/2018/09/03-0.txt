@@ -1,0 +1,11 @@
+===== Küchenzeit: Montag, 03. September 2018  =====
+  * Gemeinsame Brotzeit
+  * Bilder vom Lübek Ausflug zum Chaoticum Hackspace
+  * Basteln am neuen Doorlock
+  * Erste Debugversuche am instabilen WLAN-AP finden statt
+  * Testen eines LED-Cube als neues [[https://github.com/Binary-Kitchen/SolderingTutorial|Lötworkshop]] Kit
+==== Bilder ====
+
+
+==== Bilder ====
+{{gallery>:klog:2018:09:03:0?direct&lightbox}}

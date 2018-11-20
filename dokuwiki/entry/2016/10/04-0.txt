@@ -1,0 +1,10 @@
+===== Küchen-Radio: Dienstag, 04. Oktober 2016  =====
+  * 1. Treffen [[veranstaltungen:kuechen-radio|Küchen-Radio]]
+  * Materialliste für den Bau der DL3RTL Arrow-Antenne wird überprüft. Fehlende Teile werden bald besorgt.
+  * Bau eines APRS-Kabels für ein Kenwood TH-F7 und erste Experimente
+  * Bluetooth Dongle für Yaesu FT-817 wird ausprobiert
+  * Außerdem stellt Timo noch sein 3D-Druck Sparschwein fertig
+
+
+==== Bilder ====
+{{gallery>:klog:2016:10:04:0?direct&lightbox}}

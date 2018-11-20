@@ -1,0 +1,17 @@
+===== Küchenzeit: Freitag, 31. Oktober 2014  =====
+Amateurfunk-Kurs.
+  * Der Kondensator und seine Grundschaltungen
+    * Was ist ein Kondensator?
+    * Kapazität
+    * Parallel- und Reihenschaltung
+    * Gemischte Schaltungen
+    * Wechselstromwiderstand
+    * Bauformen
+    * Kennzeichnung
+  * Spule
+    * Induktivität
+    * Bauformen
+    * <del>Reihen- und Parallelschaltung</del>
+    * <del>Wechselstromwiderstand</del>
+    * <del>Transformator</del>
+

@@ -1,0 +1,7 @@
+===== Küchenzeit: Sonntag, 28. Mai 2017  =====
+  * Eggbot wurde vorgestellt.
+  * Netzwerkkamera wurde eingerichtet um die Mausefallen im Swapspace zu kontrollieren.
+
+
+==== Bilder ====
+{{gallery>:klog:2017:05:28:0?direct&lightbox}}

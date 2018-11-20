@@ -1,0 +1,11 @@
+===== Küchenzeit: Montag, 07. Mai 2018  =====
+  * Es gibt selbstgemachte Bärlauchbutter mit Knoblauch - neue Erkenntnis: auch mit Erdnussflips zu empfehlen!
+  * Räder werden begutachtet und repariert
+  * Die Seife vom Vortag wird ausgeformt und geschnitten
+  * Es werden Pläne für zukünftige Veranstaltungen geschmiedet
+  * im Keller wird auch fleißig gefrickelt - u.a. wird ein Feinstaubsensor ausprobiert, der demnächst Daten für [[http://luftdaten.info|luftdaten.info]] beisteuern soll
+  * außerdem wird eine WS2811 LED-Kette debugged, mit ein paar zusätzlichen Kondensatoren ausgestattet und im Anschluss for fun RGBW-Bits auf die RGB-Kette geschickt
+
+
+==== Bilder ====
+{{gallery>:klog:2018:05:07:0?direct&lightbox}}

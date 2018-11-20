@@ -1,0 +1,4 @@
+===== Küchenzeit: Dienstag, 18. Oktober 2016  =====
+  * Wast spielt mit seinem Funkgerät
+  * Janos spendiert ein paar als elektronische Morstetaste programmierte PICs und passende Platinen (siehe [[projekte:kuechenradio:dl4yhf_keyer:start|DL4YHF Keyer]])
+

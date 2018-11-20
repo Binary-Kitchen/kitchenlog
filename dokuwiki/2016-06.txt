@@ -1,0 +1,5 @@
+====== Küchen-Log Juni 2016 ======
+
+**//If it's not in the log, it didn't happen!//**
+
+{{blog>klog:entry:2016:06?31&nouser&nodate&nomdate}}

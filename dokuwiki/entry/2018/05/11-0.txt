@@ -1,0 +1,13 @@
+===== Movienight: Freitag, 11. Mai 2018  =====
+  * Es wird weiter an der [[projekte:mpcnc|MPCNC]] gearbeitet
+    * Endschalter werden verdrahtet
+    * Y-Endschalter werden befestigt und grob eingestellt
+    * Das Display bekommt ein Gehäuse und wird verschraubt
+    * Firmware Einstellungen werden optimiert
+    * Der Raspberry wird mit Strom versorgt und in Betrieb genommen
+  * Es gibt Spaghetti Bolognese und bunte Hefeteilchen als Nachspeise
+  * Ein mutiger Vierbeiner schaut vorbei bzw. nach unten
+
+
+==== Bilder ====
+{{gallery>:klog:2018:05:11:0?direct&lightbox}}

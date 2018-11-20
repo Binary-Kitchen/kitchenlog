@@ -1,0 +1,5 @@
+===== Küchenradio: Dienstag, 10. Juli 2018  =====
+  * Es wird weiter am Shack gearbeitet
+  * Weitere Experimente mit verschiedenen SDR-Empfängern
+  * Eine Rad1o-Badge wird in Betrieb genommen
+

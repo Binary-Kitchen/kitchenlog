@@ -1,0 +1,12 @@
+===== Küchenzeit: Samstag, 09. September 2017  =====
+  * Ein großer Teil der Elektrik der neuen Werkstatt wird endlich fertiggestellt
+  * RGB Lampen werden im Schaufenster montiert
+  * Druckluft wird im kleinen Raum installiert
+  * IT-Verkabelung wird aufgeräumt
+  * Zwei weitere Netzwerkports in den Schaltschrank verlegt
+  * Rapsberry pi Monitor zur Steuerung der Automatisierung wird installiert
+  * und vieles vieles mehr
+
+
+==== Bilder ====
+{{gallery>:klog:2017:09:09:0?direct&lightbox}}

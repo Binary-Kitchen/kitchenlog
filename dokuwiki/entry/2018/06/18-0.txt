@@ -1,0 +1,11 @@
+===== Küchenzeit: Montag, 18. Juni 2018  =====
+  * trockenes Wetter, es ist viel los und man sitzt gemütlich in und vor der Kitchen
+  * draußen wird nicht der Grill angeworfen, sondern neues Rindernierenfett für einen weiteren [[projekte:seife|Seifenworkshop]] ausgekocht
+  * außerdem wird an der BK-Seifenform weitergearbeitet
+  * das Campusfest wird nachbesprochen - alle neuen Erkenntnisse werden in den kommenden Tagen im Wiki zum [[organisation:howtos:campusfest|Campusfest]] ergänzt
+  * Im Keller wurde der Steckdosenumbau begonnen, u.A. Notstrom für die 3D Drucker
+  * Einige Netzwerkkomponenten für Freifunk in Kelheim wurden Konfiguriert
+
+
+==== Bilder ====
+{{gallery>:klog:2018:06:18:0?direct&lightbox}}

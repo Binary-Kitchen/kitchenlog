@@ -1,0 +1,8 @@
+===== Küchenzeit: Mittwoch, 30. August 2017  =====
+  * Und weiter gehts mit dem 3D-Drucker
+  * Warping nun vollständig entfernt
+  * Die Spitze kriegt noch zu viel Hitze ab. To be fixed
+
+
+==== Bilder ====
+{{gallery>:klog:2017:08:30:0?direct&lightbox}}

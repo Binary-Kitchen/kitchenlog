@@ -1,0 +1,8 @@
+===== Küchenzeit: Mittwoch, 19. Oktober 2016  =====
+  * HF-Generator und neues Oszi für den Umbau eines Siemens C5 für den Amateurfunk vorbereitet
+  * Siemens C5 zerlegt für einen ersten Überblick weitere Infos beim Projekt [[projekte:kuechenradio:c5_umbau:start|C5 Umbau]]
+  * Die XenServer Hosts für Freifunk Regensburg vorbereiten
+
+
+==== Bilder ====
+{{gallery>:klog:2016:10:19:0?direct&lightbox}}

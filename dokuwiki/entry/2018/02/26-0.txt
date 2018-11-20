@@ -1,0 +1,10 @@
+===== Küchenzeit: Montag, 26. Februar 2018  =====
+  * An den MagicMirrors wird weitergearbeitet
+  * Ein Würfelbrett wird gebaut
+  * Ein alter Fabster wird umgebaut
+  * 3D-Druck für die MPCNC geht weiter
+  * Parmesankuchen wird gebacken
+
+
+==== Bilder ====
+{{gallery>:klog:2018:02:26:0?direct&lightbox}}

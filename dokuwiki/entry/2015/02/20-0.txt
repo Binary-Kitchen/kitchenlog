@@ -1,0 +1,10 @@
+===== Küchenzeit: Freitag, 20. Februar 2015  =====
+Amateurfunk-Kurs.
+  * Messtechnik
+    * Analog anzeigende Messgeräte
+    * Digital anzeigende Messgeräte
+    * Oszilloskop
+    * PEP-Leistung
+    * SWR
+    * Dummy Load
+

@@ -1,0 +1,7 @@
+===== Küchenzeit: Samstag, 09. Juni 2018  =====
+  * Ein spezifisch auf ventis Lautsprecher, Fernseher und Computer zugeschnittenes Möbelstück wurde CAD-geplant und gebaut. Wer ähnliches vor hat, findet [[https://github.com/ventilator/cabinetry|hier (Zeichnungen)]] oder fragt einfach venti für Anregungen und Beratung
+  * Leimarbeiten nur mit vereinten Kräften bezwingbar
+
+
+==== Bilder ====
+{{gallery>:klog:2018:06:09:0?direct&lightbox}}

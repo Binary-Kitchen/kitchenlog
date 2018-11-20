@@ -1,0 +1,8 @@
+===== Grillzeit: Samstag, 21. April 2018  =====
+  * Es wird weiter an der [[projekte:mpcnc|MPCNC]] gebaut
+  * Die T-Achse wird zusammengebaut und auch die ersten Elektronikkomponenten werden verbaut
+  * Grillen und anschließendes gemütliches Lagerfeuer
+
+
+==== Bilder ====
+{{gallery>:klog:2018:04:21:0?direct&lightbox}}

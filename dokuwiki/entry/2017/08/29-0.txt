@@ -1,0 +1,8 @@
+===== Küchenzeit: Dienstag, 29. August 2017  =====
+  * Der 3D-Drucker verlangt nach mehr Aufmerksamkeit und bekommt diese auch
+  * Nachdem Stau gefixt wurde kann das Kalibrieren weiter gehen
+  * Leider hat der neue Extruder auch ein paar Teile des Druckers weggeschmolzen. To be fixed
+
+
+==== Bilder ====
+{{gallery>:klog:2017:08:29:0?direct&lightbox}}

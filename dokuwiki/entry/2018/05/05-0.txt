@@ -1,0 +1,13 @@
+===== OpenLab: Samstag, 05. Mai 2018  =====
+  * Es wird weiter an der [[projekte:mpcnc|MPCNC]] gearbeitet
+    * Am Ende bewegen sich schon die X und Y-Achse
+    * Halteklammern für die Fräse werden zusammengestellt
+  * Das große Waschbecken in der Werkstatt silikoniert
+  * Eine USB-Buchse wird an einem Verstärker gelötet
+  * UV-Lampe zum belichten wird getestet und bekommt eine Halterung
+  * An einem der 3D-Drucker bricht die Achse des Schrittmotors :-(
+  * Abends wird Geburtstag gefeiert mit Grill und Lagerfeuer
+
+
+==== Bilder ====
+{{gallery>:klog:2018:05:05:0?direct&lightbox}}

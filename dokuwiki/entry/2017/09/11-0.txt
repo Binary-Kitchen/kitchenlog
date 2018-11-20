@@ -1,0 +1,10 @@
+===== Küchenzeit: Montag, 11. September 2017  =====
+  * Erste Sonoff-Schalter werden in der Werkstatt installiert
+  * Neues Kitchen-Logo-Sieb wird vorbereitet
+  * Wir haben noch ein paar Probleme mit den Bewegungsmeldern der Außenlampen
+  * Es gibt ein paar Kürbiskekse und eine kleine Schale Tonkabohnen-Pudding zum Probieren
+  * Die Binary Kitchen beteiligte sich an der Mensch und Computer 2017 Konferenz in Regensburg mit einem Makespace für interessierte Besucher in Kooperation mit dem Fablab der Uni Siegen sowie der Ausrichtung eines Lötworkshops.
+
+
+==== Bilder ====
+{{gallery>:klog:2017:09:11:0?direct&lightbox}}

@@ -1,0 +1,4 @@
+===== Küchenzeit: Montag, 16. Januar 2017  =====
+  * Planung für die Nibble-Party am 28.01.17
+  * MoepMan baut ein APU Board in ein Gehäuse, das in Zukunft als u.a. als redundanter DNS- und DHCP-Server dienen soll.
+

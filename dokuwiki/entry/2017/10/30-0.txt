@@ -1,0 +1,7 @@
+===== Küchenzeit: Montag, 30. Oktober 2017  =====
+  * Der Kompressor wurde mit einer SPS in die [[projekte:hausautomatisierung:openhab|Hausautomation]] eingebunden
+  * Am Fenster in der Butchery wurden Reedkontakte angebracht um den Fensterstatus zu überwachen
+
+
+==== Bilder ====
+{{gallery>:klog:2017:10:30:0?direct&lightbox}}

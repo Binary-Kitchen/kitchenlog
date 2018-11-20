@@ -1,0 +1,4 @@
+===== Küchenzeit: Montag, 06. April 2015  =====
+Montagstreff
+  * Die [[projekte:jubelbox|Jubelbox]] mit zugehörigem [[projekte:hex_trainer|HEX-BIN Trainer]] ist jetzt funktionsfähig in Igor integriert. - Solange niemand das grosse Netzteil braucht...
+

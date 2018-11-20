@@ -1,0 +1,13 @@
+===== Küchenzeit: Montag, 21. Mai 2018  =====
+  * trotz oder wegen Feiertag ist doch einiges los
+  * in der Küche werden noch einmal Holler-Küchl gemacht
+  * außerdem gibt es sehr knobelige Knoblauchbutter und auf einmal viele Kuchen
+  * in der Werkstatt wird mal wieder an einem Fahrrad repariert - Learning by doing!
+  * die Dunkelkammer wird entrümpelt, gewischt und aufgeräumt
+  * das selbstgebaute Waschbecken wird auf Dichtigkeit geprüft und wird wohl demnächst einsatzbereit sein
+  * der [[projekte:magicmirror|Magic Mirror]] wird weitergebaut und es finden sich Überbleibsel vom Kitchen-Geburtstag
+  * die [[projekte:mpcnc|MPCNC]] funktioniert jetzt zumindest in 2D als sehr großer Stiftplotter
+
+
+==== Bilder ====
+{{gallery>:klog:2018:05:21:0?direct&lightbox}}

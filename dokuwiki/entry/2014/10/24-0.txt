@@ -1,0 +1,5 @@
+===== Küchenzeit: Freitag, 24. Oktober 2014  =====
+Amateurfunk-Kurs.
+  * (Ohmscher) Widerstand
+  * Serien- und Parallelschaltung von Widerständen
+

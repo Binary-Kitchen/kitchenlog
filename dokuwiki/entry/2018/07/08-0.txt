@@ -1,0 +1,9 @@
+===== Küchenzeit: Sonntag, 08. Juli 2018  =====
+  * [[projekte:magicmirror|MagicMirror]] wird installiert
+  * Es gibt noch Probleme mit dem WLAN
+  * [[projekte:magicmirror|MagicMirror]] wird in die Kitchen-Homeautomation integriert
+  * Im Hauptraum wird ein Temperatursensor installiert
+
+
+==== Bilder ====
+{{gallery>:klog:2018:07:08:0?direct&lightbox}}

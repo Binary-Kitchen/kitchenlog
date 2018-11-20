@@ -1,0 +1,9 @@
+===== Küchenzeit: Mittwoch, 18. Juli 2018  =====
+  * Es wird weiter an der [[projekte:mpcnc|MPCNC]] gearbeitet
+  * Eine neue Firmware wird aufgespielt und ein weiterer Fräsversuch
+  * Autositze werden mit neuem Stoff beklebt
+  * Kunststoffteile werden mit Chemieexperiment gereinigt
+
+
+==== Bilder ====
+{{gallery>:klog:2018:07:18:0?direct&lightbox}}

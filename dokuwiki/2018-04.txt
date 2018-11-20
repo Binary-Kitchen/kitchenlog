@@ -1,0 +1,5 @@
+====== Küchen-Log April 2018 ======
+
+**//If it's not in the log, it didn't happen!//**
+
+{{blog>klog:entry:2018:04?31&nouser&nodate&nomdate}}

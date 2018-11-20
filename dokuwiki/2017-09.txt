@@ -1,0 +1,5 @@
+====== Küchen-Log September 2017 ======
+
+**//If it's not in the log, it didn't happen!//**
+
+{{blog>klog:entry:2017:09?31&nouser&nodate&nomdate}}

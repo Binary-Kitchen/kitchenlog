@@ -1,0 +1,5 @@
+===== Küchenzeit: Samstag, 20. Dezember 2014  =====
+Richtfunk-Tests:
+Wir treffen uns in der Kitchen um einige mögliche Richtfunkstrecken für Freifunk in der Stadt zu testen.\\
+Selbst bei schlechten Sichtverhätnissen sind von  der Sternwarte aus zur Leibnitzstr. ~20-30mbit/s half-duplex und etwas über 50mbit/s full-duplex möglich. Weitere Tests werden folgen.
+

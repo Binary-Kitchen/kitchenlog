@@ -1,0 +1,11 @@
+===== Küchenzeit: Montag, 04. Juni 2018  =====
+  * es gibt Restbrotzeit von Samstag
+  * im Keller wird ein Dell-Netzteil vermessen - die Frage ist ob sich ein Adapter für den TS100 bauen lässt
+  * zumindest Strom fließt und auch mit Lastwiderstand lassen sich ein paar Ampere messen - use moare cables!
+  * jetzt fehlt nur noch ein passender female Adapter
+
+  * in der Werkstatt wird die Seife vom Vortag begutachtet
+
+
+==== Bilder ====
+{{gallery>:klog:2018:06:04:0?direct&lightbox}}

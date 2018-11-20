@@ -1,0 +1,8 @@
+===== Küchenzeit: Samstag, 25. März 2017  =====
+  * Wir bestellen und was zu essen und werfen den Beamer an
+  * Im Keller wird weiter am [[projekte:magicmirror|Magic Mirror Projekt]] gearbeitet
+  * Alle Frontteile mit den Spiegeln wurden fertiggebaut und erste Schritte mit der Software gemacht.
+
+
+==== Bilder ====
+{{gallery>:klog:2017:03:25:0?direct&lightbox}}

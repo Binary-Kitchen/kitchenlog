@@ -1,0 +1,9 @@
+===== Küchenzeit: Mittwoch, 15. August 2018  =====
+  * Eine IKEA-Couch wurde repariert
+  * Besuch im [[https://fablab-nuernberg.de/|Fablab Nürnberg]]
+  * Besichtigung verschiedener Lasercutter
+  * Erster Prototyp für einen neuen Lötbausatz wird gebaut
+
+
+==== Bilder ====
+{{gallery>:klog:2018:08:15:0?direct&lightbox}}

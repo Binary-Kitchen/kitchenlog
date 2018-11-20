@@ -1,0 +1,7 @@
+===== Küchenzeit: Samstag, 18. August 2018  =====
+  * Rack neu verkabelt
+  * Zusätzlicher Switch eingebaut (use moar bandwidth)
+  * Neue USV eingebaut
+  * 3D-Drucker hängen jetzt auch an der USV
+  * Außerdem: Bolognese, Filmeabend und Exploding Kittens
+

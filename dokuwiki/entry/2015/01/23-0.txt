@@ -1,0 +1,13 @@
+===== Küchenzeit: Freitag, 23. Januar 2015  =====
+Amateurfunk-Kurs.
+  * Modulation
+    * Prinzip der Nachrichtenübertragung
+    * Modulationsarten
+    * Amplitudenmodulation
+    * Bandbreite bei AM
+    * Einseitenbandmodulation SSB
+    * Frequenzmodulation
+    * Hub und Babdbreite bei FM
+    * Vorteil/Nachteil bei FM
+    * Sendearten
+

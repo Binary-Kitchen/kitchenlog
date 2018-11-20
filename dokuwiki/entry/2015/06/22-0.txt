@@ -1,0 +1,8 @@
+===== Küchenzeit: Montag, 22. Juni 2015  =====
+Montagstreff
+  * MoepMan konfiguriert den redundanten DHCP-Server
+  * MoepMan setzt gopher.binary-kitchen.de DNS-Eintrag für Phils gopher server
+  * Phil setzt gopherhole auf
+  * Ralf und Chaser basteln an der Tür
+  * Demos schauen im Keller
+

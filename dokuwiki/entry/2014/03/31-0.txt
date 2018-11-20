@@ -1,0 +1,5 @@
+===== Küchenzeit: Montag, 31. März 2014 (Abend) =====
+Montagstreff. Essen kocht Julian, Nudeln mit Grünzeug und Käse.
+Möp und Sebastian haben eine USV organisiert und in Betrieb genommen.
+Eine kleine Gruppe hört im Labor den Vortrag von Josef Gnadl zu seinem 8-Bit Computer, den er auf einem FPGA implementiert hat. [[http://www.mikrocontroller.net/articles/8bit-Computer:_bo8h|Hier gehts zu einem Artikel darüber mit weiteren Links.]]
+

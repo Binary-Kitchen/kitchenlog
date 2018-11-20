@@ -1,0 +1,5 @@
+====== Küchen-Log Mai 2017 ======
+
+**//If it's not in the log, it didn't happen!//**
+
+{{blog>klog:entry:2017:05?31&nouser&nodate&nomdate}}

@@ -1,0 +1,6 @@
+===== Küchenzeit: Dienstag, 22. April 2014  =====
+venti hat ein von [[http://www.instructables.com/id/10-Smartphone-to-digital-microscope-conversion/|instructables]] inspiriertes günstiges Mikroskop gebaut. Ein zerlegter Laserpointer liefert die Sammellinse, eine Plexiglasscheibe und ein paar Schrauben einen Smartphoneständer. Die Vergrößerung ist ok, für ein Zwiebelhäutchen oder einen groben Überblick über einen Wafer reicht es. Der große Vorteil ist, dass man mit seinem Smartphone die Bilder sofort speichern und weiterverarbeiten kann.
+
+
+==== Bilder ====
+{{gallery>:klog:2014:04:22:0?direct&lightbox}}

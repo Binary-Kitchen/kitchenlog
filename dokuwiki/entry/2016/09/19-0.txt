@@ -1,0 +1,12 @@
+===== Küchenzeit: Montag, 19. September 2016  =====
+  * Viele neue und altbekannte Besucher
+  * Julian kocht mal wieder: Nudeln kalifornischer Art
+  * Das neue Arcade-Rack wird ausprobiert
+  * Der PC im Labor wurde endlich auf Jessy geupdatet. Danke wastl!
+  * Ein Funkamateur aus Ungarn war da mit einem Elecraft KX3 an dem mirwi gemorst hat
+  * Durch einen kleinen Unfall fallen die Moodlights aus. Ein Kupferlackdraht auf der Steuerplatine schmorte durch.
+  * Außerdem musste aus 2 defekten Raspys durch umlöten des SD-Slots wieder ein ganzer gemacht werden um das Problem zu lösen
+
+
+==== Bilder ====
+{{gallery>:klog:2016:09:19:0?direct&lightbox}}

@@ -1,0 +1,9 @@
+===== Küchenzeit: Montag, 05. März 2018  =====
+  * In der Werkstatt wird ein Dicetray gebaut
+  * Internetprobleme in der Kitchen es wird versucht zu fixen
+  * Eine SPS zum spielen ist eingetroffen
+  * 3D Druck für die [[projekte:mpcnc|MPCNC]] geht weiter aber das Ende ist in Sicht
+
+
+==== Bilder ====
+{{gallery>:klog:2018:03:05:0?direct&lightbox}}

@@ -1,0 +1,10 @@
+===== Küchenzeit: Montag, 15. Mai 2017  =====
+  * Phil streicht die blaue Tür im Swap Space
+  * Mogli, Mirwi und Phil basteln am Systainer Radio
+  * Ralf und Xaver bringen das Moodlight Webinterface wieder online
+  * Sitzung zwecks weiterm vorgehen wegen Strom und Gas auf Kitchen Secundus
+  * Mirwi wechselt Kabel an Amerikanischen Taschen Feldtelefon
+  * duff lötet LED-Module zusammen, die später an seinen Raspis blinken sollen
+  * venti versucht sich einen Eindruck über einen Laptop-Scharnierschaden zu verschaffen
+  * es gibt restliche Bolognese von Daniels Geburtstagsfeier
+

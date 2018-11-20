@@ -1,0 +1,11 @@
+===== Küchenzeit: Montag, 12. Februar 2018  =====
+  * Am [[projekte:magicmirror|Magic Mirror]] wird weitergearbeitet \o/
+  * Es gibt ein großes Restlessen mit viel Kääääse
+  * Nachbesprechung Küchen-Party
+  * Es wird versucht die Daten von einem NAS zu retten
+  * Der Druck der Teile für die [[projekte:mpcnc|MPCNC]] wird sich noch eine Weile hinziehen
+  * Diverse andere kleine Projekte
+
+
+==== Bilder ====
+{{gallery>:klog:2018:02:12:0?direct&lightbox}}

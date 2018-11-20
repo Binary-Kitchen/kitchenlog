@@ -1,0 +1,5 @@
+===== Küchenzeit: Montag, 27. April 2015  =====
+Montagstreff
+  * Hecktische Arbeiten am Schließsystem - RIP Raspi
+  * Eine Ersatzantenne ermöglicht wieder ein bisschen Kurzwellenempfang im Labor.
+

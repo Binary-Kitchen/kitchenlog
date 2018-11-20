@@ -1,0 +1,11 @@
+===== Küchenzeit: Montag, 16. Juli 2018  =====
+  * Ein Lotus wird zerlegt
+  * Lötworkshop im Labor: [[https://github.com/Binary-Kitchen/SolderingTutorial/tree/master/ATXBreakoutBoardSMD|ATX-Breakout-Boards]]
+  * Ein Bett wird in der Werkstatt zusammengebaut
+  * Lauer Sommerabend vor der Kitchen wird genossen
+  * Moep testet einen Aruba Access-Point
+  * Tom und Moep bauen neue RADIUS-Server (Dient dem Login fürs secure WLAN)
+
+
+==== Bilder ====
+{{gallery>:klog:2018:07:16:0?direct&lightbox}}

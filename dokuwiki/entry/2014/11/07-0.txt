@@ -1,0 +1,10 @@
+===== Küchenzeit: Freitag, 07. November 2014  =====
+Amateurfunk-Kurs.
+  * Spule
+    * Reihen- und Parallelschaltung
+    * Wechselstromwiderstand
+    * Transformator
+  * Der Schwingkreis
+    * \...
+  * Rufzeichen (deutsch)
+

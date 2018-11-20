@@ -1,0 +1,5 @@
+===== Küchenzeit: Montag, 03. April 2017  =====
+  * Diskussionen zur Verbesserung des Freifunk Netzes
+  * Installation eines Test-Routers für den neuen Freifunk Gateway
+  * Planungen für den Umbausamstag
+

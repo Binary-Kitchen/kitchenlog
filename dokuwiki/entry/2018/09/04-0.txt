@@ -1,0 +1,5 @@
+===== Küchenzeit: Dienstag, 04. September 2018  =====
+  * Erstes Repaircaffee
+  * Es ist Brotzeit!
+  * Mehr WLAN-AP debugging...
+

@@ -1,0 +1,17 @@
+===== OpenLab: Samstag, 04. August 2018  =====
+  * Viel passiert am OpenLab
+  * Im Keller wurden Schwingkreise analysiert
+  * Fenster renoviert
+  * Server ausgeräumt
+  * Rack neu verkabelt
+  * Neue Antennenkabel für die Funkamateure
+  * Die Fräse fräst sich selbst
+  * Berliner Hocker aus dem Kurs [[projekte:fraese_halten|Fräse halten für Anfänger]] wird finalisiert
+  * Neuer Zwingen-Halter wurde gebaut
+  * Große [[https://en.wikipedia.org/wiki/French_cleat|French Cleats]] hängen jetzt an der Wand in der Werkstatt
+  * Label all the things \o/
+  * Gemeinsame Brotzeit als kleine Pause zwischen der vielen Arbeit
+
+
+==== Bilder ====
+{{gallery>:klog:2018:08:04:0?direct&lightbox}}
