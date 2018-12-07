@@ -4,5 +4,4 @@ TOPIC: Ausflug
 APPENDIX: None
 
   * Kitchenausflug nach Lübeck und Travemünde
-  * Besuch der neuen Räumlichkeiten des Chaotikum e.V. nach Besuchungsbeschluss 
-==== Bilder ====
+  * Besuch der neuen Räumlichkeiten des Chaotikum e.V. nach Besuchungsbeschluss

@@ -22,4 +22,3 @@ Amateurfunk-Kurs.
     * Reichweite auf Kurzwelle
     * UKW-Wellenausbreitung
     * Weitere UKW-Betriebsarten
- 

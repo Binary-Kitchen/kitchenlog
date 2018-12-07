@@ -3,4 +3,4 @@ END: None
 TOPIC: Küchenzeit
 APPENDIX: None
 
-Montagstreff. Was haben wir eigentlich gemacht?\\ Letzte ? Arbeiten an den RGB Strahlern.\\ Im Labor haben wir jetzt auch einen KW Empfänger für den Frequenzbereich von ca. 0-30MHz. Mit der Drahtantenne haben wir damit schon Amateurfunkstationen aus USA usw. gehört. 
+Montagstreff. Was haben wir eigentlich gemacht?\\ Letzte ? Arbeiten an den RGB Strahlern.\\ Im Labor haben wir jetzt auch einen KW Empfänger für den Frequenzbereich von ca. 0-30MHz. Mit der Drahtantenne haben wir damit schon Amateurfunkstationen aus USA usw. gehört.

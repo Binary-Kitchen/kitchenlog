@@ -4,4 +4,4 @@ TOPIC: Küchenzeit
 APPENDIX: None
 
   * Eggbot wurde vorgestellt. 
-  * Netzwerkkamera wurde eingerichtet um die Mausefallen im Swapspace zu kontrollieren. 
+  * Netzwerkkamera wurde eingerichtet um die Mausefallen im Swapspace zu kontrollieren.

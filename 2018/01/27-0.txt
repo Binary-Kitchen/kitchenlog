@@ -5,4 +5,3 @@ APPENDIX: None
 
   * Wir haben tollen Besuch aus Nürnberg und zusammen werden grüne Kraken und Ninja-Katzen gedruckt.
   * Außerdem wurde am Wiki gearbeitet, Design wurde etwas angepasst und Kitchenstatus wird jetzt angezeigt in der Sidebar.
-      

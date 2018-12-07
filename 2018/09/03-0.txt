@@ -8,4 +8,3 @@ APPENDIX: None
   * Basteln am neuen Doorlock
   * Erste Debugversuche am instabilen WLAN-AP finden statt
   * Testen eines LED-Cube als neues [[https://github.com/Binary-Kitchen/SolderingTutorial|Lötworkshop]] Kit
-==== Bilder ====

@@ -7,4 +7,3 @@ APPENDIX: None
   * Es wird weiter an der [[projekte:mpcnc|MPCNC]] gearbeitet
   * Die Fräse wird eingebaut und ein Kitchenkopf zuerst in Styropor dann in Holz gefräst
   * Weitere Tische für die Kitchen werden gebaut
- 

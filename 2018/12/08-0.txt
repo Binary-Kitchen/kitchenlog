@@ -1,0 +1,11 @@
+BEGIN: 2018-12-08
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+ 
+  * Es wird an der MPCNC gefräst
+  * Unsere transportablen Holzbänke bekommen bequeme Sitzpolster
+  * Im Funkraum wird eine Heizung montiert
+  * Das Shack wird um ein FT-991 erweitert
+  * Fernschreiber der Chaosvermittlung werden für den 35C3 vorbereitet

@@ -4,4 +4,4 @@ TOPIC: Küchenzeit
 APPENDIX: None
 
   * Neuer Server: https://forseti.binary.kitchen , Check_MK monitor 
-  * Die Urform für die zukünftigen Kitchenseifeformen wird 3D-gedruckt, gespachtelt und geschliffen 
+  * Die Urform für die zukünftigen Kitchenseifeformen wird 3D-gedruckt, gespachtelt und geschliffen

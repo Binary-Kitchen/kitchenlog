@@ -3,4 +3,4 @@ END: None
 TOPIC: Küchenzeit
 APPENDIX: None
 
-  * ein geselliger Abend in kleiner Runde, inkl. Einführung in den 3D-Drucker. 
+  * ein geselliger Abend in kleiner Runde, inkl. Einführung in den 3D-Drucker.

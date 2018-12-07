@@ -1,0 +1,11 @@
+===== Küchenradio: Dienstag, 11. Dezember 2018  =====
+
+  * Unsere KW-Antenne wird wieder fit gemacht
+  * Das Shack wird aufgeräumt
+  * Neue Bewohner ziehen in das Shack ein neben dem FT-991 nun auch noch ein FT-736R
+  * Firmware Update des FT-991
+  * Ein neues 30A Netzteil wird integriert und die Komponenten neu verkabelt
+
+
+==== Bilder ====
+{{gallery>:klog:2018:12:11:0?direct&lightbox}}

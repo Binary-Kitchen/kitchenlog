@@ -4,4 +4,3 @@ TOPIC: Küchenzeit
 APPENDIX: None
 
   * Mit Hilfe der Oberfräse wird ein TFT-Monitor in einen Tisch eingelassen
- 

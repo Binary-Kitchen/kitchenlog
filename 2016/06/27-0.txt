@@ -3,4 +3,4 @@ END: None
 TOPIC: Küchenzeit
 APPENDIX: None
 
-  * \....schreib wer was!! 
+  * \....schreib wer was!!

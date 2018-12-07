@@ -7,4 +7,4 @@ APPENDIX: None
   * Das Fenster im Keller wurde noch mit Farbe aufgefrischt, nachdem es vermutlich zum ersten mal gereinigt wurde ;-)
   * Anke macht lecker Lasagne für die Kitchenhelfer
   * Unter vielen wachsamen Augen werden die Siebe für den Siebdruck gereinigt und für die nächste Verwendung vorbereitet
-  * Das neue Oszi wird gleich genutzt um ein Packet Cable für das Yaesu 817 Funkgerät zu debuggen. 
+  * Das neue Oszi wird gleich genutzt um ein Packet Cable für das Yaesu 817 Funkgerät zu debuggen.

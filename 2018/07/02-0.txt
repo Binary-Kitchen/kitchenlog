@@ -9,4 +9,3 @@ APPENDIX: None
   * in der Werkstatt entstehen grad erste neue Tische für unseren Aufenthaltsraum - natürlich branded
   * geheime Dinge passieren im Getränkeautomaten - mehr dazu hoffentlich bald
   * Am DNS wurde gebastelt damit für interne Dienste gültige Let's Encrypt Zertifikate verwendet werden können
-  

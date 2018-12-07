@@ -5,4 +5,3 @@ APPENDIX: None
 
   * Packet-Radio Versuche mit Siemens C5
   * Amateurfunkkabel das Opfer einer Heckenschere wurde erfolgreich repariert
-==== Bilder ====

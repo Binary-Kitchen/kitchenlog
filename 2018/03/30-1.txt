@@ -7,5 +7,4 @@ APPENDIX: None
   * Even mooaaar Nibbleklammern 
   * Kitchen-Osternest
   * Chaosvermittlung war Teil des POCs https://www.youtube.com/watch?v=5eguMOTkq_8
- 
   * Am Siebdruck-Workshop teilgenommen
