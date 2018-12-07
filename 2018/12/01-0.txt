@@ -1,0 +1,9 @@
+BEGIN: 2018-12-01
+END: None
+TOPIC: OpenLab
+APPENDIX: None
+
+  * Erster Workshop Nutzung der [[projekte:mpcnc|MPCNC]]
+  * 6 Teilnehmer fräsen verschiedene Dinge unter anderem Einhand-Buchhalter und Weihnachtsdeko
+  * Am Abend wird noch ein alter Fernschreiber wieder zum laufen gebracht... zumindest fast
+  * Eine Delegation der Kitchen fährt nach Nürnberg um die Neueröffnung des FabLabs zu besuchen

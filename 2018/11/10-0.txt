@@ -1,0 +1,8 @@
+BEGIN: 2018-11-10
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+ 
+  * Werkstatt wird genutzt zum Regalbau & Gaffatapeaufhängung
+  * Ein Brett als Bauanleitung für Nibbleklammern vorbereitet

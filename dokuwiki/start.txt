@@ -1,6 +1,7 @@
 ====== Küchen-Log ======
 
 ===== 2018 =====
+  * [[:klog:2018-12|Dezember]]
   * [[:klog:2018-11|November]]
   * [[:klog:2018-10|Oktober]]
   * [[:klog:2018-09|September]]

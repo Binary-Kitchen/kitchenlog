@@ -1,0 +1,11 @@
+BEGIN: 2018-11-26
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+ 
+  * es gibt eine Einführung in die aktuell vorhandenen und funktionstüchtigen 3D-Drucker 
+  * es entstehen direkt erste nützliche [[https://www.thingiverse.com/thing:998999|Dinge]]
+  * nachdem die Werkstatt auf Betriebstemperatur gebracht ist, wird fleißig gesiebdruckt
+  * wir bekommen eine Lego-Spende und es wird gebaut was die Klötzchen hergeben
+  * im Labor wird ein explodierter Transistor repariert

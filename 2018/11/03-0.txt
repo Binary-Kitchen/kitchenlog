@@ -1,0 +1,11 @@
+BEGIN: 2018-11-03
+END: 2018-11-04
+TOPIC: Hack&Make Nürnberg
+APPENDIX: None
+
+ 
+  * Die Binary Kitchen ist mit dem Lötworkshop auf der Hack&Make 2018
+  * Über zwei Tage konnten 10000 Besucher unseren Stand bewundern
+  * 325 von ihnen haben den ganzen Tag über gelötet und waren begeistert
+  * Wir sind sogar kurz im BR Fernsehen zu sehen
+==== Bilder ====

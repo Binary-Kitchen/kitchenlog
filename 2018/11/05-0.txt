@@ -1,11 +1,8 @@
 BEGIN: 2018-11-05
 END: None
-TOPIC: Hack&Make
+TOPIC: Küchenzeit
 APPENDIX: None
 
  
-  * Die Binary Kitchen ist mit dem Lötworkshop auf der Hack&Make 2018
-  * Über zwei Tage konnten 10000 Besucher unseren Stand bewundern
-  * 325 von ihnen haben den ganzen Tag über gelötet und waren begeistert
-  * Wir sind sogar kurz im BR Fernsehen zu sehen
-==== Bilder ====
+  * der Pizzastein wird in großer Runde eingeweiht - es gibt Flammkuchen!
+  * es wird ein wenig mit KiCAD gebastelt und vielleicht kommt da demnächst etwas für den Lötworkshop auf euch zu

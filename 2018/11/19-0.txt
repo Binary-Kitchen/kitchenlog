@@ -1,0 +1,9 @@
+BEGIN: 2018-11-19
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+ 
+  * Es werden Türme aus glutenfreien Spaghetti, Duct-Tape und Seil gebaut - sie sollen einen Keks halten
+  * Im Labor wird weiter versucht die kleinen 01005 Bauteile (Widerstände) auf 0805er Pads zu löten
+  * In der Werkstatt wird ein mit Hilfe der CNC-Fräse ausgeschnittenes Stövchen finalisiert

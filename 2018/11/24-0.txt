@@ -1,0 +1,12 @@
+BEGIN: 2018-11-24
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Es wird an beiden CNC-Fräsen in der Werkstatt gearbeitet
+  * Biertragerl wird gefräßt (Danke an [[https://www.zenziwerken.de|Zenziwerken]] für die Vorlage)
+  * Viele viele neue Multimeter
+  * Neues Tape Art wird in der Küche angebracht
+  * Eine Moulinex mit der Kraft von mind. 5 Hackern repariert (Tipp: Dreck aus Schalter kratzen und alle Kabel wieder einstecken)
+  * Netzteil zu schwach für die neue Grafikkarte? Einfach zwei PC-Netzteile einbauen. Die Freude hält 5 Minuten, dann ist eines merkwürdigerweise mit einem lauten Knall explodiert
+  * Party \o/
