@@ -2,4 +2,7 @@
 
 **//If it's not in the log, it didn't happen!//**
 
+Hier geht's zu [[:klog:2016-08 | August]] / [[:klog:start | Übersicht]] / [[:klog:2016-10 | Oktober]]
+
+
 {{blog>klog:entry:2016:09?31&nouser&nodate&nomdate}}

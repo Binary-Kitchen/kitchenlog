@@ -2,4 +2,7 @@
 
 **//If it's not in the log, it didn't happen!//**
 
+Hier geht's zu [[:klog:2017-03 | März]] / [[:klog:start | Übersicht]] / [[:klog:2017-05 | Mai]]
+
+
 {{blog>klog:entry:2017:04?31&nouser&nodate&nomdate}}

@@ -2,4 +2,7 @@
 
 **//If it's not in the log, it didn't happen!//**
 
+Hier geht's zu [[:klog:2014-12 | Dezember]] / [[:klog:start | Übersicht]] / [[:klog:2015-02 | Februar]]
+
+
 {{blog>klog:entry:2015:01?31&nouser&nodate&nomdate}}

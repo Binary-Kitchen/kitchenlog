@@ -2,4 +2,7 @@
 
 **//If it's not in the log, it didn't happen!//**
 
+Hier geht's zu [[:klog:2018-07 | Juli]] / [[:klog:start | Übersicht]] / [[:klog:2018-09 | September]]
+
+
 {{blog>klog:entry:2018:08?31&nouser&nodate&nomdate}}
