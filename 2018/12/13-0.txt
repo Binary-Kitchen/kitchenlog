@@ -1,0 +1,9 @@
+BEGIN: 2018-12-13
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+ 
+  * Stempel werden geschnitzt
+  * Eine Einhausung für die 3D-Drucker wird gebaut
+  * Am Punktschweißgerät wird gearbeitet
