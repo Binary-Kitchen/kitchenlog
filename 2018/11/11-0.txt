@@ -3,6 +3,5 @@ END: None
 TOPIC: Küchenzeit
 APPENDIX: None
 
- 
   * Es wird ein neues Kit für den Lötworkshop entworfen
   * Für ein Garmin Navi wird ein Ersatzteil aus flexiblem Filament gedruckt

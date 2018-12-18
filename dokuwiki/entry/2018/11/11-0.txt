@@ -1,5 +1,4 @@
 ===== Küchenzeit: Sonntag, 11. November 2018  =====
-
   * Es wird ein neues Kit für den Lötworkshop entworfen
   * Für ein Garmin Navi wird ein Ersatzteil aus flexiblem Filament gedruckt
 

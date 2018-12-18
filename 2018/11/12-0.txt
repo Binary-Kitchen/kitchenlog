@@ -3,7 +3,6 @@ END: None
 TOPIC: Küchenzeit
 APPENDIX: None
 
- 
   * das Regal von Sonntag wird finalisiert
   * wir haben Besuch von der Quartiersmanagerin der [[https://www.regensburg.de/rathaus/regensburg-plant-und-baut/soziale-stadt-innerer-suedosten|Sozialen Stadt Innerer Südosten]], geben eine Führung und sprechen über mögliche Kooperationen im kommenden Jahr
   * im Keller gibt es eine Präsentation zu einem neuen Log-Produktivsystem - wir sind gespannt ob wir demnächst hier per Mail oder Konsole Einträge verfassen können

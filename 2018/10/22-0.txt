@@ -3,7 +3,6 @@ END: None
 TOPIC: Küchenzeit
 APPENDIX: None
 
- 
   * wir haben ein paar IoT-Maker-Kits geschenkt bekommen und spielen ein wenig damit rum
   * es sind Sensoren, ein Display, ein paar Kabel und eine Steuerungs-Platine dabei
   * die einzelnen Komponenten lassen sich anscheinend auch mit jedem Arduino betreiben

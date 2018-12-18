@@ -3,7 +3,6 @@ END: None
 TOPIC: Kitchenlog
 APPENDIX: None
 
- 
   * Tassen werden bemalt
   * Planungen für die Weihnachtsfeier
   * 3D-Druck

@@ -3,7 +3,6 @@ END: None
 TOPIC: Küchenzeit
 APPENDIX: None
 
- 
   * Die Firmware der Fräse wird aktualisiert und diverse Geschwindigkeitstests durchgeführt
   * Der neue Doorlock wird eingebaut
   * Für den Hauptraum wird ein neues Display für die Hausautomatisierung installiert

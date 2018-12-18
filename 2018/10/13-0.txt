@@ -3,7 +3,6 @@ END: None
 TOPIC: Küchenzeit
 APPENDIX: None
 
- 
   * Lötworkshop bei con_temporary
   * Viele begeisterte Kinderaugen
   * Noch mehr begeisterte Erwachsenenaugen

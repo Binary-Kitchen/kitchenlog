@@ -3,7 +3,6 @@ END: None
 TOPIC: Küchenzeit
 APPENDIX: None
 
- 
   * Es wird an der MPCNC gefräst
   * Unsere transportablen Holzbänke bekommen bequeme Sitzpolster
   * Im Funkraum wird eine Heizung montiert

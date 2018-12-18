@@ -3,7 +3,6 @@ END: None
 TOPIC: Küchenzeit
 APPENDIX: None
 
- 
   * es regnet und regnet und regnet - perfektes Werkstattwetter!
   * unser Staubsauger wird demnächst ohne Staubbeutel auskommen, dank des neuen Zyklonabscheiders
   * aus einer alten Farbdose wird ein Behätnis dafür gebaut, mehr Infos zu diesem tollen Projekt findet ihr [[projekte:zyklon-abscheider|hier]]

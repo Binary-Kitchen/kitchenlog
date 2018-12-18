@@ -1,5 +1,4 @@
 ===== Küchenzeit: Montag, 26. November 2018  =====
-
   * es gibt eine Einführung in die aktuell vorhandenen und funktionstüchtigen 3D-Drucker
   * es entstehen direkt erste nützliche [[https://www.thingiverse.com/thing:998999|Dinge]]
   * nachdem die Werkstatt auf Betriebstemperatur gebracht ist, wird fleißig gesiebdruckt

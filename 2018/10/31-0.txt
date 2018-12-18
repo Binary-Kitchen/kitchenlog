@@ -3,7 +3,6 @@ END: None
 TOPIC: Halloween Party
 APPENDIX: None
 
- 
   * Es gibt Kürbissuppe, Kürbiskuchen, Süßigkeiten und schaurige Deko
   * Nachbarskinder kommen um was von den Süßigkeiten abzubekommen
   * Im Labor werden Spiele gespielt (u.a. Werwölfe und Psychose)

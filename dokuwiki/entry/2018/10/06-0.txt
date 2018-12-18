@@ -1,5 +1,4 @@
 ===== Küchenzeit: Samstag, 06. Oktober 2018  =====
-
   * Die Firmware der Fräse wird aktualisiert und diverse Geschwindigkeitstests durchgeführt
   * Der neue Doorlock wird eingebaut
   * Für den Hauptraum wird ein neues Display für die Hausautomatisierung installiert
