@@ -1,0 +1,8 @@
+BEGIN: 2018-12-03
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Es gibt ein Planungstreffen zm 35C3 - wer fährt und was wird mitgenommen?
+  * Weiterhin werden wir in unseren Räumen wieder einen Gegencongress anbieten - Infos folgen!
+  * In der Werkstatt wird an der Fräse gearbeitet
