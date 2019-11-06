@@ -1,0 +1,15 @@
+BEGIN: 2019-01-19
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * Was für ein geschäftiger Samstagnachmittag in der Kitchen!
+  * Timo gibt ab 13 Uhr einen aktuellen Stand inklusive Begehung zum Thema "Anschaffung Lasercutter"
+  * Es wird unter anderem nochmal ein möglicher Standort vermessen.
+  * Ab 14:30 Uhr wird mal wieder ordentlich durchgefegt - vielen Dank an die vielen fleißigen HelferInnen!
+  * Zwischendurch wird Pizza geholt.
+  * Ab 17 Uhr findet unser [[organisation:plenum:plenum_08|8. Plenum]] statt
+  * danach wird noch weiter gewerkelt und Film geschaut
+  * wir haben jetzt Heizungen in den Toiletten und einen Durchlauferhitzer in der Küche
+  * Das Punktschweißgerät wird repariert.
+  * Einer der 3D-Drucker hat ein neues Heat-Bed und die Neukallibrierung kann sich sehen lassen.

@@ -1,0 +1,8 @@
+BEGIN: 2019-01-28
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * Das Wetter ist ungemütlich und nur wenige KöchInnen verschlägt es in die Kitchen
+  * Dafür gibt es für die Anwesenden Pudding und Cheddar \o/
+  * Die Planungen für die [[veranstaltungen:kitchen6|Geburtstagsfeier "Binary Kitchen 6 - Hex Hex"]] schreiten voran 

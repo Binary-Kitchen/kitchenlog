@@ -1,0 +1,9 @@
+BEGIN: 2019-01-14
+END: None
+TOPIC: Küchenlog
+APPENDIX: None
+
+  * Die Flyer für [[https://www.nacht-schafft-wissen.de|Nacht.Schafft.Wissen]] sind da - und wir sind dabei \o/
+  * Es gibt eine Portion Tonka-Pudding
+  * Die Initiative [[https://www.angestoepselt.de|Angestoepselt]] kommt vorbei und holt ein paar Rechner ab, die wir ausgetauscht haben
+  * Unser Schraubensortiment ist wieder aufgefüllt - man sollte nie die Basics vernachlässigen!

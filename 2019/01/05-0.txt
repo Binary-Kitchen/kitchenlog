@@ -1,0 +1,9 @@
+BEGIN: 2019-01-05
+END: None
+TOPIC: Openlab
+APPENDIX: None
+
+  *Das Openlab ist heute gut besucht, leider haben wir keine Drehbank
+  *Die zweite Fräse wird weiter hergerichtet und wieder zusammengebaut
+  *Sortimentskästen entstehen
+  *T-Shirts werden gedruckt

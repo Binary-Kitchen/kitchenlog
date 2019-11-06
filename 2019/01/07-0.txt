@@ -1,0 +1,10 @@
+BEGIN: 2019-01-07
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  *Es gibt Schinken!
+  *aus den leider nicht funktionierenden Nibble ++ wird Schmuck gelötet
+  *wir erhalten eine Kiste mit kleinen Hardware-Spenden - darunter auch 110 F Kondensatoren die für viel Spaß sorgen!
+  *ansonsten wird gemütlich beisammen gesessen, gestrickt und gezeichnet
+  *In der Werkstatt werden neue Schübe für Lötkurs-Sortierkästen fertiggestellt

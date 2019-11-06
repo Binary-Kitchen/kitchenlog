@@ -1,0 +1,8 @@
+BEGIN: 2019-01-21
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * Es wird weiter an der geheimen LED gebaut
+  * im Keller wird ein Telefon repariert
+  
