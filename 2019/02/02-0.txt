@@ -1,0 +1,9 @@
+BEGIN: 2019-02-02
+END: None
+TOPIC: Openlab
+APPENDIX: None
+
+  * Mithilfe der [[projekte:mpcnc|MPCNC]] entsteht eine neue Bank aus einer Siebdruckplatte
+  * Es gibt erste Pläne für das CCCamp 2019
+  * Wir bekommen eine Lieferung Blutwurz und Gin für die baldige Geburtstagsfeier [[veranstaltungen:kitchen6|Binary Kitchen 6 - Hex Hex]]
+  * Abends gibt es eine riesige Portion Kartoffelsalat, es wird angegrillt und der Tag findet mit ein paar Filmen seinen Ausklang

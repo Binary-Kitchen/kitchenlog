@@ -1,0 +1,15 @@
+BEGIN: 2019-02-25
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * es wird überlegt, wie weitere Spenden für den Laser gesammelt werden können (zweckgebundene Spenden für den Laser gern an: [[:spenden|Spenden]])
+  * es gibt ein Treffen aller Interessierten für den Kitchen-Garten
+  * dort wird überlegt, ob und was man auf der zur Verfügung gestellten Gartenparzelle bauen/anpflanzen/beitragen kann
+  * u.a. gibt es Ideen zu Solarpanelen für Strom, ein Bauwagen der aufgebaut werden soll und die Idee für eine Sitzecke
+  * auch das Projekt [[projekte:bienen|Bienen]] wird vorgestellt - alle hier Interessierten besprechen sich zusätzlich, was es zu tun gibt
+  * es sind inzwischen sehr viele Häkel-Hexagone für die [[projekte:haekeln|Geburtstagsdecke]] entstanden
+  * sie werden gezählt und es gibt ein kleines Foto-Shooting (Ergebnisse auf der Projektseite)
+  * im Keller wird an Projekten weitergearbeitet
+  * u.a. wird einer der 3D-Drucker neu kalibriert - das Resultat wird mit einer [[https://www.thingiverse.com/thing:1545913|Cali Cat]] beurteilt
+  * der Verbrauch der [[https://github.com/Binary-Kitchen/nibble_plusplus|Nibble++]] wird bestimmt und Bilder mit dem Mikroskop vom Löten gemacht
