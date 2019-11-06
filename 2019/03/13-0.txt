@@ -1,0 +1,10 @@
+BEGIN: 2019-03-13
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * Umbau der Werkstatt in Vorbereitung auf den Laser
+  * Neue Brücke für $dinge ist eingezogen
+  * MPCNC hat einen neuen Platz
+  * Erste Pläne für einen Fräsenunterbau für Metallfräse stehen
+  * Kuchen und Pudding zur Freude aller Spielkinder

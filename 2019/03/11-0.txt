@@ -1,0 +1,11 @@
+BEGIN: 2019-03-11
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * vor unserem offiziellen Offenen Abend begrüßen wir Gäste von Krones in unseren Räumen, denen wir eine kleine Führung geben
+  * es werden leckerste Reste von der HexHex Party vernichtet - es gibt nochmal Kartoffeln und Sauerkraut
+  * in der Werkstatt wird versucht ein verrostetes Fahrradsattelrohr zu lockern - vergebens.
+  * dabei wird gerätselt wessen Abdrücke dort wohl auf der Siebdruckbank zu sehen sind
+  * im Keller wird weiter an Projekten gearbeitet, aber auch über einen möglichen Standort beim Bürgerfest gesprochen
+  * das Lager im Serverraum wird umge-tetrist

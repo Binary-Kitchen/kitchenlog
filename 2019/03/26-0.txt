@@ -1,0 +1,8 @@
+BEGIN: 2019-03-26
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * Unser neuer Laser wird geliefert \o/
+  * Mit vereinten Kräften wird er in sein neues Zuhause gebracht
+  * Der Laser wird gleich ausprobiert und man staunt über die ersten Ergebnisse

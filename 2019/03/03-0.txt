@@ -1,0 +1,10 @@
+BEGIN: 2019-03-03
+END: None
+TOPIC: TeXnisches Kaffeekränzchen
+APPENDIX: None
+
+  * Erfolgreicher Testlauf für ein alternatives Stammtischformat
+  * Über 10 Teilnehmer
+  * Themen von TeX & Friends über Technik allgemein bis zu aktueller Politik & Gesellschaft
+  * Austausch über aktuelle Projekte auch über das TeXnische Umfeld hinaus
+  * Überlegungen und Ideensammlung zu kommenden Veranstaltungen aus Chaos und TeX-Community 

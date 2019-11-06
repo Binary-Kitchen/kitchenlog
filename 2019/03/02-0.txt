@@ -1,0 +1,6 @@
+BEGIN: 2019-03-02
+END: 2019-03-03
+TOPIC: Make Munich 2019
+APPENDIX: None
+
+Unser #nibbleklammer Lötworkshop auf der Make Munich am Wochenende war mit insgesamt 652 Teilnehmern außerordentlich gut besucht! Die Freude in kleinen und großen Gesichtern wenn die #LEDs endlich blinken war unsere Bezahlung und Freude😊 Einige versuchten sich bereits an der #smdlöten Nibble++ Challenge und wir arbeiten bereits an neuen Workshop Ideen 😊 🙌 für kommende Events .

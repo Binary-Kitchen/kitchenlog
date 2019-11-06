@@ -1,0 +1,9 @@
+BEGIN: 2019-03-09
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Kabelkanäle neben der Eingangstür für Doorlock und Kitchensign werden befestigt
+  * Die Statuskatze wird repariert
+  * Die [[projekte:mpcnc|MPCNC]] bekommt neue Software (CNCjs 1.9.16)
+  * Der [[projekte:arcadeautomat|Arcade Automat]] bekommt einen Sonoff Touch und wird in die Hausautomatisierung eingebunden

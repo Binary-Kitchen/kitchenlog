@@ -1,0 +1,7 @@
+BEGIN: 2019-03-30
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * In der Werkstatt entstehen Zargen und Rahmen für Bienenbeuten
+  * Es wird gegrillt
