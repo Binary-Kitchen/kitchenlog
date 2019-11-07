@@ -1,0 +1,10 @@
+BEGIN: 2019-06-10
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * es ist Feiertag und man wartet auf Gewitter 
+  * in der Werkstatt wird fleißig gelasert - diesmal wird unter anderem das Spiegel-Acryl getestet
+  * venti hat am Wochenende kleine "Roboter" für unseren Stand am Bürgerfest getestet - sie werden noch mit Wackelaugen versehen
+  * wir bekommen Besuch von Vertretern der lokalen Fridays For Future, welche eine Veranstaltung vorstellen zu der wir eingeladen sind teilzunehmen 
+  
