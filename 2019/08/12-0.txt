@@ -1,0 +1,13 @@
+BEGIN: 2019-08-12
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Der Modul bekommt ein neues Case
+  * An die neuen Bänke werden Teflongleiter montiert
+  * Eine Holzlieferung kommt an
+  * Ein Teil des Holzes landet umgehend im Laser (Vorbereitungen für den Lötworkshop)
+  * Und die frisch gelaserten Cube-Gehäuse werden gleich mit weiteren Bauteilen zu Löt-Sets verpackt
+  * Die Schilder für den Maibaum des Königlich Bayrischen Amtsvillages sind fertig
+  * Der erste Wolpertinger erwacht zum Leben
+ 

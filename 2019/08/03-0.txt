@@ -1,0 +1,9 @@
+BEGIN: 2019-08-03
+END: None
+TOPIC: Openlab
+APPENDIX: None
+ 
+  * In der Werkstatt wird fleißig gefräst: es entstehen neue Sitzmöbel
+  * Wir haben sehr netten Besuch aus Salzburg
+  * Es wird viel über das Camp gesprochen und geplant, der village Maibaum wird probehalber aufgestellt
+  * Abends gibt es Spaghetti Bolognese und sehr viel Nachtisch

@@ -1,0 +1,9 @@
+BEGIN: 2019-08-31
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * Viel C3Staub und Entropie des CCCamp19 wird vernichtet
+  * Es gibt leckeres Moussaka mit und ohne Auberginen
+  * Die Moodlight Steuerung bekommt ein neues 19" Gehäuse
+  * Die 3D-Drucker bekommen eine Beleuchtung
