@@ -1,0 +1,7 @@
+BEGIN: 2019-10-23
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * Unser Lötworkshop ist an der OTH zu Gast
+  * Studierende der Elektrotechnik löten verschiedene Bausätze (SMD und DIP)

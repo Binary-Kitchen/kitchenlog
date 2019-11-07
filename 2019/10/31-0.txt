@@ -1,0 +1,9 @@
+BEGIN: 2019-10-31
+END: None
+TOPIC: Küchenzeit
+APPENDIX: Halloween
+
+  * All eyes on Halloween (sowohl süß als auch herzhaft)
+  * Es gibt Gespenster, verrückte Wissenschaftler und Zombieschafe
+  * Im Keller wird bei einem Rollenspiel die kitchen gerettet
+  * Freibier!

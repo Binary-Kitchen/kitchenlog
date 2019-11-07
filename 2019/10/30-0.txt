@@ -1,0 +1,8 @@
+BEGIN: 2019-10-30
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Noch ein Lötworkshop :-)
+  * Dieses Mal findet der Workshop für Kinder ab 6 Jahren statt und es werden Nibbleklammern gelötet
+  * Vielen Dank an das Familienbüro der OTH

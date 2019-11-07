@@ -1,0 +1,7 @@
+BEGIN: 2019-10-20
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * Wir nehmen mit dem Lötworkshop am Straßenfest der Guerikestraße teil
+  * Und kochen Futter für unsere Bienen

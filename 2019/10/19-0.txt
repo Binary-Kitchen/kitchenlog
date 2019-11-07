@@ -1,0 +1,8 @@
+BEGIN: 2019-10-19
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * Nachmittags ist der DARC zu Gast, es findet ein Termin des Amateurfunk-Lehrgangs statt [[https://www.darc.de/der-club/distrikte/u/ortsverbaende/13/afu-kurs-201920/|DARC]]
+  * Es wird ein bisschen gebastelt
+  * Abends gibt es Schweinebraten und Knödel

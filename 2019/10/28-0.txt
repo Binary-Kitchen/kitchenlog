@@ -1,0 +1,9 @@
+BEGIN: 2019-10-28
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Im Keller kann jetzt jederzeit der geostationäre Amateurfunksatellit empfangen werden 
+  * Glühwürmchen werden zu einem Schal gestrickt
+  * In der Werkstatt wird ein Türkeil gelasert und T-Shirts bedruckt
+  * Und ein paar Besucher bekommen eine Führung
