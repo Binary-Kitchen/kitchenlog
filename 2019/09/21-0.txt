@@ -1,0 +1,11 @@
+BEGIN: 2019-09-21
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * ein eher ruhiger Samstag, an dem aber doch recht viel gewerkelt wird
+  * in der Küche wird ein Kabelkanal verlegt und eine zusätzliche Steckdose installiert
+  * eine Tür wird gestrichen
+  * es werden Vorbereitungen für mehr Aufbewahrungsmöglichkeiten getroffen
+  * der Fernschreiber bekommt ein Wägelchen
+  * und im Funkerbunker ist auch Betrieb (FT 8 auf 80m)
