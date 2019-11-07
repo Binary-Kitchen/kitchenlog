@@ -1,0 +1,12 @@
+BEGIN: 2019-07-29
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * Es gibt ein spontanes Abendessen: Nudeln mit Zucchini-Tomaten-Sahne-Soße
+  * Außerdem wird viel gewerkelt
+  * Tassen werden verziert
+  * Fingerzinken werden ausgestemmt
+  * Holz für Bienenbeutendeckel und -böden wird vorbereitet
+  * Laserexperimente: verschiedene Parameter werden getestet
+  * Die Bienen wurden kurz besucht, alle scheinen die Milbenbehandlung gut überstanden zu haben

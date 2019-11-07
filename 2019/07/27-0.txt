@@ -1,0 +1,12 @@
+BEGIN: 2019-07-27
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * In der Werkstatt wird gelasert und gefräst
+  * Die Schilder für den Maibaum des königlich bayrischen Amtsvillage werden bemalt
+  * Rindernierenfett wird zu Talg verarbeitet (ausgelassen), dies wird zur Seifenherstellung benötigt. Über die Reste freuen sich befreundete Hühner. 
+  * Der freie Platz in der Werkstatt wird exponentiell vergrößert (aufgeräumt und $Dinge abtransportiert)
+  * Die Bienen werden von Milben befreit
+  * Diverse Rechner und Geräte werden von Raspbian Stretch auf Buster upgegradet
+  * Wir lassen den Tag mit einer Brotzeit ausklingen und genießen das etwas kühlere Wetter 

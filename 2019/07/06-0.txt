@@ -1,0 +1,8 @@
+BEGIN: 2019-07-06
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Das Debian Buster Release ist angekündigt und zur Feier des Tages wird gegrillt!
+  * Die Matrix hat sich chic gemacht und sogar der slush passt farblich zum Anlass
+  * Es gibt dekadenten Nachtisch und dank leuchtender Häkelnadeln wird bis spät in die Nacht gehäkelt

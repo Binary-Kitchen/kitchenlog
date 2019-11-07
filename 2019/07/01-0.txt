@@ -1,0 +1,8 @@
+BEGIN: 2019-07-01
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Einige Bürgerfestkisten werden ausgepackt und (fast) alles landet wieder an seinem angestammten Platz
+  * Alle sind sehr müde und freuen sich über ein Abendessen aus Bürgerfest-Resten
+  * Nibbleklammern leuchten selbst dann weiter, wenn sie aus Versehen in der Waschmaschine mit gewaschen wurden
