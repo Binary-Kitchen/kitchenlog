@@ -3,4 +3,4 @@ END: None
 TOPIC: Küchenzeit
 APPENDIX: None
 
-  * Planungstreffen zum [[veranstaltungen:cccamp2015|Chaos Communication Camp 2015]]
+  * Planungstreffen zum [[veranstaltungen:cccamp2015:start|Chaos Communication Camp 2015]]

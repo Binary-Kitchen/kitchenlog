@@ -5,4 +5,4 @@ APPENDIX: None
 
   * der erste Seifenworkshop mit 6 tollen Teilnehmern findet statt
   * nach einem kurzen Überblick über die chemischen Eigenschaften von Seife und die Reaktionen beim Herstellungsprozess werden eine Lavendelseife und eine Seife ohne Zusätze gesiedet
-  * Interesse an einem weiteren Termin? Bitte eine kurze Rückmeldung an seife@binary-kitchen.de
+  * Interesse an einem weiteren Termin? Bitte eine kurze Rückmeldung an [[seife@binary-kitchen.de]]

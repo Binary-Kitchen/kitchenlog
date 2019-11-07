@@ -7,5 +7,4 @@ APPENDIX: None
   * im Keller wird ein Dell-Netzteil vermessen - die Frage ist ob sich ein Adapter für den TS100 bauen lässt
   * zumindest Strom fließt und auch mit Lastwiderstand lassen sich ein paar Ampere messen - use moare cables!
   * jetzt fehlt nur noch ein passender female Adapter
- 
   * in der Werkstatt wird die Seife vom Vortag begutachtet

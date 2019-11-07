@@ -1,0 +1,8 @@
+BEGIN: 2018-05-09
+END: None
+TOPIC: TTN Treffen
+APPENDIX: None
+
+  * Erstes Treffen der The Tings Network Community Regensburg mit 11 Teilnehmern
+  * Vortrag zu TTN von Andreas und LoRaWAN von TobT
+  * Austausch über LoRa Gateways und Nodes

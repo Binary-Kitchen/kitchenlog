@@ -3,5 +3,5 @@ END: None
 TOPIC: Vortrag: "DSGVO für Vereine"
 APPENDIX: None
 
-  * [[:veranstaltungen_dsgvo_fuer_vereine|DSGVO für Vereine]]
+  * [[veranstaltungen:dsgvo_fuer_vereine|DSGVO für Vereine]]
   * wir bekommen mehr Gäste, als Sitzplätze vorhanden sind und es werden viele Fragen beantwortet

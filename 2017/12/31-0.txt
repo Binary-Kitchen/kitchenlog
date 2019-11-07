@@ -3,4 +3,4 @@ END: None
 TOPIC: Silvester
 APPENDIX: None
 
-  * [[:silvester2017|Silvesterparty 2018 in der Binary Kitchen]]
+  * [[veranstaltungen:silvester2017|Silvesterparty 2018 in der Binary Kitchen]]

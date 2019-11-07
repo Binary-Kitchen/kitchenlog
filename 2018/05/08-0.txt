@@ -7,7 +7,3 @@ APPENDIX: None
   * Erfahrungsaustausch Magnetic Loop Antennen
   * Selbstgebaute Groundplane wird vorgestellt und ausprobiert
   * Schmöckern in einer älteren Ausgabe von Rothammels Antennenbuch
-===== TTN Treffen: Mittwoch, 9. Mai 2018 ====
-  * Erstes Treffen der The Tings Network Community Regensburg mit 11 Teilnehmern
-  * Vortrag zu TTN von Andreas und LoRaWAN von TobT
-  * Austausch über LoRa Gateways und Nodes
