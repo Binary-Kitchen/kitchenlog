@@ -1,0 +1,10 @@
+BEGIN: 2019-04-22
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * heute ist es etwas ruhiger weil Feiertag
+  * es gibt Pizza und Schokolade zu essen
+  * einige Rückkehrer der Easterhegg 2019 in Wien kommen auch vorbei und laden Equipment aus
+  * es wird natürlich gelasert :)
+  * später wird noch etwas auf [[http://media.ccc.de|media.ccc.de]] geschmökert um ein paar verpasste Talks vom EH19 nachzuholen

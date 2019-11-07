@@ -1,0 +1,10 @@
+BEGIN: 2019-04-27
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * Es wird wieder gelasert
+  * Auf der [[projekte:mpcnc|MPCNC]] werden Aussparungen in ein ABS-Gehäuse gefräst
+  * Nach ein paar Versuchen klappt es mit einer Zusätzlichen Druckluftkühlung ganz gut
+  * Der neue [[tools:anycubicphoton|SLA-Drucker]] wird in Betrieb genommen und ein erster Probedruck durchgeführt
+  * Kaputte Hosentaschen werden gefixed

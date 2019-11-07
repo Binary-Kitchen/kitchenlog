@@ -1,0 +1,8 @@
+BEGIN: 2019-04-09
+END: None
+TOPIC: Küchenradio
+APPENDIX: None
+ 
+  * Das defekte Yaesu-991 wird repariert und ist nun wieder voll einsatzfähig \o/
+  * Planungen für Nacht. Schafft. Wissen
+  * Vorbereitungen für den Satellitenfunk via Es'hail-2

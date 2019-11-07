@@ -1,0 +1,7 @@
+BEGIN: 2019-04-07
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * unser 3. Seifenworkshop findet statt
+  * es werden wieder 2 verschiedene Sorten hergestellt: Lavendelseife und Blutwurzorangenseife

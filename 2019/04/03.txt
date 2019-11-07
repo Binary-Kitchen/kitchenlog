@@ -1,0 +1,7 @@
+BEGIN: 2019-04-03
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * Die [[projekte:mpcnc|MPCNC]] bekommt zwei Fachböden um Material für Fräse und Laser lagern zu können
+  * Später am Abend [[organisation:plenum:plenum_09|9. Plenum]] in der Kitchen

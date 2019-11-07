@@ -1,0 +1,6 @@
+BEGIN: 2019-04-23
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+ 
+  * In einem zweiten Einführungskurs wurde der Lasercutter weiteren Mitgliedern erklärt
