@@ -1,0 +1,8 @@
+BEGIN: 2019-07-23
+END: None
+TOPIC: Beenary Kitchen
+APPENDIX: None
+
+  * Bob hat 13 kg Honig produziert \o/
+  * Damit der Honig schön streichfähig bleibt, wird er mit cremigem Bio-Honig geimpft (damit wird die Kristallgröße kontrolliert) und gründlich gerührt
+  * Anschließend wird er in sterilisierte Gläser gefüllt

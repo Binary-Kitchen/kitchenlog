@@ -1,0 +1,9 @@
+BEGIN: 2019-01-02
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Das Schweißgerät wird ausführlich getestet
+  * Die MP-CNC wird hinsichtlich ihrer Genauigkeit geprüft --> Test bestanden
+  * Die Moodlights werden teilweise auf neu entwickelte Hardware umgestellt
+  * Es gibt Resteessen von Silvester und 35c3 Aufzeichnungen

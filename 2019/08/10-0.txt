@@ -1,0 +1,12 @@
+BEGIN: 2019-08-10
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Viele viele viele Bauteile für den Lötworkshop werden zu Sets verpackt: Nibble++ für das Camp!
+  * Die neuen Bänke bekommen einen bunten Rand und werden mit Bootslack versiegelt
+  * Gleichzeitig werden Bankpolsterbezüge genäht
+  * Es entsteht noch mehr Dekoration für das königlich bayrische Amtsvillage
+  * 8,5 kg Kartoffelsalat und 5 kg Leberkäse werden verzehrt
+  * Gehäuse für der Modul wurde lackiert und eine Erweiterung gefräst
+  * Waffeln!!!

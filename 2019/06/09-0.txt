@@ -1,0 +1,11 @@
+BEGIN: 2019-06-09
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Ausflug zum Kloster Weltenburg
+  * Von Kehlheim aus wandern wir zum Kloster Weltenburg
+  * Vorbei an der Befreiungshalle und einigen schönen Aussichten auf den Donaudurchbruch
+  * Nach einem Essen und dem einen oder anderem Radler ging es per Zille und den Rest zu Fuß wieder zurück nach Kehlheim
+  * In der Kitchen wird Spiegelacryl gelasert
+  * Es entstehen kleine Roboter

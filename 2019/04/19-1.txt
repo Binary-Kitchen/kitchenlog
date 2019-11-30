@@ -1,0 +1,12 @@
+BEGIN: 2019-04-19
+END: 2019-04-22
+TOPIC: Easterhegg 2019 in Wien
+APPENDIX: None
+
+  * viele KöchInnen besuchen in diesem Jahr über Ostern die [[https://eh19.easterhegg.eu|Easterhegg]] in Wien
+  * es wird geengelt, gepodcastet, gelötet, gekaraokt, etc.
+  * es gibt viele Schmankerl in Wien zu verköstigen
+  * das Wetter ist sehr sonnig, es gibt eine Dachterrasse und wir testen eine Solar-Löt-Linse und verwandeln einen Schokohasen in leckere flüssige Schoki, die sich super für ein Schoko-Fondue mit Melone anbietet
+  * auf der EH wird ein Kunstprojekt zusammengesetzt: ein von TeilnehmerInnen verteilt 3D gedruckter Wolpertinger - auch wir können ein paar Teile beisteuern
+  * wir haben die Möglichkeit uns mit anderen ChaotInnen auszutauschen und spontan ergibt sich für eine kleine Gruppe der Besuch im Metalab
+  * Vielen Dank an den C3Wien und das Metalab! Wir hatten eine gute Zeit :)

@@ -1,0 +1,10 @@
+BEGIN: 2019-06-28
+END: 2019-06-30
+TOPIC: Küchenzelt
+APPENDIX: None
+
+  * Regensburg feiert das Bürgerfest und wir feiern mit!
+  * Unser Zelt steht 3 Tage auf der Jahninsel und es werden viele viele Nibbleklammern und shitty robots gelötet
+  * Im Zelt waren auch die Funkamateure, Freifunk, Hackers for Future und der Gamerverein zu finden
+  * Außerdem gab es eine gemütliche Lounge aus Sofas und selbstgebauten Bänken, unsere Spielekonsole sorgte für zusätzliche Unterhaltung, für das leibliche Wohl wurde gegrillt und eine Erfrischung stand ebenfalls bereit
+  * Vielen Dank an alle Helfer und Gäste!

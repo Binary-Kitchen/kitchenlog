@@ -1,0 +1,12 @@
+BEGIN: 2019-03-01
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * es gab Muffins & Pudding
+  * Zusammenpacken für die Make Munich
+  * Nibble++ Probelöten
+  * Mindestens 2560 Lötpunkte wurde für den selbstentworfenen Synthesizer gelötet
+  * Diverse andre Projekte im Keller (inclusive Fluchen & Jubeln)
+  * 3D-Druck 3,5 auf 2,5 Zoll Adapter und Weitere
+  * Hexagon wurden weiter gehäkelt & vernäht

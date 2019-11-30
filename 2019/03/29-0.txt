@@ -1,0 +1,8 @@
+BEGIN: 2019-03-29
+END: None
+TOPIC: Ausflug Salzburg
+APPENDIX: None
+
+  * Besuch beim Chaostreff Salzburg 
+  * Die haben eine Werkstatt aus Telefonzellen! 
+  * Salzburg angeschaut, Banana for scale für die lokale Spezialität

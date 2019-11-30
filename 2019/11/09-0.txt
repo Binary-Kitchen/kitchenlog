@@ -1,0 +1,9 @@
+BEGIN: 2019-11-09
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Ein neues Refugium für Meerschweinchen wird gebaut
+  * Es wird fleißig gelasert
+  * Beide SLA-Drucker laufen
+  * Der Abend klingt bei einem Schweinebraten aus

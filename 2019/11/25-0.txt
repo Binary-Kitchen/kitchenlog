@@ -1,0 +1,7 @@
+BEGIN: 2019-11-25
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Auf dem Pizzasteil werden Pizzen gebacken
+  * Das Sieb von letzter Woche wird gedruckt

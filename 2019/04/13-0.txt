@@ -1,0 +1,9 @@
+BEGIN: 2019-04-13
+END: None
+TOPIC: Garten
+APPENDIX: None
+
+  * Der alte Zaun wird abgerissen und entsorgt
+  * Untergrund wird für den Bauwagen vorbereitet
+  * Schrott wird entsorgt und Kies wird besorgt
+  * Der Bauwagen wird geliefert und vorsichtig an seinen neuen Platz geschoben

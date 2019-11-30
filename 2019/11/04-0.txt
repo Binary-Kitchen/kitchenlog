@@ -1,0 +1,7 @@
+BEGIN: 2019-11-04
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Ein eher ruhiger Abend in der Kitchen
+  * Es wird darüber beratschlagt, wie Studierende der OTH über den 36c3 und die Förderung einer solchen Studienfahrt informiert werden könnten, dazu sind einige Mitglieder der FSMI zu Gast

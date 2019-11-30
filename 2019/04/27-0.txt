@@ -1,0 +1,9 @@
+BEGIN: 2019-04-27
+END: None
+TOPIC: Pilsen Maker Fair
+APPENDIX: None
+
+  * einige Mitglieder waren in Pilsen, im Depot 2015
+  * wir haben die Mini Maker Fair angeschaut und eine Führung durch den dortigen Makerspace bekommen
+  * Teilnahme an Podiumsdiskussionen mit Fablabs und Makerspaces aus der bayerisch-böhmischen Region
+  * die Busfahrt wurde durch die Bayerisch-Böhmische Kulturplattform organisiert, viele andere Interessierte aus Regensburg waren dabei

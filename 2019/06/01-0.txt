@@ -1,0 +1,8 @@
+BEGIN: 2019-06-01
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Geschwärmte Bienen werden gesucht (und gefunden)
+  * Analoges Licht wird digitalisiert
+  * Draußen gemütliches beisammensitzen bei warmen Sommerwetter

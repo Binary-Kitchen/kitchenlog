@@ -1,0 +1,11 @@
+BEGIN: 2019-05-04
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Der Schuppen wird entrümpelt 
+  * Dabei wird eine Toilette gefunden
+  * Am SLA Drucker werden Frösche und ein Oktopus gedruckt 
+  * Mit der Fräse wird ein Gehäuse mit Löchern für Buchsen, Schalter und Displays versehen
+  * Es gibt Flammkuchen
+  * Als Nachmittagssnack Käse-Bier-Chilli Dipp mit Nachos

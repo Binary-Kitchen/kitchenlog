@@ -1,0 +1,9 @@
+BEGIN: 2019-04-08
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * es wird fleißig gekocht - Gulasch für die Massen!
+  * in der Werkstatt wird weiter am Laser gearbeitet und sich mit den Finessen des Kühlsystems auseinandergesetzt
+  * die Filteranlage ist am Wochenende fertig gebaut worden und demnächst wird es die ersten offiziellen Einführungen in den Laser geben \o/
+  * es wird Seife vom Workshop am Vortag an die TeilnehmerInnen verteilt - Lavendel und Orange-Blutwurz

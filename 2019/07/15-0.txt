@@ -1,0 +1,8 @@
+BEGIN: 2019-07-15
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Es ist wieder einmal viel los
+  * Es wird gelasert, bei dieser Gelegenheit wird unser Laser gleich gereinigt
+  * Außerdem werden Siebdrucksiebe belichtet

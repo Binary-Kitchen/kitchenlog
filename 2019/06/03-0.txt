@@ -1,0 +1,13 @@
+BEGIN: 2019-06-03
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * es gibt noch restlichen Schweinebauch von Sonntag und so wird nochmal eine ordentliche Portion Spätzle geschabt
+  * es wird zitroniger Holundersirup in Flaschen abgefüllt
+  * wir haben jetzt eine Zeckenzange in der Werkstatt
+  * weiterhin wird eine Lupe mit HDMI und SDKarten-Aufzeichnungsfunktion als Dauerleihgabe für die Lötkurse und Repaircafezwecke getestet (vielleicht werden wir damit auch Youtube-Stars im Microbereich)
+  * die Vorbereitungen für das [[https://campus-regensburg.org/2019/campusfest-2019-veranstaltung/|Campus-Fest]] am Mittwoch laufen - wir werden wieder mit einem Mate-Stand vertreten sein
+  * ein alter Arcade-Automat wird angeliefert - es wird in den kommenden Wochen versucht dat Ding zum Laufen zu bringen   
+  * eine Schattenbox, welche mit dem Lasercutter geschnitten wurde, wird mit Licht versehen und zieht Blicke auf sich
+  * später am Abend kommt es zu dekorativen Dreckfuß-Verschönerungen

@@ -1,0 +1,9 @@
+BEGIN: 2019-03-04
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Es gibt Pudding!
+  * Im Keller wird der analog Synthesizer getestet
+  * In der Küche gibt es rege Diskussionen - u.a. geht es um Hybrid-Autos
+  * Der Lötworkshop auf der Make Munich wird rekapituliert

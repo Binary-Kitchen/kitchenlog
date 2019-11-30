@@ -1,0 +1,9 @@
+BEGIN: 2019-02-04
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * wetterbedingt ist es wieder ein eher ruhiger Abend in der Kitchen
+  * oben wird fleißig an einem Geburtstagsgeschenk gehäkelt, für unsere [[veranstaltungen:kitchen6|Hex Hex]] Party
+  * im Keller wird an privater Hausautomatisierung gebastelt, es wird ein Raspi 3 B+ aufgesetzt [[https://www.timoschindler.de/sensor-all-the-things-guenstige-sensoren-zur-raumklima-ueberwachung-selbst-bauen-frickeln/|(Anleitung)]] und an einer Heizungssteuerung gefrickelt
+  * das Case für einen selbstentworfenen Synthesizer wird gefräst und zusammengebaut

@@ -1,0 +1,8 @@
+BEGIN: 2019-11-11
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Das Wetter ist wirklich schlecht und nur wenige Mitglieder schaffen es bis in den space
+  * Die am Vortag gesiedete Seife ist leider misslungen, es findet ein Experiment statt, wie sie vielleicht doch noch zu retten ist
+  * Es wird viel über den baldigen 36c3 gesprochen, unter anderem darüber wie man Pudding und Congress vielleicht verbinden könnte

@@ -1,0 +1,7 @@
+BEGIN: 2019-11-16
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Der Laser ist wieder sauber \o/
+  * Und wird gleich benutzt

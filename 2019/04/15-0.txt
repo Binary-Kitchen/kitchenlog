@@ -1,0 +1,8 @@
+BEGIN: 2019-04-15
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Es gibt Brotzeit
+  * Auf der MPCNC wird ein Stuhl gefräst
+  * Es werden [[https://www.thingiverse.com/thing:662501|Windlichter]] gelasert

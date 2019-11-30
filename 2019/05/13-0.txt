@@ -1,0 +1,9 @@
+BEGIN: 2019-05-13
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * wir bekommen unerwartet Besuch - und taufen ihn direkt auf den Namen Caramel
+  * im Keller wird spontan gewerkelt - am Ende steht ein neues Regal und es ist mehr Platz für Member-Kisten
+  * neues essentielles Werkzeug findet seinen Platz in der Werkstatt
+  * nach dem Umbau wird im Keller u.a. ein weiterer [[http://luftdaten.info|Feinstaubsensor]] zusammengebaut

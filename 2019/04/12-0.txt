@@ -1,0 +1,12 @@
+BEGIN: 2019-04-12
+END: None
+TOPIC: NACHT.SCHAFFT.WISSEN
+APPENDIX: None
+
+  * Wir sind mit dabei bei [[https://www.nacht-schafft-wissen.de|NACHT.SCHAFFT.WISSEN]]
+  * Über 400 Leute werden durch unsere Räume geführt darunter viele Familien mit Kindern
+  * Viele löten leuchtende Wäscheklammern mit blinkenden LEDs 
+  * Unser neuer Lasercutter wurde bestaunt
+  * Aber auch noch viele andere Dinge wie 3D-Drucker, CNC-Fräsen und Siebdruck wurden vorgestellt
+  * Die Amateuerfunkgruppe demonstrierte verschiedene Betriebsarten unter anderem Satellitenfunk
+  * Regensburg Repariert und Freifunk Regensburg sind ebenfalls dabei

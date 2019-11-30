@@ -1,0 +1,9 @@
+BEGIN: 2019-08-19
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Diese Woche findet das Chaos Communication Camp statt und ein großer Teil unserer Mitglieder und unseres Equipments hat sich auf die Reise gemacht
+  * In der Werkstatt wird trotzdem gearbeitet: es werden Tiere gelasert, die künftig als Spielzeug Kinder erfreuen sollen
+  * In der Werkstatttoilette wird neuer Stauraum in Form von Regalbrettern geschaffen
+  * Es wird weiter an einem kleinen Podest für einen Monitor gearbeitet. Dafür werden von Hand Zinken aus dem Holz gestemmt

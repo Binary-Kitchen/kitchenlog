@@ -1,0 +1,9 @@
+BEGIN: 2019-02-18
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * es gibt Resteessen von der Geburtstagsparty
+  * im Keller wird wieder mal fleißig gehäkelt und es taucht eine Wollspende auf
+  * in der Werkstatt werden Löcher gefräst 
+  * die neue Siebdruckbank wird gestrichen - mit UV-reaktiver Farbe

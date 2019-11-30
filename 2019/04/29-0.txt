@@ -1,0 +1,11 @@
+BEGIN: 2019-04-29
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * es gibt Waffeln
+  * im Keller wird ein 3D-Druck vom Support getrennt - dat Ding muss nochmal gesliced werden
+  * es findet weiters Material-Testing am Laser statt
+  * es entstehen unter anderem Boxen für Brettspiele
+  * auch eine Kombination aus Fräsen und Lasern wird getestet
+  * wir erhalten neue Feuerlöscher

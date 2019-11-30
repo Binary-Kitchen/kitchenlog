@@ -1,0 +1,8 @@
+BEGIN: 2019-06-08
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Deko fürs Bürgerfest wird aus solaraktiven Material gelasert
+  * Ein Frästisch wird aus Holzresten gebaut
+  * Auf der MPCNC wird damit begonnen einen weitere Bank zu fräsen

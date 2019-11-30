@@ -1,0 +1,6 @@
+BEGIN: 2019-06-20
+END: None
+TOPIC: Plenum
+APPENDIX: None
+
+Es findet das 11 Plenum statt. Besprochene Punkt und Protokoll lassen sich hier finden: [[organisation:plenum:plenum_11|11. Diskurs vom 20.06.2019 19:30 Uhr]]

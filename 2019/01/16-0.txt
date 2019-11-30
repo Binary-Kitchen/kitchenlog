@@ -1,0 +1,10 @@
+BEGIN: 2019-01-16
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Am großen 3D-Drucker wird gebastelt:
+    * Ein Heatbed mit mehr Leistung wird installiert. Die Aufheizzeit hat sich deutlich verringert
+    * Die Druckerfirmware wird auf die neueste Version aktualisiert. Einige neue Funktionen wurden aktiviert
+    * Ein Rapsberry Pi mit Webfrontend für den Drucker wird angebracht. Das übertragen der Dateien mit SD-Karte kann in Zukunft entfallen
+  * Es wird versucht einen Monitor zu reparieren

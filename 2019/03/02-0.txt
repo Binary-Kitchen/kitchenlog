@@ -1,0 +1,10 @@
+BEGIN: 2019-03-02
+END: None
+TOPIC: OpenLab
+APPENDIX: None
+
+  * Es ist wieder OpenLab 
+  * Leute kommen zum sägen, löten und ätzen vorbei
+  * Mit Hilfe der MPCNC entsteht ein Spender für Spülmaschinentabs
+  * Die Vorlage dazu gibt es bei [[https://www.zenziwerken.de/Kuechenutensilien/Spuelmaschinentab-Box|ZeniWerken]]
+  * Es wird Essen bestellt um dann den Tag gemütlich ausklingen zu lassen

@@ -1,0 +1,12 @@
+BEGIN: 2019-02-11
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Das Wetter ist besser und es zieht wieder mehr KöchInnen in die Kitchen
+  * es werden frisch Cookies gebacken
+  * oben wird weiter für die [[projekte:haekeln|Geburtstagshaekseldecke]] gehäkelt
+  * später findet ein weiteres Planungstreffen für das CCCamp statt
+  * in der Werkstatt werden Teile für eine weitere Bank gefräst
+  * im Labor werden die ersten Nibble++ erfolgreich gelötet
+  * es gibt eine kurze Beratung zu günstigem Einsteigerpodcasting-Equipment

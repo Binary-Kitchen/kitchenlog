@@ -1,0 +1,9 @@
+BEGIN: 2019-07-05
+END: None
+TOPIC: Klimalog
+APPENDIX: None
+
+  * Mitglieder des Hackspaces beteiligen sich bei der Aktion [[https://futureforregensburg.de|Future For Regensburg]]
+  * Gemeinsam mit dem RepairCafé gestalten sie als [[https://hackersforfuture.de|Hackers For Future]] die Kreativstation 6
+  * es werden Feinstaubsensoren von [[https://luftdaten.info|https://luftdaten.info]] vorgeführt
+  * Für die Demo von der Uni in die Stadt, die spätere Menschenkette um die Altstadt und den Sternmarsch zur zentralen Kundgebung am Domplatz wurden vorher fleißig Plakate gebastelt

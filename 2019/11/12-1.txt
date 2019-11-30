@@ -1,0 +1,7 @@
+BEGIN: 2019-11-12
+END: None
+TOPIC: Küchen-Radio
+APPENDIX: None
+
+  * Planungen zum Kitchen Es'hail-2 Setup gehen weiter
+  * Weiterer Spaß mit Satellitenfunk

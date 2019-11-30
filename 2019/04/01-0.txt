@@ -1,0 +1,10 @@
+BEGIN: 2019-04-01
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * es wird gegrillt! Resteverwertung vom Wochenende. Zum Nachtisch gibt es Pudding
+  * in der Werkstatt wird kräftig aufgeräumt
+  * nachdem wir nun vor fast einer Woche den Laser aufgestellt haben, ist so weit (fast) alles wieder nutzbar
+  * die Metall-CNC hat einen neuen Platz in der Nische gefunden. 
+  * letzte Woche wurde Wolle gefärbt - jetzt, nachdem sie getrocknet ist, werden Knäule gewickelt

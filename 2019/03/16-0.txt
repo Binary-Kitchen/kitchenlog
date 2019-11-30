@@ -1,0 +1,10 @@
+BEGIN: 2019-03-16
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Die Optimum Fräse bekommt einen eigenen Tisch
+  * Die Werkstatt wird weiter umgebaut und aufgeräumt
+  * Die Bienen Beuten werden für ihren Einsatz vorbereitet
+  * Das beleuchtete Kitchen Logo am Eingang wird wieder in Betrieb genommen
+  * Es gibt Leberkäse mit Kartoffelsalat und Bienenstich

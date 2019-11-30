@@ -1,0 +1,9 @@
+BEGIN: 2019-05-20
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * am Wochenende wurde Seife gekocht und heute können die Ergebnisse begutachtet werden
+  * es ist Lavendel- und Gurken-Minz-Seife entstanden
+  * in der Werkstatt wird ein Hochbeet gebaut
+  * im Kellerlabor wird weiter an dem LED-Projekt "Sonne" gearbeitet

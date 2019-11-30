@@ -1,0 +1,6 @@
+BEGIN: 2019-09-07
+END: None
+TOPIC: wipe&defrag
+APPENDIX: None
+
+  * Einen ganzen Tag wird aufgeräumt, aussortiert, neuer Platz gefunden und die kitchen wieder gemütlicher gemacht

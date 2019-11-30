@@ -1,0 +1,8 @@
+BEGIN: 2019-01-29
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * [[https://www.regensburg-repariert.de|Regensburg Repariert]] trifft sich in der Kitchen, um Dinge zu besprechen und Werkzeuge zu warten
+  * unter anderem wird das Punktschweißgerät wieder in Schuss gebracht
+  * ein punktierter Akku wird in Salzlake kontrolliert entladen

@@ -1,0 +1,7 @@
+BEGIN: 2019-10-23
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Anlässlich der Inkrementierung eines Mitglieds gibt es Schweiners, eine große Portion Käsespätzle mit sehr vielen Zwiebeln, Freibier und Schokoladenpudding
+  * Alles Gute!

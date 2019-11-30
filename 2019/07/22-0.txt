@@ -1,0 +1,12 @@
+BEGIN: 2019-07-22
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Heute wird viel gespendet:
+     * Der Lötworkshop bekommt neue Abisolierzangen
+     * Zur Vorbereitung auf das Camp kommt ein großer Sack Kuscheltiere an 
+  * In der Küche wird gepodcastet [[https://www.desperatehousehackers.net/pudding/|das Ergebnis gibt es hier]]
+  * Diese Woche wird es viel Arbeit bei und wegen unseren Bienen geben, es wird ein Schlachtplan entworfen:
+      * Sie müssen gegen Varoamilben  behandelt werden
+      * Der geerntete Honig (13kg!) muss geimpft und abgefüllt werden

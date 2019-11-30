@@ -1,0 +1,8 @@
+BEGIN: 2019-03-25
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Es wird Wolle gefärbt
+  * Neue Besucher werden durch die Kitchen geführt
+  * Man freut sich auf den Laser der morgen geliefert werden soll

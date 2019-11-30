@@ -1,0 +1,8 @@
+BEGIN: 2019-11-02
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Lötworkshop!
+  * Das [[http://fablab-nuernberg.de/|Fablab Region Nürnberg]] bietet als Veranstalter der Hack & Make neben der iENA und der Consumenta ein Kreativ- und Technikfestival für die Besucher der Messe Nürnberg
+  * Wir waren auch zu Gast und stellten alles bereit um tolle Shitty Robots und Nibbleklammern zu löten.

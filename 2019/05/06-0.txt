@@ -1,0 +1,8 @@
+BEGIN: 2019-05-06
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * es gibt Brotzeit
+  * man bespricht ein paar Events die in nächster Zeit anstehen, so bspw. das Campus-Fest, die EH21 und das CCCamp19
+  * insgesamt ist es heute etwas ruhiger

@@ -1,0 +1,7 @@
+BEGIN: 2019-09-09
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Der 3D-Drucker wird gefixt
+  * Der pile of shame ist weg O.o

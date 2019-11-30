@@ -1,0 +1,9 @@
+BEGIN: 2019-04-17
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * Erster Termin für Einführung in die Arbeit mit dem [[tools:lasercutter-nova-35|Laser]]
+  * Weitere Termine folgen und man kann sich [[https://pad.binary-kitchen.de/2mCrTTz3Ri6-q68P6EkQjA#|hier]] anmelden
+  * Stuhl wird lackiert
+  * Gegen den Hunger gibt es eine Brotzeit

@@ -1,0 +1,8 @@
+BEGIN: 2019-07-13
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * In der Werkstatt werden [[projekte:siebdruckbaenke:start|Bänke]] und Sessel gefräst
+  * Es werden Netzwerkprobleme des [[infra:xerox_workcentre_7125|Druckers]] sowie des [[projekte:hausautomatisierung:openhab:display|Touchscreens]] behoben
+  * Der Spuk der Sonoffs wird gedebugged und der Fehler in der Konfiguration eines AccessPoints gefunden

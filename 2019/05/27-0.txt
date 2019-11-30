@@ -1,0 +1,7 @@
+BEGIN: 2019-05-27
+END: None
+TOPIC: Küchenzeit
+APPENDIX: None
+
+  * in der Werkstatt wird ein Fahrrad repariert
+  * aus lauter Dekadenz gibt es heute Schoko- und Tatonka-Pudding und aus dem restlichen Eiweiß wird Baiser gebacken
